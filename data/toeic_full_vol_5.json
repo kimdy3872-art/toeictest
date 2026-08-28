@@ -1,0 +1,2854 @@
+{
+  "exam_metadata": {
+    "session": 5,
+    "title": "TOEIC Full Practice Test - Vol.5",
+    "total_questions": 200
+  },
+  "lc": {
+    "part1": [
+      {
+        "id": "LC1-01",
+        "image_description": "회의실에서 신제품 마케팅 전략 포스터를 가리키는 남자",
+        "image_prompt": "A man points at a launch poster while colleagues sit and listen in a meeting room",
+        "audio_script": "(A) He is hanging a picture on the wall.\n(B) He is pointing at a display board.\n(C) They are putting away their laptops.\n(D) They are leaving the conference room.",
+        "options": {
+          "A": "He is hanging a picture on the wall.",
+          "B": "He is pointing at a display board.",
+          "C": "They are putting away their laptops.",
+          "D": "They are leaving the conference room."
+        },
+        "answer": "B",
+        "explanation": "남자가 회의실에서 포스터를 가리키고 있으므로 (B)가 정답입니다."
+      },
+      {
+        "id": "LC1-02",
+        "image_description": "호텔 프론트 데스크에서 직원이 예약 내역을 확인하는 모습",
+        "image_prompt": "A hotel receptionist is looking at a computer monitor while a guest stands at the counter",
+        "audio_script": "(A) The guest is holding a room key.\n(B) The receptionist is handing out a receipt.\n(C) A woman is carrying luggage into the lobby.\n(D) A worker is checking information on a computer.",
+        "options": {
+          "A": "The guest is holding a room key.",
+          "B": "The receptionist is handing out a receipt.",
+          "C": "A woman is carrying luggage into the lobby.",
+          "D": "A worker is checking information on a computer."
+        },
+        "answer": "D",
+        "explanation": "직원이 컴퓨터 모니터를 보며 예약 내역을 확인하고 있으므로 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-03",
+        "image_description": "직원들이 책상에 앉아 인사 평가 관련 문서를 검토하는 모습",
+        "image_prompt": "Office workers are sitting at a desk reviewing a stack of documents together",
+        "audio_script": "(A) They are looking over some papers.\n(B) They are rearranging the desks.\n(C) They are taking a coffee break.\n(D) They are turning off the lights.",
+        "options": {
+          "A": "They are looking over some papers.",
+          "B": "They are rearranging the desks.",
+          "C": "They are taking a coffee break.",
+          "D": "They are turning off the lights."
+        },
+        "answer": "A",
+        "explanation": "문서를 검토하는 모습이므로 '서류를 살펴보고 있다'는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-04",
+        "image_description": "야외 카페에서 커피를 마시며 대화하는 두 사람",
+        "image_prompt": "Two people are chatting over coffee at an outdoor cafe patio",
+        "audio_script": "(A) They are reading a menu.\n(B) They are paying for their meal.\n(C) They are having a conversation outdoors.\n(D) They are folding the patio umbrellas.",
+        "options": {
+          "A": "They are reading a menu.",
+          "B": "They are paying for their meal.",
+          "C": "They are having a conversation outdoors.",
+          "D": "They are folding the patio umbrellas."
+        },
+        "answer": "C",
+        "explanation": "야외에서 대화하고 있는 상황이므로 (C)가 정답입니다."
+      },
+      {
+        "id": "LC1-05",
+        "image_description": "창고에서 지게차로 상자를 운반하는 작업자",
+        "image_prompt": "A warehouse worker is driving a forklift carrying cardboard boxes",
+        "audio_script": "(A) A worker is sweeping the floor.\n(B) Boxes are being stacked on the shelves.\n(C) A vehicle is being repaired in a garage.\n(D) A machine is moving some packages.",
+        "options": {
+          "A": "A worker is sweeping the floor.",
+          "B": "Boxes are being stacked on the shelves.",
+          "C": "A vehicle is being repaired in a garage.",
+          "D": "A machine is moving some packages."
+        },
+        "answer": "D",
+        "explanation": "지게차를 이용해 상자를 옮기고 있으므로 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-06",
+        "image_description": "공사 현장에서 안전모를 쓰고 도면을 살펴보는 건축가",
+        "image_prompt": "An architect wearing a hard hat is examining blueprints at a construction site",
+        "audio_script": "(A) A fence is being built around a building.\n(B) Materials are being loaded onto a truck.\n(C) A road is being paved with asphalt.\n(D) A man is reviewing some construction plans.",
+        "options": {
+          "A": "A fence is being built around a building.",
+          "B": "Materials are being loaded onto a truck.",
+          "C": "A road is being paved with asphalt.",
+          "D": "A man is reviewing some construction plans."
+        },
+        "answer": "D",
+        "explanation": "안전모를 쓰고 도면을 확인하는 모습이므로 (D)가 정답입니다."
+      }
+    ],
+    "part2": [
+      {
+        "id": "LC2-01",
+        "audio_script": "When will the new performance review system be introduced?\n(A) Mostly positive feedback.\n(B) By the end of this month.\n(C) It's a revised manual.",
+        "options": {
+          "A": "Mostly positive feedback.",
+          "B": "By the end of this month.",
+          "C": "It's a revised manual."
+        },
+        "answer": "B",
+        "explanation": "When 의문문이므로 시점을 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-02",
+        "audio_script": "Who is leading the new product marketing strategy meeting?\n(A) Yes, in room 402.\n(B) The marketing director.\n(C) A new product line.",
+        "options": {
+          "A": "Yes, in room 402.",
+          "B": "The marketing director.",
+          "C": "A new product line."
+        },
+        "answer": "B",
+        "explanation": "Who 의문문이므로 사람을 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-03",
+        "audio_script": "Could you confirm my hotel reservation for next Tuesday?\n(A) A double room, please.\n(B) It takes about two hours.\n(C) Certainly, let me check the system.",
+        "options": {
+          "A": "A double room, please.",
+          "B": "It takes about two hours.",
+          "C": "Certainly, let me check the system."
+        },
+        "answer": "C",
+        "explanation": "예약 확인 요청에 대해 수락하는 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-04",
+        "audio_script": "Why was the software update delayed?\n(A) We found a critical bug.\n(B) Yes, update it today.\n(C) On the main server.",
+        "options": {
+          "A": "We found a critical bug.",
+          "B": "Yes, update it today.",
+          "C": "On the main server."
+        },
+        "answer": "A",
+        "explanation": "Why 의문문이므로 이유를 설명하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-05",
+        "audio_script": "Where should I submit my expense report?\n(A) To the accounting department.\n(B) It was very expensive.\n(C) Before Friday afternoon.",
+        "options": {
+          "A": "To the accounting department.",
+          "B": "It was very expensive.",
+          "C": "Before Friday afternoon."
+        },
+        "answer": "A",
+        "explanation": "Where 의문문이므로 장소(부서)를 나타내는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-06",
+        "audio_script": "How do I log into the employee portal?\n(A) Use your company email address.\n(B) An orientation session.\n(C) No, the portal is closed.",
+        "options": {
+          "A": "Use your company email address.",
+          "B": "An orientation session.",
+          "C": "No, the portal is closed."
+        },
+        "answer": "A",
+        "explanation": "How 의문문이므로 방법을 설명하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-07",
+        "audio_script": "Have you seen the finalized budget for Q3?\n(A) He is the new finance manager.\n(B) Yes, Sarah emailed it this morning.\n(C) I'll buy a new one.",
+        "options": {
+          "A": "He is the new finance manager.",
+          "B": "Yes, Sarah emailed it this morning.",
+          "C": "I'll buy a new one."
+        },
+        "answer": "B",
+        "explanation": "예산을 보았는지 묻는 질문에 대해 긍정하고 출처를 밝힌 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-08",
+        "audio_script": "Would you rather take a taxi or the subway to the airport?\n(A) Let's take the subway to avoid traffic.\n(B) The flight departs at 9 AM.\n(C) I need to book a ticket.",
+        "options": {
+          "A": "Let's take the subway to avoid traffic.",
+          "B": "The flight departs at 9 AM.",
+          "C": "I need to book a ticket."
+        },
+        "answer": "A",
+        "explanation": "선택 의문문에 대해 구체적인 선택을 하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-09",
+        "audio_script": "The printer is out of toner again.\n(A) I'll order a replacement right away.\n(B) It was printed in color.\n(C) About ten copies.",
+        "options": {
+          "A": "I'll order a replacement right away.",
+          "B": "It was printed in color.",
+          "C": "About ten copies."
+        },
+        "answer": "A",
+        "explanation": "평서문에 대한 적절한 대응인 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-10",
+        "audio_script": "Isn't the client presentation scheduled for tomorrow?\n(A) A successful campaign.\n(B) No, it was moved to next week.\n(C) In the downtown office.",
+        "options": {
+          "A": "A successful campaign.",
+          "B": "No, it was moved to next week.",
+          "C": "In the downtown office."
+        },
+        "answer": "B",
+        "explanation": "부정 의문문에 대해 사실관계를 정정하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-11",
+        "audio_script": "Which caterer did we use for the last company dinner?\n(A) Chicken and pasta.\n(B) It was a great event.\n(C) We hired Green Leaf Catering.",
+        "options": {
+          "A": "Chicken and pasta.",
+          "B": "It was a great event.",
+          "C": "We hired Green Leaf Catering."
+        },
+        "answer": "C",
+        "explanation": "Which 의문문에 대해 업체를 명시하는 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-12",
+        "audio_script": "Do you have time to review this press release now?\n(A) I have a meeting in five minutes.\n(B) It was released yesterday.\n(C) The local newspaper.",
+        "options": {
+          "A": "I have a meeting in five minutes.",
+          "B": "It was released yesterday.",
+          "C": "The local newspaper."
+        },
+        "answer": "A",
+        "explanation": "시간이 있는지 묻는 질문에 거절의 이유를 간접적으로 밝히는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-13",
+        "audio_script": "How much does it cost to renew the software license?\n(A) It's $50 per user.\n(B) An annual subscription.\n(C) By credit card.",
+        "options": {
+          "A": "It's $50 per user.",
+          "B": "An annual subscription.",
+          "C": "By credit card."
+        },
+        "answer": "A",
+        "explanation": "비용을 묻는 질문에 구체적인 금액을 제시하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-14",
+        "audio_script": "Are you going to the trade show in Chicago or staying here?\n(A) Yes, I like Chicago.\n(B) I'm staying at the office.\n(C) A new product launch.",
+        "options": {
+          "A": "Yes, I like Chicago.",
+          "B": "I'm staying at the office.",
+          "C": "A new product launch."
+        },
+        "answer": "B",
+        "explanation": "선택 의문문에 대해 명확히 선택을 밝히는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-15",
+        "audio_script": "Who is in charge of organizing the team building event?\n(A) Outside in the park.\n(B) Next Friday afternoon.\n(C) Mr. Davis volunteered to do it.",
+        "options": {
+          "A": "Outside in the park.",
+          "B": "Next Friday afternoon.",
+          "C": "Mr. Davis volunteered to do it."
+        },
+        "answer": "C",
+        "explanation": "Who 의문문에 대해 담당자를 밝히는 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-16",
+        "audio_script": "You sent the contract to the client, didn't you?\n(A) No, I'm still waiting for legal's approval.\n(B) It's a three-year deal.\n(C) The client is very happy.",
+        "options": {
+          "A": "No, I'm still waiting for legal's approval.",
+          "B": "It's a three-year deal.",
+          "C": "The client is very happy."
+        },
+        "answer": "A",
+        "explanation": "부가 의문문에 대해 아직 보내지 못했다고 답변하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-17",
+        "audio_script": "Why is the lobby so crowded today?\n(A) A job interview.\n(B) There's a major conference going on.\n(C) On the first floor.",
+        "options": {
+          "A": "A job interview.",
+          "B": "There's a major conference going on.",
+          "C": "On the first floor."
+        },
+        "answer": "B",
+        "explanation": "Why 의문문에 대해 이유를 설명하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-18",
+        "audio_script": "Let's discuss the new performance evaluation metrics after lunch.\n(A) A higher score.\n(B) Sure, come by my office at 2 PM.\n(C) It was a good lunch.",
+        "options": {
+          "A": "A higher score.",
+          "B": "Sure, come by my office at 2 PM.",
+          "C": "It was a good lunch."
+        },
+        "answer": "B",
+        "explanation": "제안에 대해 동의하고 구체적인 시간과 장소를 정하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-19",
+        "audio_script": "Can you check if my hotel reservation includes breakfast?\n(A) Yes, it's a buffet style.\n(B) I'd like a double room.\n(C) Let me log into the booking system.\n",
+        "options": {
+          "A": "Yes, it's a buffet style.",
+          "B": "I'd like a double room.",
+          "C": "Let me log into the booking system."
+        },
+        "answer": "C",
+        "explanation": "요청에 대해 확인해보겠다는 의지를 밝힌 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-20",
+        "audio_script": "What time does the last train to Boston leave?\n(A) From platform 4.\n(B) At 11:15 PM.\n(C) About three hours.",
+        "options": {
+          "A": "From platform 4.",
+          "B": "At 11:15 PM.",
+          "C": "About three hours."
+        },
+        "answer": "B",
+        "explanation": "What time 의문문에 대해 시각을 알려주는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-21",
+        "audio_script": "Has the marketing campaign for the new smartphone been launched yet?\n(A) It starts next Monday.\n(B) A very smart device.\n(C) Over 10,000 units.",
+        "options": {
+          "A": "It starts next Monday.",
+          "B": "A very smart device.",
+          "C": "Over 10,000 units."
+        },
+        "answer": "A",
+        "explanation": "현재 완료 의문문에 대해 아직 시작되지 않았음을 밝히는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-22",
+        "audio_script": "Should we hire more temporary staff for the holiday season?\n(A) A holiday party.\n(B) I think we have enough people.\n(C) From an agency.",
+        "options": {
+          "A": "A holiday party.",
+          "B": "I think we have enough people.",
+          "C": "From an agency."
+        },
+        "answer": "B",
+        "explanation": "제안에 대해 의견을 제시하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-23",
+        "audio_script": "I lost my ID badge this morning.\n(A) You should report it to security immediately.\n(B) In the top drawer.\n(C) A new employee.",
+        "options": {
+          "A": "You should report it to security immediately.",
+          "B": "In the top drawer.",
+          "C": "A new employee."
+        },
+        "answer": "A",
+        "explanation": "문제 상황에 대해 조언을 제공하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-24",
+        "audio_script": "How long has Mr. Chen been the regional director?\n(A) About 500 miles.\n(B) For nearly five years.\n(C) Yes, he is.",
+        "options": {
+          "A": "About 500 miles.",
+          "B": "For nearly five years.",
+          "C": "Yes, he is."
+        },
+        "answer": "B",
+        "explanation": "기간을 묻는 How long 질문에 답하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-25",
+        "audio_script": "Do you know where the extra staples are kept?\n(A) They are in the supply closet on the second shelf.\n(B) It's a staple diet.\n(C) Please staple these documents.",
+        "options": {
+          "A": "They are in the supply closet on the second shelf.",
+          "B": "It's a staple diet.",
+          "C": "Please staple these documents."
+        },
+        "answer": "A",
+        "explanation": "위치를 묻는 질문에 정확한 장소를 알려주는 (A)가 정답입니다."
+      }
+    ],
+    "part3": [
+      {
+        "set_id": "LC3-SET01",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "M: Hi Sarah, have you read the memo about the new performance review system being introduced next quarter?\nW: Yes, I have. It seems they are putting more emphasis on continuous feedback rather than just annual ratings. I think it's a good change, but some team members are worried about the extra paperwork.\nM: Exactly. That's why I suggested to HR that we hold a brief training session next week to show everyone how to use the new software portal for logging feedback. It's actually quite simple.\nW: That's a relief. I'll make sure to remind my department to attend that session. When is it scheduled for?\nM: Thursday at 10 AM in the main conference room. I'll send out calendar invites this afternoon.",
+        "questions": [
+          {
+            "id": "LC3-01-1",
+            "question": "What is the main topic of the conversation?",
+            "options": {
+              "A": "A new product launch",
+              "B": "A performance review system",
+              "C": "An office relocation",
+              "D": "A hiring process"
+            },
+            "answer": "B",
+            "explanation": "초반에 새로운 인사 평가 시스템(performance review system) 도입에 대해 이야기하고 있습니다."
+          },
+          {
+            "id": "LC3-01-2",
+            "question": "What concern does the woman mention?",
+            "options": {
+              "A": "A lack of budget",
+              "B": "Computer system errors",
+              "C": "Extra paperwork",
+              "D": "Low attendance rates"
+            },
+            "answer": "C",
+            "explanation": "여자는 팀원들이 추가 서류 작업(extra paperwork)을 걱정한다고 언급했습니다."
+          },
+          {
+            "id": "LC3-01-3",
+            "question": "What will the man do this afternoon?",
+            "options": {
+              "A": "Send out calendar invites",
+              "B": "Update a software program",
+              "C": "Interview a candidate",
+              "D": "Meet with HR directors"
+            },
+            "answer": "A",
+            "explanation": "남자는 오후에 캘린더 초대장(calendar invites)을 보낼 것이라고 말했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET02",
+        "context_type": "Marketing Meeting",
+        "speakers": [
+          {
+            "name": "W1",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W1: Alright team, let's discuss the marketing strategy for our new smart watch. We need to finalize the target demographic before we approve the advertising budget.\nM: I think we should focus on fitness enthusiasts. The watch has advanced health tracking features that our competitors lack. We could partner with fitness influencers on social media.\nW1: That's a great idea, but we also want to appeal to young professionals who need seamless connectivity with their phones. Maybe we can run two separate campaigns.\nM: True. If we do that, we'll need to increase the digital ad budget by at least twenty percent. Should I draft a revised budget proposal for the board?\nW1: Yes, please do. And have it ready by Friday so we can review it before the board meeting on Monday.",
+        "questions": [
+          {
+            "id": "LC3-02-1",
+            "question": "What product are the speakers discussing?",
+            "options": {
+              "A": "A fitness application",
+              "B": "A smart watch",
+              "C": "A mobile phone",
+              "D": "A laptop computer"
+            },
+            "answer": "B",
+            "explanation": "새로운 스마트 워치(smart watch)에 대한 마케팅 전략을 논의하고 있습니다."
+          },
+          {
+            "id": "LC3-02-2",
+            "question": "What does the man suggest doing?",
+            "options": {
+              "A": "Partnering with influencers",
+              "B": "Lowering the product price",
+              "C": "Redesigning the logo",
+              "D": "Opening a new store"
+            },
+            "answer": "A",
+            "explanation": "남자는 피트니스 인플루언서들과 협력(partner with fitness influencers)하자고 제안합니다."
+          },
+          {
+            "id": "LC3-02-3",
+            "question": "What is the man asked to do by Friday?",
+            "options": {
+              "A": "Hire a new designer",
+              "B": "Draft a budget proposal",
+              "C": "Contact the press",
+              "D": "Purchase advertising space"
+            },
+            "answer": "B",
+            "explanation": "여자는 남자에게 금요일까지 수정된 예산안(budget proposal) 초안을 작성하라고 요청합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET03",
+        "context_type": "Hotel Reception",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Hello, I'm calling to confirm my hotel reservation for next Wednesday. The name is David Miller. I booked a standard room, but I was wondering if it's possible to upgrade to a room with a city view.\nW: Let me check our system, Mr. Miller. Ah, yes, I see your reservation. We do have a city view room available for those dates. However, there is an additional charge of thirty dollars per night for the upgrade.\nM: That's fine, I'll take it. Also, does the hotel provide a shuttle service from the airport?\nW: Yes, we run a shuttle every hour on the hour. You don't need to book it in advance. Just look for the van with our hotel logo outside the arrivals terminal.",
+        "questions": [
+          {
+            "id": "LC3-03-1",
+            "question": "Why is the man calling?",
+            "options": {
+              "A": "To cancel a flight",
+              "B": "To request a room upgrade",
+              "C": "To pay a bill",
+              "D": "To apply for a job"
+            },
+            "answer": "B",
+            "explanation": "남자는 객실 업그레이드가 가능한지(upgrade to a room with a city view) 묻기 위해 전화했습니다."
+          },
+          {
+            "id": "LC3-03-2",
+            "question": "What is the policy for the upgrade?",
+            "options": {
+              "A": "It is completely free.",
+              "B": "It requires an extra fee.",
+              "C": "It is currently unavailable.",
+              "D": "It must be approved by a manager."
+            },
+            "answer": "B",
+            "explanation": "여자는 업그레이드에 추가 비용(additional charge)이 발생한다고 말했습니다."
+          },
+          {
+            "id": "LC3-03-3",
+            "question": "What does the woman say about the shuttle service?",
+            "options": {
+              "A": "It only runs in the morning.",
+              "B": "It costs ten dollars.",
+              "C": "It must be booked in advance.",
+              "D": "It departs every hour."
+            },
+            "answer": "D",
+            "explanation": "여자는 셔틀이 매시간 정각에(every hour on the hour) 운행된다고 설명했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET04",
+        "context_type": "IT Support",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W: IT support, this is Lisa speaking. How can I help you?\nM: Hi Lisa, this is Robert from accounting. I'm trying to log into the new payroll system, but my password keeps getting rejected. I need to process employee salaries by noon today.\nW: I'm sorry to hear that, Robert. We did a system update last night, and it seems to have reset some user credentials. I can send a temporary password to your email right now.\nM: Oh, I see. Yes, please do that. And will I be forced to create a new permanent password immediately after logging in?\nW: Yes, the system will prompt you to update it for security reasons. Give it a try, and call back if you still have issues.",
+        "questions": [
+          {
+            "id": "LC3-04-1",
+            "question": "What problem is the man experiencing?",
+            "options": {
+              "A": "He lost a file.",
+              "B": "His computer won't turn on.",
+              "C": "He cannot access a system.",
+              "D": "His internet connection is slow."
+            },
+            "answer": "C",
+            "explanation": "남자는 새 급여 시스템에 로그인할 수 없는 문제(password keeps getting rejected)를 겪고 있습니다."
+          },
+          {
+            "id": "LC3-04-2",
+            "question": "What does the man need to do by noon?",
+            "options": {
+              "A": "Submit a report",
+              "B": "Process salaries",
+              "C": "Attend a meeting",
+              "D": "Fix a printer"
+            },
+            "answer": "B",
+            "explanation": "남자는 정오까지 직원 급여를 처리해야 한다고(process employee salaries) 말합니다."
+          },
+          {
+            "id": "LC3-04-3",
+            "question": "What will the woman send to the man?",
+            "options": {
+              "A": "A software update link",
+              "B": "A user manual",
+              "C": "An invoice",
+              "D": "A temporary password"
+            },
+            "answer": "D",
+            "explanation": "여자는 임시 비밀번호(temporary password)를 이메일로 보내주겠다고 합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET05",
+        "context_type": "Logistics Planning",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Have the shipping arrangements for the new furniture line been finalized? The launch is only two weeks away.\nW: Not entirely. We have secured the trucks for domestic deliveries, but we're still negotiating rates with the international freight company. They increased their prices recently.\nM: That's problematic. If shipping costs are too high, it will cut into our profit margins significantly. Could we look for an alternative provider?\nW: I've already reached out to two other companies for quotes. They promised to get back to me by tomorrow. Once I have their numbers, I'll put together a comparison chart for us to review.",
+        "questions": [
+          {
+            "id": "LC3-05-1",
+            "question": "What is the conversation mainly about?",
+            "options": {
+              "A": "A store renovation",
+              "B": "Shipping arrangements",
+              "C": "Hiring truck drivers",
+              "D": "Furniture design"
+            },
+            "answer": "B",
+            "explanation": "가구 배송 일정과 비용 등 물류 배송 준비(shipping arrangements)에 대한 논의입니다."
+          },
+          {
+            "id": "LC3-05-2",
+            "question": "What problem does the woman mention?",
+            "options": {
+              "A": "Items were damaged in transit.",
+              "B": "A delivery was sent to the wrong address.",
+              "C": "International freight rates have increased.",
+              "D": "A truck broke down."
+            },
+            "answer": "C",
+            "explanation": "국제 화물 회사가 최근 가격을 인상했다(increased their prices)고 여자가 언급합니다."
+          },
+          {
+            "id": "LC3-05-3",
+            "question": "What will the woman likely do tomorrow?",
+            "options": {
+              "A": "Sign a contract",
+              "B": "Review quotes from other companies",
+              "C": "Visit a warehouse",
+              "D": "Cancel a launch event"
+            },
+            "answer": "B",
+            "explanation": "여자는 내일 다른 업체들의 견적을 받아 비교표를 만들 예정(review quotes)입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET06",
+        "context_type": "Restaurant Operations",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W: Tom, we've had several complaints about the wait times this evening. What's causing the delay in the kitchen?\nM: Two of our prep cooks called in sick today, so we are really short-staffed. Plus, we've received an unusually high number of large group orders.\nW: I understand, but we can't let the service suffer. Can you offer the waiting customers some complimentary appetizers to keep them happy?\nM: That's a good idea. I'll have the staff start bringing out some garlic bread and bruschetta right away. I'll also help out in the kitchen myself to speed things up.",
+        "questions": [
+          {
+            "id": "LC3-06-1",
+            "question": "Where does the conversation most likely take place?",
+            "options": {
+              "A": "At a supermarket",
+              "B": "At a restaurant",
+              "C": "At a hospital",
+              "D": "At a call center"
+            },
+            "answer": "B",
+            "explanation": "주방, 요리사, 고객 대기 시간 등을 언급하므로 식당(restaurant)입니다."
+          },
+          {
+            "id": "LC3-06-2",
+            "question": "Why are there delays?",
+            "options": {
+              "A": "The oven is broken.",
+              "B": "Some staff members are absent.",
+              "C": "They ran out of ingredients.",
+              "D": "The menu is too complicated."
+            },
+            "answer": "B",
+            "explanation": "준비 요리사 두 명이 결근(called in sick)하여 직원이 부족하다고 합니다."
+          },
+          {
+            "id": "LC3-06-3",
+            "question": "What will the man do next?",
+            "options": {
+              "A": "Call a repair technician",
+              "B": "Issue refunds to customers",
+              "C": "Provide complimentary food",
+              "D": "Hire new cooks"
+            },
+            "answer": "C",
+            "explanation": "남자는 대기 고객에게 무료 애피타이저(complimentary food)를 제공하겠다고 합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET07",
+        "context_type": "Real Estate",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "M: Hi, I'm calling about the commercial office space listed for rent on Elm Street. Is it still available?\nW: Yes, it is. It's a great space, about two thousand square feet, and it was recently renovated. Are you looking to open a retail store or a standard office?\nM: A standard office. My accounting firm is expanding, and we need more room for our growing team. Does the building have dedicated parking for tenants?\nW: Yes, there is an underground garage with designated spots. If you'd like, I can show you the property tomorrow afternoon at 2 PM.",
+        "questions": [
+          {
+            "id": "LC3-07-1",
+            "question": "What is the man inquiring about?",
+            "options": {
+              "A": "A job opening",
+              "B": "A residential apartment",
+              "C": "Commercial office space",
+              "D": "A parking permit"
+            },
+            "answer": "C",
+            "explanation": "상업용 사무실 공간(commercial office space) 임대에 대해 묻고 있습니다."
+          },
+          {
+            "id": "LC3-07-2",
+            "question": "What type of business does the man operate?",
+            "options": {
+              "A": "A clothing boutique",
+              "B": "An accounting firm",
+              "C": "A restaurant",
+              "D": "A dental clinic"
+            },
+            "answer": "B",
+            "explanation": "남자는 자신의 회계 법인(accounting firm)이 확장 중이라고 말합니다."
+          },
+          {
+            "id": "LC3-07-3",
+            "question": "What will the speakers most likely do tomorrow?",
+            "options": {
+              "A": "Sign a lease agreement",
+              "B": "View a property",
+              "C": "Meet for lunch",
+              "D": "Review financial documents"
+            },
+            "answer": "B",
+            "explanation": "여자가 내일 오후 2시에 건물을 보여주겠다고 제안했으므로 부동산을 구경(View a property)할 것입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET08",
+        "context_type": "Conference Planning",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W: I'm concerned about the keynote speaker for our tech conference next month. Dr. Evans just called and said he might have a scheduling conflict.\nM: Oh no, that's not good. He is the main draw for many of our attendees. Did he say if it was certain?\nW: Not yet. He'll confirm by the end of the week. But we should definitely have a backup plan. Do you know anyone else who could speak on artificial intelligence?\nM: I know Professor Martinez from the university. She recently published a paper on the topic and is a great public speaker. I'll reach out to her today just in case we need her.",
+        "questions": [
+          {
+            "id": "LC3-08-1",
+            "question": "What are the speakers discussing?",
+            "options": {
+              "A": "A budget deficit",
+              "B": "A potential problem with a speaker",
+              "C": "Venue selection",
+              "D": "Catering options"
+            },
+            "answer": "B",
+            "explanation": "기조 연설자의 일정 충돌 가능성이라는 문제(potential problem with a speaker)를 논의하고 있습니다."
+          },
+          {
+            "id": "LC3-08-2",
+            "question": "When will Dr. Evans confirm his availability?",
+            "options": {
+              "A": "Today",
+              "B": "Tomorrow",
+              "C": "By the end of the week",
+              "D": "Next month"
+            },
+            "answer": "C",
+            "explanation": "여자가 그가 이번 주말까지(by the end of the week) 확정할 것이라고 말했습니다."
+          },
+          {
+            "id": "LC3-08-3",
+            "question": "What will the man do today?",
+            "options": {
+              "A": "Publish a paper",
+              "B": "Cancel the conference",
+              "C": "Contact a backup speaker",
+              "D": "Book a flight"
+            },
+            "answer": "C",
+            "explanation": "만약을 대비해 마르티네즈 교수에게 연락(reach out to her)하겠다고 하므로 대타 연설자에게 연락하는 것입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET09",
+        "context_type": "Manufacturing",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: The assembly line has been halted for over an hour. Do you know what the issue is?\nW: Yes, one of the robotic arms in the packaging section malfunctioned. The maintenance team is looking at it now, but they said it might need a replacement part.\nM: We can't afford a long delay. We have a massive shipment due to leave for the distributor tomorrow morning. How long will the repair take?\nW: They estimate about three hours if they have the part in the warehouse. I've asked the shift supervisor to see if we can manually package some units in the meantime to keep things moving.",
+        "questions": [
+          {
+            "id": "LC3-09-1",
+            "question": "Where does the conversation take place?",
+            "options": {
+              "A": "At a car dealership",
+              "B": "At a manufacturing plant",
+              "C": "At an electronics store",
+              "D": "At a post office"
+            },
+            "answer": "B",
+            "explanation": "조립 라인, 포장 구역의 로봇 팔 등을 언급하므로 제조 공장(manufacturing plant)입니다."
+          },
+          {
+            "id": "LC3-09-2",
+            "question": "What is the problem?",
+            "options": {
+              "A": "A machine is broken.",
+              "B": "Workers are on strike.",
+              "C": "Inventory is missing.",
+              "D": "The power went out."
+            },
+            "answer": "A",
+            "explanation": "로봇 팔이 오작동(malfunctioned)하여 기계가 고장 난 상황입니다."
+          },
+          {
+            "id": "LC3-09-3",
+            "question": "What temporary solution did the woman suggest?",
+            "options": {
+              "A": "Delaying the shipment",
+              "B": "Packaging items manually",
+              "C": "Using a different delivery company",
+              "D": "Calling a third-party repair service"
+            },
+            "answer": "B",
+            "explanation": "여자는 수동으로 제품을 포장(manually package some units)하자고 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET10",
+        "context_type": "Job Interview",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "M: Thanks for coming in today, Emily. We were very impressed with your portfolio, especially the graphic design work you did for the health campaign last year.\nW: Thank you. I really enjoyed that project. Designing materials that communicate complex health information simply is a passion of mine.\nM: That's exactly the skill set we need for our new marketing team. We are launching a line of organic supplements. Are you comfortable leading a small team of junior designers?\nW: Absolutely. In my previous role, I mentored two interns and managed their daily tasks, so I have experience with team leadership.",
+        "questions": [
+          {
+            "id": "LC3-10-1",
+            "question": "Why is the woman at the office?",
+            "options": {
+              "A": "To sell a product",
+              "B": "To apply for a job",
+              "C": "To review a contract",
+              "D": "To get medical advice"
+            },
+            "answer": "B",
+            "explanation": "포트폴리오와 경험을 이야기하는 면접 상황이므로 구직(apply for a job)을 위함입니다."
+          },
+          {
+            "id": "LC3-10-2",
+            "question": "What impressed the man?",
+            "options": {
+              "A": "The woman's educational background",
+              "B": "The woman's graphic design portfolio",
+              "C": "The woman's public speaking skills",
+              "D": "The woman's references"
+            },
+            "answer": "B",
+            "explanation": "남자는 여자의 포트폴리오, 특히 건강 캠페인을 위한 그래픽 디자인 작업(graphic design work)이 인상 깊었다고 말합니다."
+          },
+          {
+            "id": "LC3-10-3",
+            "question": "What does the woman say she has experience doing?",
+            "options": {
+              "A": "Managing a budget",
+              "B": "Writing software code",
+              "C": "Mentoring junior staff",
+              "D": "Organizing trade shows"
+            },
+            "answer": "C",
+            "explanation": "여자는 인턴들을 멘토링하고 업무를 관리한 경험(mentored two interns)이 있다고 답합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET11",
+        "context_type": "Travel Agency",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W: Good morning, Apex Travel. How can I assist you?\nM: Hi, I'm trying to book a flight to Tokyo for the 15th of next month, returning on the 22nd. I need to keep the ticket price under eight hundred dollars. Are there any direct flights available in that range?\nW: Let me pull up the schedule. Hmmm, unfortunately, the direct flights are currently pricing around one thousand dollars. However, if you are willing to take a flight with a short layover in Seattle, I can get you a ticket for seven hundred and fifty dollars.\nM: A layover is fine, as long as it's not too long. I don't want to spend half my day waiting in an airport. Please go ahead and book that one for me.",
+        "questions": [
+          {
+            "id": "LC3-11-1",
+            "question": "Where does the woman work?",
+            "options": {
+              "A": "At an airline counter",
+              "B": "At a travel agency",
+              "C": "At a hotel desk",
+              "D": "At a bus terminal"
+            },
+            "answer": "B",
+            "explanation": "여자가 자신을 'Apex Travel' 소속으로 소개하므로 여행사(travel agency) 직원입니다."
+          },
+          {
+            "id": "LC3-11-2",
+            "question": "What requirement does the man have for his ticket?",
+            "options": {
+              "A": "It must be a direct flight.",
+              "B": "It must depart in the morning.",
+              "C": "It must cost less than $800.",
+              "D": "It must be a first-class seat."
+            },
+            "answer": "C",
+            "explanation": "남자는 티켓 가격을 800달러 미만(under eight hundred dollars)으로 유지해야 한다고 말합니다."
+          },
+          {
+            "id": "LC3-11-3",
+            "question": "What does the man agree to do?",
+            "options": {
+              "A": "Change his travel dates",
+              "B": "Pay a higher fare",
+              "C": "Take a flight with a layover",
+              "D": "Travel by train instead"
+            },
+            "answer": "C",
+            "explanation": "남자는 짧은 경유(short layover)가 있는 항공편을 예약하겠다고 동의합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET12",
+        "context_type": "Bank Inquiry",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Hello, I noticed a strange charge on my corporate credit card statement this morning. There is a fee of fifty dollars for 'annual maintenance' that I wasn't aware of.\nW: I apologize for the confusion. Let me pull up your account. Can you provide the last four digits of the card number?\nM: It's 4-9-2-0. I thought our company account was exempt from annual fees according to our new contract signed in January.\nW: You are absolutely right. That charge was applied in error by our automated system. I will reverse the fifty-dollar fee immediately, and it should reflect on your account within 24 hours.",
+        "questions": [
+          {
+            "id": "LC3-12-1",
+            "question": "Why is the man calling?",
+            "options": {
+              "A": "To open a new account",
+              "B": "To report a lost credit card",
+              "C": "To ask about an unexpected charge",
+              "D": "To apply for a loan"
+            },
+            "answer": "C",
+            "explanation": "명세서에 이상한 청구 내역(strange charge)이 있어 전화했습니다."
+          },
+          {
+            "id": "LC3-12-2",
+            "question": "What information does the woman ask for?",
+            "options": {
+              "A": "An account password",
+              "B": "The last four digits of a card",
+              "C": "The man's home address",
+              "D": "The date of birth"
+            },
+            "answer": "B",
+            "explanation": "여자는 카드 번호 마지막 4자리(last four digits)를 요청합니다."
+          },
+          {
+            "id": "LC3-12-3",
+            "question": "What will the woman do next?",
+            "options": {
+              "A": "Send a new card",
+              "B": "Reverse a fee",
+              "C": "Transfer a call to a manager",
+              "D": "Mail a paper statement"
+            },
+            "answer": "B",
+            "explanation": "여자는 50달러 수수료를 즉시 취소(reverse the fee)하겠다고 말합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET13",
+        "context_type": "Facility Maintenance",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "AU"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W: Brian, the air conditioning unit on the third floor is making a terrible rattling noise. Several employees have complained that it's distracting them from their work.\nM: I noticed that this morning too. I already called the HVAC technicians. They said a fan belt probably needs to be replaced. They are scheduled to come look at it at 3 PM.\nW: Oh, that's right in the middle of a client presentation in the adjacent meeting room. Is there any way they can come earlier, maybe during the lunch hour?\nM: I can call them back and ask, but they seemed pretty booked up today. If they can't come earlier, I might have to turn the unit off entirely during the presentation to keep the noise down.",
+        "questions": [
+          {
+            "id": "LC3-13-1",
+            "question": "What is the problem?",
+            "options": {
+              "A": "A meeting room is too small.",
+              "B": "An air conditioning unit is noisy.",
+              "C": "A window is broken.",
+              "D": "An elevator is out of order."
+            },
+            "answer": "B",
+            "explanation": "3층의 에어컨에서 덜그럭거리는 소음(terrible rattling noise)이 나고 있습니다."
+          },
+          {
+            "id": "LC3-13-2",
+            "question": "What does the woman ask the man to do?",
+            "options": {
+              "A": "Reschedule a client meeting",
+              "B": "Buy a new fan",
+              "C": "Ask technicians to arrive earlier",
+              "D": "Move employees to a different floor"
+            },
+            "answer": "C",
+            "explanation": "여자는 수리 기사들이 점심시간 쯤에 더 일찍 올 수 있는지(come earlier) 물어봐 달라고 합니다."
+          },
+          {
+            "id": "LC3-13-3",
+            "question": "What is the man's alternative plan?",
+            "options": {
+              "A": "To repair the machine himself",
+              "B": "To turn off the equipment",
+              "C": "To provide earplugs to staff",
+              "D": "To cancel the presentation"
+            },
+            "answer": "B",
+            "explanation": "기사들이 일찍 오지 못하면 프레젠테이션 동안 기계를 아예 꺼버리겠다(turn the unit off entirely)고 합니다."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "set_id": "LC4-SET01",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Attention all employees. As you may know, our company is implementing a new performance review system starting next month. The goal is to provide continuous, constructive feedback rather than just relying on end-of-year evaluations. To help everyone get accustomed to the new software portal where reviews will be logged, the HR department is hosting a mandatory training session this Friday at 2:00 PM in the auditorium. Please make sure to bring your laptops, as this will be a hands-on workshop. If you have any urgent conflicts and cannot attend, please email your direct manager by tomorrow.",
+        "questions": [
+          {
+            "id": "LC4-01-1",
+            "question": "What is the purpose of the announcement?",
+            "options": {
+              "A": "To announce a promotion",
+              "B": "To introduce a new policy",
+              "C": "To reschedule a meeting",
+              "D": "To request feedback on a product"
+            },
+            "answer": "B",
+            "explanation": "새로운 인사 평가 시스템(new performance review system) 도입을 알리기 위함입니다."
+          },
+          {
+            "id": "LC4-01-2",
+            "question": "What will happen on Friday?",
+            "options": {
+              "A": "A retirement party",
+              "B": "A facility inspection",
+              "C": "A training session",
+              "D": "An award ceremony"
+            },
+            "answer": "C",
+            "explanation": "금요일 오후 2시에 필수 교육 세션(mandatory training session)이 열립니다."
+          },
+          {
+            "id": "LC4-01-3",
+            "question": "What are listeners asked to bring?",
+            "options": {
+              "A": "A notebook",
+              "B": "A laptop computer",
+              "C": "An employee ID badge",
+              "D": "A printed report"
+            },
+            "answer": "B",
+            "explanation": "실습을 위해 랩톱(laptops)을 지참하라고 요청했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET02",
+        "context_type": "Telephone Message",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Hello, Mr. Harrison. This is Rachel from Sunview Hotel calling to confirm your reservation for the 12th to the 15th of this month. I see you booked a deluxe suite, and you requested a late check-out. I wanted to let you know that we can accommodate the late check-out up to 2 PM at no extra charge. Also, our hotel restaurant is currently undergoing renovations and will be closed during your stay. However, we have partnered with a lovely cafe just across the street where you can enjoy a complimentary breakfast. If you need shuttle service from the airport, please call us back with your flight details.",
+        "questions": [
+          {
+            "id": "LC4-02-1",
+            "question": "Where does the speaker work?",
+            "options": {
+              "A": "At an airport",
+              "B": "At a restaurant",
+              "C": "At a hotel",
+              "D": "At a travel agency"
+            },
+            "answer": "C",
+            "explanation": "Sunview Hotel에서 전화했다고 하므로 호텔 직원입니다."
+          },
+          {
+            "id": "LC4-02-2",
+            "question": "What is mentioned about the hotel restaurant?",
+            "options": {
+              "A": "It is closed for renovations.",
+              "B": "It has a new menu.",
+              "C": "It is fully booked.",
+              "D": "It offers a free dinner."
+            },
+            "answer": "A",
+            "explanation": "호텔 레스토랑이 공사 중이어서 폐쇄되었다(closed)고 합니다."
+          },
+          {
+            "id": "LC4-02-3",
+            "question": "Why should the listener call back?",
+            "options": {
+              "A": "To change room types",
+              "B": "To provide flight details",
+              "C": "To pay a deposit",
+              "D": "To cancel the reservation"
+            },
+            "answer": "B",
+            "explanation": "공항 셔틀이 필요하면 항공편 정보(flight details)를 알려달라고 요청했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET03",
+        "context_type": "Broadcast",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Good morning, city radio listeners. Before we get back to the music, here is a quick traffic update. If you are commuting on Highway 5 this morning, expect major delays. A multi-vehicle accident near the downtown exit has caused two lanes to be closed. Emergency crews are on the scene, but traffic is backed up for at least three miles. We strongly advise drivers to take an alternate route, such as Broad Street or the River Road, to avoid being late for work. We will bring you more updates on this situation at the top of the hour. Now, back to our morning music mix.",
+        "questions": [
+          {
+            "id": "LC4-03-1",
+            "question": "What is the broadcast mainly about?",
+            "options": {
+              "A": "A weather forecast",
+              "B": "A music festival",
+              "C": "A traffic update",
+              "D": "A sports event"
+            },
+            "answer": "C",
+            "explanation": "교통 업데이트(traffic update)에 대한 방송입니다."
+          },
+          {
+            "id": "LC4-03-2",
+            "question": "What caused the delay?",
+            "options": {
+              "A": "Road construction",
+              "B": "A traffic accident",
+              "C": "Heavy rain",
+              "D": "A marathon race"
+            },
+            "answer": "B",
+            "explanation": "다중 추돌 사고(multi-vehicle accident)로 인해 지연이 발생했습니다."
+          },
+          {
+            "id": "LC4-03-3",
+            "question": "What does the speaker advise listeners to do?",
+            "options": {
+              "A": "Take an alternate route",
+              "B": "Use public transportation",
+              "C": "Stay at home",
+              "D": "Call the police"
+            },
+            "answer": "A",
+            "explanation": "우회 도로(alternate route)를 이용할 것을 강력히 권고합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET04",
+        "context_type": "Tour Guide",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Welcome everyone to the historic Greenfield Estate. My name is Jessica, and I will be your guide today. This beautiful mansion was built in 1890 and has been perfectly preserved to show how the founding family lived. We will start our tour in the grand library, which contains over five thousand original books. Please remember that photography is not allowed inside the house to protect the sensitive artifacts from flash damage. After we explore the interior, we will head outside to walk through the famous botanical gardens. Feel free to ask me questions at any point during our walk.",
+        "questions": [
+          {
+            "id": "LC4-04-1",
+            "question": "Who is the speaker?",
+            "options": {
+              "A": "An architect",
+              "B": "A gardener",
+              "C": "A tour guide",
+              "D": "A librarian"
+            },
+            "answer": "C",
+            "explanation": "자신을 가이드(guide)로 소개하며 안내를 시작합니다."
+          },
+          {
+            "id": "LC4-04-2",
+            "question": "What rule must the listeners follow?",
+            "options": {
+              "A": "Do not touch the books.",
+              "B": "Do not take photographs.",
+              "C": "Keep voices low.",
+              "D": "Stay on the path."
+            },
+            "answer": "B",
+            "explanation": "유물 보호를 위해 사진 촬영이 금지된다(photography is not allowed)고 말합니다."
+          },
+          {
+            "id": "LC4-04-3",
+            "question": "What will the group do next?",
+            "options": {
+              "A": "Visit the grand library",
+              "B": "Go to the botanical gardens",
+              "C": "Watch a short video",
+              "D": "Eat lunch"
+            },
+            "answer": "A",
+            "explanation": "투어를 대도서관(grand library)에서 시작할 것이라고 안내합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET05",
+        "context_type": "Introduction",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Good evening, ladies and gentlemen, and welcome to the annual innovation awards banquet. Before we serve dinner, I have the distinct honor of introducing our keynote speaker, Dr. Elena Rostova. Dr. Rostova is a leading expert in renewable energy technologies and has spent the last two decades researching solar panel efficiency. Tonight, she will share insights from her latest book, which outlines the future of sustainable living in urban areas. Following her presentation, there will be a brief question and answer session. Please join me in giving a warm welcome to Dr. Rostova.",
+        "questions": [
+          {
+            "id": "LC4-05-1",
+            "question": "Where is the event taking place?",
+            "options": {
+              "A": "At a university lecture hall",
+              "B": "At an awards banquet",
+              "C": "At a bookstore",
+              "D": "At a laboratory"
+            },
+            "answer": "B",
+            "explanation": "연례 혁신상 연회(awards banquet)에 오신 것을 환영한다고 말합니다."
+          },
+          {
+            "id": "LC4-05-2",
+            "question": "What is Dr. Rostova's field of expertise?",
+            "options": {
+              "A": "Software engineering",
+              "B": "Renewable energy",
+              "C": "Urban architecture",
+              "D": "Financial planning"
+            },
+            "answer": "B",
+            "explanation": "그녀는 재생 에너지(renewable energy technologies) 분야의 선도적인 전문가입니다."
+          },
+          {
+            "id": "LC4-05-3",
+            "question": "What will happen after the presentation?",
+            "options": {
+              "A": "A Q&A session",
+              "B": "A book signing",
+              "C": "A networking event",
+              "D": "A video screening"
+            },
+            "answer": "A",
+            "explanation": "발표 후에 짧은 질의응답 세션(question and answer session)이 있을 것이라고 합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET06",
+        "context_type": "Telephone Message",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Hi Daniel, this is Megan from the marketing department. I'm calling about the launch strategy meeting we have scheduled for tomorrow afternoon. The CEO just informed me that he wants to attend, but he is only available in the morning. So, we need to reschedule our meeting to 10 AM. We will still meet in the second-floor conference room. Since the time has changed, please make sure you send the updated presentation slides to everyone before you leave the office today. Call me back if you have any questions. Thanks.",
+        "questions": [
+          {
+            "id": "LC4-06-1",
+            "question": "Why is the speaker calling?",
+            "options": {
+              "A": "To request time off",
+              "B": "To change a meeting time",
+              "C": "To complain about a presentation",
+              "D": "To ask for project funding"
+            },
+            "answer": "B",
+            "explanation": "CEO의 일정 때문에 내일 회의 시간을 변경하기 위해(reschedule our meeting) 전화했습니다."
+          },
+          {
+            "id": "LC4-06-2",
+            "question": "Who will attend the meeting?",
+            "options": {
+              "A": "A client",
+              "B": "A job applicant",
+              "C": "The CEO",
+              "D": "A journalist"
+            },
+            "answer": "C",
+            "explanation": "CEO가 회의에 참석하길 원한다고(CEO just informed me that he wants to attend) 말합니다."
+          },
+          {
+            "id": "LC4-06-3",
+            "question": "What is the listener asked to do today?",
+            "options": {
+              "A": "Send presentation slides",
+              "B": "Reserve a conference room",
+              "C": "Call the CEO",
+              "D": "Print out agendas"
+            },
+            "answer": "A",
+            "explanation": "퇴근 전까지 업데이트된 프레젠테이션 슬라이드를 발송하라고(send the updated presentation slides) 요청합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET07",
+        "context_type": "Advertisement",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Are you tired of paying high electricity bills every month? Upgrade your home with SolarMax energy systems! We install high-efficiency solar panels that can reduce your utility costs by up to fifty percent. Unlike other companies, SolarMax provides a free, no-obligation consultation at your home to evaluate your roof's potential. Plus, for the month of August only, we are offering free installation on all standard packages. Don't miss this opportunity to save money and help the environment. Visit our website at solarmax.com to schedule your free consultation today.",
+        "questions": [
+          {
+            "id": "LC4-07-1",
+            "question": "What product is being advertised?",
+            "options": {
+              "A": "Air conditioners",
+              "B": "Solar panels",
+              "C": "Smart home devices",
+              "D": "Electric vehicles"
+            },
+            "answer": "B",
+            "explanation": "고효율 태양광 패널(solar panels) 설치를 광고하고 있습니다."
+          },
+          {
+            "id": "LC4-07-2",
+            "question": "What is offered for free in August?",
+            "options": {
+              "A": "A maintenance check",
+              "B": "An extended warranty",
+              "C": "Installation services",
+              "D": "A replacement battery"
+            },
+            "answer": "C",
+            "explanation": "8월 한 달 동안 무료 설치(free installation)를 제공한다고 합니다."
+          },
+          {
+            "id": "LC4-07-3",
+            "question": "How can listeners schedule a consultation?",
+            "options": {
+              "A": "By calling a toll-free number",
+              "B": "By visiting a website",
+              "C": "By sending an email",
+              "D": "By downloading an app"
+            },
+            "answer": "B",
+            "explanation": "웹사이트(solarmax.com)를 방문하여 상담을 예약하라고 안내합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET08",
+        "context_type": "Meeting Excerpt",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "I want to thank everyone for their hard work on the Q2 sales drive. I'm thrilled to announce that we exceeded our regional sales target by fifteen percent! This success is largely due to the new client retention program that the customer service team developed. However, looking ahead to Q3, we need to focus on expanding our reach. Our competitors are launching aggressive ad campaigns in the European market. Therefore, we will be shifting a significant portion of our budget to international advertising. We will hold a strategy session next Tuesday to brainstorm creative concepts.",
+        "questions": [
+          {
+            "id": "LC4-08-1",
+            "question": "What good news does the speaker share?",
+            "options": {
+              "A": "A new branch is opening.",
+              "B": "A sales target was exceeded.",
+              "C": "A competitor went out of business.",
+              "D": "Employee bonuses have increased."
+            },
+            "answer": "B",
+            "explanation": "지역 판매 목표를 15% 초과 달성했다(exceeded our regional sales target)는 기쁜 소식을 전합니다."
+          },
+          {
+            "id": "LC4-08-2",
+            "question": "What will the company focus on in Q3?",
+            "options": {
+              "A": "Hiring new staff",
+              "B": "International advertising",
+              "C": "Improving product quality",
+              "D": "Customer retention"
+            },
+            "answer": "B",
+            "explanation": "유럽 시장 진출을 위해 국제 광고(international advertising)에 예산을 집중할 것이라고 합니다."
+          },
+          {
+            "id": "LC4-08-3",
+            "question": "What is scheduled for next Tuesday?",
+            "options": {
+              "A": "A strategy session",
+              "B": "A holiday party",
+              "C": "A board meeting",
+              "D": "A training workshop"
+            },
+            "answer": "A",
+            "explanation": "다음 주 화요일에 아이디어 구상을 위한 전략 세션(strategy session)을 개최합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET09",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Attention passengers waiting for flight 802 to London. We regret to inform you that the departure has been delayed due to severe weather conditions over the Atlantic. The new estimated departure time is 7:30 PM. We apologize for the inconvenience this may cause. In the meantime, the airline is providing complimentary food vouchers to all passengers on this flight. You can collect your voucher at the main customer service desk near gate 12, and it can be used at any restaurant in the terminal. Thank you for your patience and understanding.",
+        "questions": [
+          {
+            "id": "LC4-09-1",
+            "question": "Where is the announcement being made?",
+            "options": {
+              "A": "At a train station",
+              "B": "At a bus terminal",
+              "C": "At an airport",
+              "D": "At a ferry port"
+            },
+            "answer": "C",
+            "explanation": "런던행 비행기 탑승객(flight 802 to London)에게 방송하는 공항 상황입니다."
+          },
+          {
+            "id": "LC4-09-2",
+            "question": "Why is the departure delayed?",
+            "options": {
+              "A": "Mechanical problems",
+              "B": "Severe weather",
+              "C": "Security checks",
+              "D": "A missing pilot"
+            },
+            "answer": "B",
+            "explanation": "대서양 상공의 악천후(severe weather conditions)로 인해 출발이 지연되었습니다."
+          },
+          {
+            "id": "LC4-09-3",
+            "question": "What is being offered to passengers?",
+            "options": {
+              "A": "Free hotel rooms",
+              "B": "Upgraded seats",
+              "C": "Discount coupons",
+              "D": "Food vouchers"
+            },
+            "answer": "D",
+            "explanation": "지연에 대한 보상으로 무료 식사 쿠폰(food vouchers)을 제공합니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET10",
+        "context_type": "Store Announcement",
+        "speakers": [
+          {
+            "name": "Speaker",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Shoppers, attention please. Welcome to our grand reopening event here at Value Supermarket. We have completely redesigned our store layout to make your shopping experience more convenient. You will find that our fresh produce section is now twice as large, offering a wider variety of organic fruits and vegetables. Also, today only, we are offering a special discount on all baked goods at our newly added bakery corner. Please take advantage of the twenty percent off sale. As a reminder, the store will close at 9 PM tonight instead of our usual 10 PM. Enjoy your shopping!",
+        "questions": [
+          {
+            "id": "LC4-10-1",
+            "question": "What is the purpose of the event?",
+            "options": {
+              "A": "A grand reopening",
+              "B": "A holiday sale",
+              "C": "An inventory clearance",
+              "D": "A staff appreciation day"
+            },
+            "answer": "A",
+            "explanation": "마트의 재개장 행사(grand reopening event)를 환영하는 방송입니다."
+          },
+          {
+            "id": "LC4-10-2",
+            "question": "What is discounted today?",
+            "options": {
+              "A": "Fresh produce",
+              "B": "Dairy products",
+              "C": "Baked goods",
+              "D": "Frozen foods"
+            },
+            "answer": "C",
+            "explanation": "오늘 하루 베이커리 코너의 모든 빵류(baked goods)에 특별 할인을 제공한다고 합니다."
+          },
+          {
+            "id": "LC4-10-3",
+            "question": "What change is mentioned at the end?",
+            "options": {
+              "A": "New parking rules",
+              "B": "An earlier closing time",
+              "C": "A different payment method",
+              "D": "A change in management"
+            },
+            "answer": "B",
+            "explanation": "오늘은 평소보다 일찍 폐점(close at 9 PM tonight instead of our usual 10 PM)한다고 알립니다."
+          }
+        ]
+      }
+    ]
+  },
+  "rc": {
+    "part5": [
+      {
+        "question_number": 101,
+        "question": "Employees are reminded to -------- their updated contact information to the HR department.",
+        "options": {
+          "A": "submit",
+          "B": "submitting",
+          "C": "submission",
+          "D": "submits"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 102,
+        "question": "The new performance evaluation system will be -------- implemented starting January 1.",
+        "options": {
+          "A": "formal",
+          "B": "formally",
+          "C": "formalize",
+          "D": "formality"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 103,
+        "question": "During the marketing strategy meeting, the director emphasized the importance of -------- our target audience.",
+        "options": {
+          "A": "understand",
+          "B": "understood",
+          "C": "understanding",
+          "D": "understands"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 104,
+        "question": "Please ensure that your hotel reservation is confirmed -------- leaving for the conference.",
+        "options": {
+          "A": "forward",
+          "B": "ahead",
+          "C": "prior",
+          "D": "before"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 105,
+        "question": "The board of directors has -------- approved the proposal for the new marketing campaign.",
+        "options": {
+          "A": "finally",
+          "B": "final",
+          "C": "finalize",
+          "D": "finals"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 106,
+        "question": "All personnel -------- must be completed by the end of the current fiscal year.",
+        "options": {
+          "A": "evaluate",
+          "B": "evaluating",
+          "C": "evaluations",
+          "D": "evaluators"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 107,
+        "question": "The marketing team is scheduled to -------- at 10 A.M. to discuss the upcoming product launch.",
+        "options": {
+          "A": "meet",
+          "B": "meeting",
+          "C": "meets",
+          "D": "met"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 108,
+        "question": "Ms. Jenkins called the front desk to confirm -------- reservation for a double room.",
+        "options": {
+          "A": "she",
+          "B": "her",
+          "C": "hers",
+          "D": "herself"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 109,
+        "question": "The revised evaluation criteria will be -------- to all department heads tomorrow.",
+        "options": {
+          "A": "distribute",
+          "B": "distributes",
+          "C": "distributing",
+          "D": "distributed"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 110,
+        "question": "-------- the new product's success, the company is planning to expand its manufacturing facility.",
+        "options": {
+          "A": "Because",
+          "B": "Although",
+          "C": "Due to",
+          "D": "Instead of"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 111,
+        "question": "If you need to -------- your hotel booking, please notify us at least 24 hours in advance.",
+        "options": {
+          "A": "modify",
+          "B": "modifying",
+          "C": "modification",
+          "D": "modified"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 112,
+        "question": "-------- participating in the marketing strategy meeting will receive a comprehensive report afterward.",
+        "options": {
+          "A": "Anyone",
+          "B": "Those",
+          "C": "Whoever",
+          "D": "Somebody"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 113,
+        "question": "The newly introduced performance appraisal system is expected to increase overall workplace --------.",
+        "options": {
+          "A": "productive",
+          "B": "productively",
+          "C": "produce",
+          "D": "productivity"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 114,
+        "question": "The strategic marketing plan was -------- designed to attract younger consumers.",
+        "options": {
+          "A": "specific",
+          "B": "specify",
+          "C": "specifically",
+          "D": "specification"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 115,
+        "question": "We have secured a block of rooms at the Grand Plaza Hotel at a -------- rate for our convention attendees.",
+        "options": {
+          "A": "discounted",
+          "B": "discounting",
+          "C": "discounts",
+          "D": "discount"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 116,
+        "question": "Please submit the self-evaluation form to your supervisor no -------- than Friday afternoon.",
+        "options": {
+          "A": "late",
+          "B": "lately",
+          "C": "latest",
+          "D": "later"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 117,
+        "question": "Mr. Chen presented some highly -------- ideas during yesterday's product strategy session.",
+        "options": {
+          "A": "innovate",
+          "B": "innovative",
+          "C": "innovation",
+          "D": "innovatively"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 118,
+        "question": "Your hotel room -------- includes complimentary breakfast and access to the fitness center.",
+        "options": {
+          "A": "reserved",
+          "B": "reserve",
+          "C": "reservation",
+          "D": "reserving"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 119,
+        "question": "The human resources department is responsible for -------- the annual performance reviews.",
+        "options": {
+          "A": "conducting",
+          "B": "conducted",
+          "C": "conducts",
+          "D": "conduct"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 120,
+        "question": "To increase market share, the company has decided to -------- its advertising budget for the new smartphone.",
+        "options": {
+          "A": "doubling",
+          "B": "double",
+          "C": "doubly",
+          "D": "doubles"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 121,
+        "question": "The confirmation email contains all the details -------- to your upcoming stay at the resort.",
+        "options": {
+          "A": "pertain",
+          "B": "pertains",
+          "C": "pertained",
+          "D": "pertaining"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 122,
+        "question": "-------- the evaluation process is completed, promotions will be officially announced.",
+        "options": {
+          "A": "Even if",
+          "B": "Despite",
+          "C": "Once",
+          "D": "Therefore"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 123,
+        "question": "The marketing director requested a -------- analysis of the competitors' new promotional strategies.",
+        "options": {
+          "A": "detailed",
+          "B": "detail",
+          "C": "detailing",
+          "D": "details"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 124,
+        "question": "The receptionist at the Horizon Hotel politely asked the guest to -------- the registration card.",
+        "options": {
+          "A": "signs",
+          "B": "sign",
+          "C": "signing",
+          "D": "signature"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 125,
+        "question": "Employee feedback on the new evaluation system has been -------- positive so far.",
+        "options": {
+          "A": "overwhelm",
+          "B": "overwhelming",
+          "C": "overwhelmingly",
+          "D": "overwhelms"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 126,
+        "question": "Sales figures for the new appliance have risen steadily -------- the marketing campaign was launched.",
+        "options": {
+          "A": "when",
+          "B": "during",
+          "C": "from",
+          "D": "since"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 127,
+        "question": "Please present your booking confirmation number to the clerk upon -------- at the hotel.",
+        "options": {
+          "A": "arrival",
+          "B": "arrive",
+          "C": "arriving",
+          "D": "arrived"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 128,
+        "question": "All staff members are required to attend the workshop on the -------- performance assessment guidelines.",
+        "options": {
+          "A": "update",
+          "B": "updated",
+          "C": "updates",
+          "D": "updating"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 129,
+        "question": "Our team has been working -------- on the new marketing strategy for the upcoming quarter.",
+        "options": {
+          "A": "diligent",
+          "B": "diligence",
+          "C": "diligences",
+          "D": "diligently"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 130,
+        "question": "Should you have any questions regarding your reservation, please -------- the hotel directly.",
+        "options": {
+          "A": "contacting",
+          "B": "contactable",
+          "C": "contact",
+          "D": "contacts"
+        },
+        "answer": "C"
+      }
+    ],
+    "part6": [
+      {
+        "passage_number": 1,
+        "topic": "인사 평가 도입",
+        "text": "To: All Employees\nFrom: HR Department\nDate: October 15\nSubject: New Performance Evaluation System\n\nDear Staff,\nBeginning next year, we will implement a new personnel evaluation system. The primary goal of this initiative is to provide more -------- and objective feedback to all employees. Under the previous system, many staff members felt that the criteria were unclear. --------. Therefore, we have redesigned the evaluation matrix to focus on measurable achievements.\n\nSupervisors will -------- regular training next month to familiarize themselves with the new procedures. We believe this updated approach will lead to a more supportive and -------- work environment for everyone.\n\nThank you for your cooperation.",
+        "questions": [
+          {
+            "question_number": 131,
+            "options": {
+              "A": "accurate",
+              "B": "accuracy",
+              "C": "accurately",
+              "D": "accuracies"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 132,
+            "options": {
+              "A": "This will decrease overall productivity.",
+              "B": "This new system addresses those concerns directly.",
+              "C": "Salaries will be reduced next year.",
+              "D": "We are moving to a new office building."
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 133,
+            "options": {
+              "A": "underwent",
+              "B": "undergoes",
+              "C": "undergo",
+              "D": "undergoing"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 134,
+            "options": {
+              "A": "produce",
+              "B": "product",
+              "C": "production",
+              "D": "productive"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "passage_number": 2,
+        "topic": "신제품 마케팅 전략 회의",
+        "text": "To: Marketing Team\nFrom: Sarah Jenkins, Director of Marketing\nDate: November 2\nSubject: Upcoming Strategy Meeting\n\nTeam,\nWe will be holding a strategy meeting on Thursday at 9:00 A.M. in Conference Room A. The purpose of this meeting is to finalize the promotional plans for our new line of eco-friendly home appliances. We need to -------- a clear timeline for the upcoming marketing campaign.\n\nPlease review the attached market research report before the meeting. --------. It contains valuable insights into consumer preferences and recent trends. I expect everyone to come prepared with at least two -------- ideas for digital advertising.\n\nI look forward to a highly -------- brainstorming session.",
+        "questions": [
+          {
+            "question_number": 135,
+            "options": {
+              "A": "establishes",
+              "B": "establish",
+              "C": "established",
+              "D": "establishing"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 136,
+            "options": {
+              "A": "The products are currently out of stock.",
+              "B": "You do not need to print the documents.",
+              "C": "This data will form the basis of our discussion.",
+              "D": "The meeting has been postponed to next week."
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 137,
+            "options": {
+              "A": "origin",
+              "B": "originally",
+              "C": "originate",
+              "D": "original"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 138,
+            "options": {
+              "A": "engaging",
+              "B": "engage",
+              "C": "engagement",
+              "D": "engaged"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "passage_number": 3,
+        "topic": "호텔 예약 확인",
+        "text": "Dear Mr. Park,\n\nThank you for choosing the Oceanview Resort for your upcoming vacation. This email serves to confirm your -------- for a Deluxe Ocean Suite from August 10 to August 15.\n\nYour room rate includes a complimentary breakfast buffet each morning at our seaside restaurant. --------. Additionally, guests have full access to our private beach and fitness facilities.\n\nPlease note that check-in time is at 3:00 P.M. If you anticipate -------- late, kindly let us know in advance so we can keep your room ready. We are fully committed to making your stay as -------- as possible.\n\nWarm regards,\nOceanview Resort Reservations Team",
+        "questions": [
+          {
+            "question_number": 139,
+            "options": {
+              "A": "reserve",
+              "B": "reserving",
+              "C": "reservation",
+              "D": "reserved"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 140,
+            "options": {
+              "A": "The swimming pool is closed for maintenance.",
+              "B": "We require a deposit for your stay.",
+              "C": "Please leave your room key at the desk.",
+              "D": "It is served daily between 6:30 A.M. and 10:00 A.M."
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 141,
+            "options": {
+              "A": "arriving",
+              "B": "arrive",
+              "C": "arrived",
+              "D": "arrival"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 142,
+            "options": {
+              "A": "enjoy",
+              "B": "enjoyable",
+              "C": "impressively",
+              "D": "enjoyment"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "passage_number": 4,
+        "topic": "일반 비즈니스 (사무실 개조)",
+        "text": "Notice to All Tenants\n\nPlease be advised that the main lobby of the Sterling Commercial Building will undergo renovations starting next Monday. The construction is expected to last for approximately three weeks. During this time, the front entrance will be -------- closed.\n\nAll employees and visitors must use the side entrance located on Elm Street. --------. We apologize for any inconvenience this temporary disruption may cause.\n\nOur management team is working closely with the contractors to ensure that noise levels are kept to a --------. We appreciate your patience as we make these improvements to -------- our facilities.",
+        "questions": [
+          {
+            "question_number": 143,
+            "options": {
+              "A": "temporary",
+              "B": "temporariness",
+              "C": "temporize",
+              "D": "temporarily"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 144,
+            "options": {
+              "A": "Signage will be posted to direct you to the correct doors.",
+              "B": "Rent payments are due on the first of the month.",
+              "C": "The building will be entirely closed on weekends.",
+              "D": "Elevators are currently out of service."
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 145,
+            "options": {
+              "A": "minimalize",
+              "B": "minimum",
+              "C": "minimal",
+              "D": "minimally"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 146,
+            "options": {
+              "A": "modernization",
+              "B": "modern",
+              "C": "modernize",
+              "D": "modernly"
+            },
+            "answer": "C"
+          }
+        ]
+      }
+    ],
+    "part7": [
+      {
+        "set_number": 1,
+        "passage_type": "Single Passage",
+        "texts": [
+          "From: reservations@grandlunehotel.com\nTo: m.smith@email.com\nSubject: Reservation Confirmation\n\nDear Mr. Smith,\nThank you for booking with Grand Lune Hotel. Your reservation for a Deluxe Double Room for three nights, arriving on October 12 and departing on October 15, is confirmed. Please note that check-in begins at 3:00 PM. We have also accommodated your request for a high-floor room. If you need any airport transfer services, please reply to this email at least 24 hours before your arrival."
+        ],
+        "questions": [
+          {
+            "question_number": 147,
+            "question": "What is suggested about Mr. Smith?",
+            "options": {
+              "A": "He will stay at the hotel for multiple days.",
+              "B": "He has paid for his room in advance.",
+              "C": "He requested an airport transfer.",
+              "D": "He plans to arrive before 3:00 PM."
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 148,
+            "question": "What did Mr. Smith ask for?",
+            "options": {
+              "A": "A discounted rate",
+              "B": "A room on a high floor",
+              "C": "A complimentary breakfast",
+              "D": "An early check-in"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 2,
+        "passage_type": "Single Passage",
+        "texts": [
+          "Attention All Staff:\nStarting January 1, the HR department will introduce a new performance evaluation system. Instead of annual reviews, employees will now have quarterly check-ins with their direct supervisors. This new system aims to provide more timely feedback and better support your professional growth. Training sessions on how to use the new evaluation software will be held next Tuesday in the main conference room."
+        ],
+        "questions": [
+          {
+            "question_number": 149,
+            "question": "What is the main purpose of the notice?",
+            "options": {
+              "A": "To announce a change in company leadership",
+              "B": "To advertise a software development job",
+              "C": "To explain a new staff assessment method",
+              "D": "To reschedule a training session"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 150,
+            "question": "How often will employee reviews occur under the new system?",
+            "options": {
+              "A": "Weekly",
+              "B": "Monthly",
+              "C": "Annually",
+              "D": "Quarterly"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 3,
+        "passage_type": "Single Passage",
+        "texts": [
+          "To: Marketing Team\nFrom: Sarah Jenkins, Marketing Director\nDate: March 15\nRe: Next week's strategy meeting\n\nPlease be advised that our strategy meeting for the launch of the 'GlowBright' skincare line has been moved to Thursday at 10:00 AM in Room B. I expect everyone to bring their preliminary ideas for the social media campaign. Also, please review the budget report attached to this memo before the meeting so we can finalize our advertising spend."
+        ],
+        "questions": [
+          {
+            "question_number": 151,
+            "question": "What is the team preparing to launch?",
+            "options": {
+              "A": "A new line of cosmetics",
+              "B": "A piece of software",
+              "C": "A fitness device",
+              "D": "A marketing agency"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 152,
+            "question": "What are team members asked to do before the meeting?",
+            "options": {
+              "A": "Send ideas via email",
+              "B": "Look over a financial document",
+              "C": "Book a conference room",
+              "D": "Update their social media profiles"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 4,
+        "passage_type": "Single Passage",
+        "texts": [
+          "John [9:00 AM]: Has anyone seen the printed copies of the agenda for today's board meeting?\nMary [9:02 AM]: I think they are still in the copy room. I saw David printing them earlier.\nJohn [9:05 AM]: Thanks, I'll go check there now.\nDavid [9:10 AM]: Sorry guys, the printer ran out of toner halfway through. I am replacing it now and will bring the copies to the boardroom in 5 minutes."
+        ],
+        "questions": [
+          {
+            "question_number": 153,
+            "question": "Why is John looking for the agendas?",
+            "options": {
+              "A": "He needs to edit them.",
+              "B": "He lost his own copy.",
+              "C": "They are needed for an upcoming meeting.",
+              "D": "He wants to give them to Mary."
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 154,
+            "question": "What does David mean when he says 'I am replacing it now'?",
+            "options": {
+              "A": "He is buying a new printer.",
+              "B": "He is rewriting the agenda.",
+              "C": "He is changing the meeting time.",
+              "D": "He is putting new ink in the machine."
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 5,
+        "passage_type": "Single Passage",
+        "texts": [
+          "To: groups@seaviewresort.com\nFrom: r.davis@techsolutions.com\nSubject: Annual Retreat\n\nHello,\nI am organizing an annual corporate retreat for my company, Tech Solutions, and we are interested in staying at the Sea View Resort from May 10 to May 12. We will need approximately 20 single rooms and access to a large conference room on May 11 for a full-day seminar. Could you please provide a price quote for this? Additionally, we would like to know if you offer any catering options for lunch during the seminar.\nThank you,\nRachel Davis"
+        ],
+        "questions": [
+          {
+            "question_number": 155,
+            "question": "Who is Rachel Davis?",
+            "options": {
+              "A": "An event organizer for a company",
+              "B": "A hotel manager",
+              "C": "A catering chef",
+              "D": "A travel agent"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 156,
+            "question": "What does the email request?",
+            "options": {
+              "A": "A list of local attractions",
+              "B": "A cost estimate for accommodations and a meeting space",
+              "C": "An updated seminar schedule",
+              "D": "A map of the resort facilities"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 157,
+            "question": "What additional service is Ms. Davis inquiring about?",
+            "options": {
+              "A": "Airport transportation",
+              "B": "Internet access",
+              "C": "Food provision",
+              "D": "Entertainment options"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 6,
+        "passage_type": "Single Passage",
+        "texts": [
+          "Local firm Titan Electronics is shifting its marketing focus. After years of relying on television and print media, the company announced on Wednesday that it will redirect 80% of its advertising budget to digital platforms. 'Our target demographic has changed,' said CEO Mark Cuban. 'We are now focusing on younger consumers who primarily engage with online content.' The shift includes partnerships with popular internet influencers and a revamped social media presence. The new strategy is expected to be fully implemented by the third quarter."
+        ],
+        "questions": [
+          {
+            "question_number": 158,
+            "question": "What is the article mainly about?",
+            "options": {
+              "A": "The release of a new electronic gadget",
+              "B": "A change in company leadership",
+              "C": "An increase in a company's budget",
+              "D": "A shift in advertising methods"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 159,
+            "question": "Why did Titan Electronics make this change?",
+            "options": {
+              "A": "To reach a younger audience",
+              "B": "To reduce overall expenses",
+              "C": "To comply with new regulations",
+              "D": "To promote a specific TV show"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 160,
+            "question": "How will the company implement its new plan?",
+            "options": {
+              "A": "By opening new retail stores",
+              "B": "By collaborating with online personalities",
+              "C": "By hiring more sales staff",
+              "D": "By lowering product prices"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 7,
+        "passage_type": "Single Passage",
+        "texts": [
+          "Employee Guide: Navigating the New Evaluation Process\nStep 1: Self-Assessment - Complete the online self-evaluation form by November 15. Be honest about your achievements and areas for improvement.\nStep 2: Manager Review - Your direct manager will review your self-assessment and add their own feedback by November 30.\nStep 3: One-on-One Meeting - Between December 1 and December 15, schedule a meeting with your manager to discuss the review in person.\nStep 4: Goal Setting - During the meeting, you and your manager will establish concrete goals for the upcoming year."
+        ],
+        "questions": [
+          {
+            "question_number": 161,
+            "question": "What must employees do first?",
+            "options": {
+              "A": "Meet with their manager",
+              "B": "Set goals for the next year",
+              "C": "Fill out a form about their own performance",
+              "D": "Review their colleagues' work"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 162,
+            "question": "By what date will managers finish adding their feedback?",
+            "options": {
+              "A": "December 1",
+              "B": "December 15",
+              "C": "November 15",
+              "D": "November 30"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 163,
+            "question": "What will happen during the one-on-one meeting?",
+            "options": {
+              "A": "Future objectives will be determined.",
+              "B": "A new manager will be introduced.",
+              "C": "Salaries will be negotiated.",
+              "D": "Software training will take place."
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 8,
+        "passage_type": "Single Passage",
+        "texts": [
+          "Guest_198: Hello, I have a reservation under the name James Miller for tonight. I might arrive late due to a delayed flight.\nFrontDesk_Agent: Hello Mr. Miller. I see your reservation for a standard suite. Our front desk is staffed 24/7, so a late arrival is not a problem. What time do you expect to arrive?\nGuest_198: Probably around 11:30 PM. Will the hotel restaurant still be open?\nFrontDesk_Agent: Unfortunately, the restaurant closes at 10:00 PM. However, room service is available until midnight, and there is a 24-hour convenience store right across the street.\nGuest_198: Good to know. I'll just order room service when I get there. See you tonight."
+        ],
+        "questions": [
+          {
+            "question_number": 164,
+            "question": "What problem does Mr. Miller mention?",
+            "options": {
+              "A": "He lost his confirmation number.",
+              "B": "His flight has been delayed.",
+              "C": "He wants to cancel his reservation.",
+              "D": "He cannot find the hotel."
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 165,
+            "question": "What type of room did Mr. Miller book?",
+            "options": {
+              "A": "A single room",
+              "B": "A deluxe double room",
+              "C": "A standard suite",
+              "D": "A penthouse"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 166,
+            "question": "When does the hotel restaurant close?",
+            "options": {
+              "A": "9:00 PM",
+              "B": "11:30 PM",
+              "C": "Midnight",
+              "D": "10:00 PM"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 167,
+            "question": "What does Mr. Miller decide to do for food?",
+            "options": {
+              "A": "Order a meal to his room",
+              "B": "Visit the convenience store",
+              "C": "Eat at the airport",
+              "D": "Go to a nearby diner"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 9,
+        "passage_type": "Single Passage",
+        "texts": [
+          "To: Marketing Department\nFrom: Alice Wong, VP of Marketing\nDate: July 22\nSubject: Upcoming campaign meeting\n\nDear Team,\nNext Monday, we will hold a comprehensive meeting to finalize the marketing strategy for our new smart home hub, the 'EchoConnect'. As you know, this is our biggest product launch of the year. Please review the attached market research report detailing consumer trends in the smart home sector. I want everyone to prepare at least two innovative promotional ideas. We need to stand out from our competitors, especially 'SmartLife Tech'. See you all at 9 AM in the main boardroom."
+        ],
+        "questions": [
+          {
+            "question_number": 168,
+            "question": "What is the purpose of the meeting?",
+            "options": {
+              "A": "To discuss the company's financial status",
+              "B": "To finalize plans for a product launch",
+              "C": "To hire new marketing staff",
+              "D": "To review last year's sales figures"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 169,
+            "question": "What is attached to the email?",
+            "options": {
+              "A": "A list of meeting attendees",
+              "B": "A product instruction manual",
+              "C": "A document analyzing market trends",
+              "D": "A draft of a press release"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 170,
+            "question": "What is the team asked to bring to the meeting?",
+            "options": {
+              "A": "Prototypes of the new product",
+              "B": "Financial reports",
+              "C": "Resumes of potential candidates",
+              "D": "Suggestions for promotional activities"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 171,
+            "question": "Who is considered a competitor?",
+            "options": {
+              "A": "SmartLife Tech",
+              "B": "EchoConnect",
+              "C": "Alice Wong",
+              "D": "The Marketing Department"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 10,
+        "passage_type": "Single Passage",
+        "texts": [
+          "To: All Employees\nFrom: Human Resources\nDate: September 5\nSubject: Transition to New Evaluation Software\n\nAs previously announced, we are transitioning to a new performance evaluation system called 'PerformTrack' starting October 1. This software will streamline our review process and make it easier for managers and employees to track progress throughout the year. All previous evaluation records have been securely migrated to the new system. Please log in using your standard employee credentials by September 15 to ensure your account is active. If you encounter any login issues, contact IT support at extension 404 immediately."
+        ],
+        "questions": [
+          {
+            "question_number": 172,
+            "question": "What is the name of the new software?",
+            "options": {
+              "A": "EvalPro",
+              "B": "PerformTrack",
+              "C": "HRConnect",
+              "D": "ReviewMaster"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 173,
+            "question": "When will the new system officially be put into use?",
+            "options": {
+              "A": "September 5",
+              "B": "September 15",
+              "C": "October 1",
+              "D": "December 31"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 174,
+            "question": "What should employees do if they cannot log in?",
+            "options": {
+              "A": "Email the HR department",
+              "B": "Ask their manager for help",
+              "C": "Create a new account",
+              "D": "Call the IT support team"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 175,
+            "question": "What has happened to past evaluation records?",
+            "options": {
+              "A": "They were transferred to the new system.",
+              "B": "They were deleted.",
+              "C": "They were printed and filed.",
+              "D": "They were sent to employees' home addresses."
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 11,
+        "passage_type": "Double Passage",
+        "texts": [
+          "Marketing Strategy Retreat Agenda (August 12)\n9:00 AM - 10:00 AM: Registration and Breakfast (Lobby)\n10:00 AM - 11:30 AM: Keynote: 'The Future of Digital Advertising' by Sarah Jenkins\n11:30 AM - 1:00 PM: Workshop: Analyzing Competitor Campaigns\n1:00 PM - 2:00 PM: Catered Lunch (Dining Hall)\n2:00 PM - 3:30 PM: Brainstorming Session: Q4 Product Launch\n3:30 PM - 4:00 PM: Closing Remarks",
+          "To: Sarah Jenkins\nFrom: David Clark\nDate: August 10\nSubject: Schedule adjustment request\n\nHi Sarah,\nI'm looking forward to the retreat on Friday. However, I have an unavoidable client call scheduled from 11:00 AM to 12:00 PM. I will attend your keynote, but I will have to step out early and will consequently miss the first half of the following session. Could you assign someone to take detailed notes for me during that time? I'll rejoin the group for lunch."
+        ],
+        "questions": [
+          {
+            "question_number": 176,
+            "question": "Where will the breakfast take place?",
+            "options": {
+              "A": "In the Dining Hall",
+              "B": "In the Lobby",
+              "C": "In a conference room",
+              "D": "In a local restaurant"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 177,
+            "question": "What is Sarah Jenkins scheduled to do?",
+            "options": {
+              "A": "Serve the catered lunch",
+              "B": "Lead the brainstorming session",
+              "C": "Deliver the keynote address",
+              "D": "Organize the registration"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 178,
+            "question": "What session will David Clark partially miss?",
+            "options": {
+              "A": "Registration and Breakfast",
+              "B": "Keynote: 'The Future of Digital Advertising'",
+              "C": "Brainstorming Session",
+              "D": "Workshop: Analyzing Competitor Campaigns"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 179,
+            "question": "Why will Mr. Clark miss part of the retreat?",
+            "options": {
+              "A": "He has a meeting with a client.",
+              "B": "He is feeling unwell.",
+              "C": "He has a doctor's appointment.",
+              "D": "He needs to prepare for his presentation."
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 180,
+            "question": "What does Mr. Clark ask Ms. Jenkins to do?",
+            "options": {
+              "A": "Change the time of his presentation",
+              "B": "Find someone to write down information for him",
+              "C": "Save him a seat at lunch",
+              "D": "Send him a copy of the keynote slides"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 12,
+        "passage_type": "Double Passage",
+        "texts": [
+          "Grand Plaza Hotel - Reservation Request Form\nName: Elena Rostova\nCheck-in Date: November 20\nCheck-out Date: November 24\nRoom Type: Executive King\nNumber of Guests: 2\nSpecial Requests: I would like a room facing the ocean. Also, we are celebrating our anniversary, so any special arrangements would be appreciated.",
+          "To: elena.rostova@email.com\nFrom: reservations@grandplazahotel.com\nSubject: Reservation Update\n\nDear Ms. Rostova,\nWe have received your reservation request. We are pleased to confirm your Executive King room for the dates requested. We have noted your preference for an ocean view and have assigned you room 812, which offers our best seaside panorama. To help celebrate your special occasion, we will provide a complimentary bottle of sparkling cider and chocolates in your room upon arrival. The total cost of your stay will be $850. Please click the secure link below to process your deposit."
+        ],
+        "questions": [
+          {
+            "question_number": 181,
+            "question": "How long does Ms. Rostova plan to stay?",
+            "options": {
+              "A": "Two nights",
+              "B": "Three nights",
+              "C": "Four nights",
+              "D": "Five nights"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 182,
+            "question": "What type of view did Ms. Rostova request?",
+            "options": {
+              "A": "A city view",
+              "B": "A garden view",
+              "C": "A pool view",
+              "D": "An ocean view"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 183,
+            "question": "What special occasion is being celebrated?",
+            "options": {
+              "A": "An anniversary",
+              "B": "A birthday",
+              "C": "A honeymoon",
+              "D": "A retirement"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 184,
+            "question": "What will the hotel provide for free?",
+            "options": {
+              "A": "A room upgrade",
+              "B": "Some beverages and sweets",
+              "C": "A dinner voucher",
+              "D": "Spa treatments"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 185,
+            "question": "What is Ms. Rostova asked to do in the email?",
+            "options": {
+              "A": "Confirm her flight details",
+              "B": "Reply with her dietary restrictions",
+              "C": "Make a partial payment online",
+              "D": "Print out the confirmation form"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 13,
+        "passage_type": "Triple Passage",
+        "texts": [
+          "Corporate Weekly: The Trend Toward Continuous Feedback\nMany corporations are abandoning the traditional annual performance review in favor of continuous feedback models. Experts argue that once-a-year evaluations are often stressful and fail to address issues in real-time. By implementing regular check-ins, companies report higher employee morale and increased productivity. Software companies like 'EvalCore' are capitalizing on this trend by offering platforms that facilitate frequent manager-employee communication.",
+          "To: Department Heads\nFrom: Richard Branson, CEO of Orion Tech\nDate: October 2\nSubject: Updating our review process\n\nAfter reading recent industry literature on performance management, I've decided it's time for Orion Tech to modernize our approach. We will be moving away from our current annual review format. I have tasked the HR department with selecting a new software platform to support a continuous feedback model. We aim to roll this out by the beginning of the new year.",
+          "To: All Staff\nFrom: Human Resources\nDate: November 10\nSubject: Introduction to EvalCore\n\nWe are excited to announce that starting January 1, Orion Tech will transition to a new evaluation system using the EvalCore platform. This change aligns with our CEO's vision for more regular and constructive feedback. Training modules for the new software are now available on the company intranet. All employees must complete the training by December 15."
+        ],
+        "questions": [
+          {
+            "question_number": 186,
+            "question": "According to the article, what is a benefit of continuous feedback?",
+            "options": {
+              "A": "It reduces the cost of software.",
+              "B": "It eliminates the need for managers.",
+              "C": "It guarantees employee promotions.",
+              "D": "It improves staff morale."
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 187,
+            "question": "What prompted Richard Branson to change his company's policy?",
+            "options": {
+              "A": "Reading articles about industry trends",
+              "B": "Complaints from employees",
+              "C": "A decline in company profits",
+              "D": "Advice from a software vendor"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 188,
+            "question": "What is the HR department responsible for doing according to the email?",
+            "options": {
+              "A": "Firing underperforming staff",
+              "B": "Choosing a new software system",
+              "C": "Writing the training manual",
+              "D": "Conducting the annual reviews"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 189,
+            "question": "Which software did Orion Tech choose to use?",
+            "options": {
+              "A": "OrionReview",
+              "B": "FeedbackPro",
+              "C": "EvalCore",
+              "D": "TechTrack"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 190,
+            "question": "By what date must employees finish their software training?",
+            "options": {
+              "A": "October 2",
+              "B": "November 10",
+              "C": "January 1",
+              "D": "December 15"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 14,
+        "passage_type": "Triple Passage",
+        "texts": [
+          "The Alpine Lodge - Your Mountain Getaway\nLocated at the base of Mount Snow, The Alpine Lodge offers luxurious rustic cabins perfect for winter sports enthusiasts. All cabins feature a stone fireplace, a private hot tub, and a fully equipped kitchen. We offer a complimentary shuttle service to the ski lifts, just 5 minutes away. Book a three-night stay this winter and receive a 15% discount on ski equipment rentals at our on-site shop.",
+          "Rating: 4/5 Stars\nReviewed by: Greg_H\nDate: February 14\nMy family had a great weekend at The Alpine Lodge. The cabin was cozy, and the fireplace was perfect after a long day in the snow. The shuttle service was incredibly convenient, saving us from driving on icy roads. My only complaint is that the Wi-Fi connection was very weak in our cabin (Cabin #12), which made it hard to check emails. Otherwise, highly recommended!",
+          "To: Greg_H@email.com\nFrom: manager@alpinelodge.com\nDate: February 16\nSubject: Thank you for your review\n\nDear Greg,\nThank you for leaving a review of your recent stay with us. We are thrilled that you enjoyed the cabin amenities and our shuttle service. I apologize for the inconvenience regarding the Wi-Fi in Cabin 12. We are currently upgrading our routers across the property, and that specific cabin is scheduled for an upgrade next week. As a gesture of goodwill, we would like to offer you a 20% discount on your next stay."
+        ],
+        "questions": [
+          {
+            "question_number": 191,
+            "question": "What is a feature of the cabins mentioned in the advertisement?",
+            "options": {
+              "A": "A private hot tub",
+              "B": "A heated swimming pool",
+              "C": "A complimentary breakfast",
+              "D": "An indoor gym"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 192,
+            "question": "How can guests get a discount on equipment rentals?",
+            "options": {
+              "A": "By booking online",
+              "B": "By staying for at least three nights",
+              "C": "By writing a positive review",
+              "D": "By traveling with a family"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 193,
+            "question": "What did Greg appreciate about his stay?",
+            "options": {
+              "A": "The fast internet speed",
+              "B": "The on-site restaurant",
+              "C": "The transportation to the ski area",
+              "D": "The equipment rental shop"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 194,
+            "question": "What problem did Greg experience?",
+            "options": {
+              "A": "The fireplace was broken.",
+              "B": "The cabin was too small.",
+              "C": "The shuttle was late.",
+              "D": "The internet connection was poor."
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 195,
+            "question": "What does the manager offer Greg in the email?",
+            "options": {
+              "A": "A free night's stay",
+              "B": "A refund for his booking",
+              "C": "A reduced rate for a future visit",
+              "D": "Complimentary ski rentals"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 15,
+        "passage_type": "Triple Passage",
+        "texts": [
+          "Marketing Planning Meeting\nDate: April 5\nTime: 2:00 PM - 4:00 PM\nLocation: Room 402\n1. Review of Q1 sales figures (Presenter: Tom Hanks)\n2. Brainstorming for summer apparel campaign (Lead: Jessica Alba)\n3. Selection of media channels for the new campaign\n4. Budget allocation (Lead: Tom Hanks)",
+          "Meeting Minutes: April 5\nAttendees: Tom Hanks, Jessica Alba, Mark Ruffalo, Emma Stone\n- Tom presented the Q1 figures, which showed a 10% increase in online sales.\n- Jessica led the brainstorming session. The team agreed on a 'Beach Ready' theme for the summer apparel.\n- Mark suggested focusing heavily on social media video ads rather than print. The team unanimously agreed.\n- Due to time constraints, the budget allocation discussion was postponed to a later date.",
+          "To: Marketing Team\nFrom: Tom Hanks\nDate: April 6\nSubject: Follow-up on yesterday's meeting\n\nGreat work yesterday, everyone. I think the 'Beach Ready' concept has a lot of potential. Since we didn't get to item 4 on the agenda, I have scheduled a brief 30-minute follow-up meeting for tomorrow morning at 10:00 AM to specifically discuss how we will distribute our funds for the social media ads. Mark, please bring the preliminary cost estimates you mentioned yesterday."
+        ],
+        "questions": [
+          {
+            "question_number": 196,
+            "question": "Where was the meeting held?",
+            "options": {
+              "A": "In the cafeteria",
+              "B": "In Room 402",
+              "C": "In the manager's office",
+              "D": "Off-site at a hotel"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 197,
+            "question": "What was the agreed-upon theme for the summer campaign?",
+            "options": {
+              "A": "Summer Fun",
+              "B": "Ocean Breeze",
+              "C": "Beach Ready",
+              "D": "Sun and Sand"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 198,
+            "question": "What did Mark propose during the meeting?",
+            "options": {
+              "A": "Hiring a new graphic designer",
+              "B": "Reducing the marketing budget",
+              "C": "Creating a new company logo",
+              "D": "Prioritizing video advertisements online"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 199,
+            "question": "Why was a follow-up meeting scheduled?",
+            "options": {
+              "A": "Because a topic was not covered due to lack of time",
+              "B": "Because a key team member was absent",
+              "C": "Because the projector stopped working",
+              "D": "Because the Q1 sales figures were incorrect"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 200,
+            "question": "What is Mark asked to bring to the next meeting?",
+            "options": {
+              "A": "A list of media contacts",
+              "B": "Projected expense documents",
+              "C": "Sample video advertisements",
+              "D": "The finalized Q1 report"
+            },
+            "answer": "B"
+          }
+        ]
+      }
+    ]
+  }
+}

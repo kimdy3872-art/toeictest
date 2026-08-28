@@ -1,0 +1,3128 @@
+{
+  "exam_metadata": {
+    "session": 1,
+    "title": "TOEIC Full Practice Test - Vol.1",
+    "total_questions": 200
+  },
+  "lc": {
+    "part1": [
+      {
+        "id": "LC1-01",
+        "image_description": "한 남자가 사무실에서 종이 상자를 테이프로 밀봉하고 있는 모습 (사옥 이전 상황)",
+        "audio_script": "(A) He is sorting files on a desk. (B) He is taping up a cardboard box. (C) He is unpacking some merchandise. (D) He is loading items into a vehicle.",
+        "options": {
+          "A": "He is sorting files on a desk.",
+          "B": "He is taping up a cardboard box.",
+          "C": "He is unpacking some merchandise.",
+          "D": "He is loading items into a vehicle."
+        },
+        "answer": "B",
+        "explanation": "사진에서 남자가 종이 상자를 테이프로 밀봉하고 있으므로 (B)가 정답입니다. (A)는 짐을 푸는 동작이 아니므로 오답입니다."
+      },
+      {
+        "id": "LC1-02",
+        "image_description": "두 여자가 재무 제표가 띄워진 모니터를 함께 가리키며 논의하는 모습 (연말 결산)",
+        "audio_script": "(A) They are adjusting a projector. (B) They are hanging a graph on the wall. (C) They are shaking hands across a desk. (D) They are pointing at a computer screen.",
+        "options": {
+          "A": "They are adjusting a projector.",
+          "B": "They are hanging a graph on the wall.",
+          "C": "They are shaking hands across a desk.",
+          "D": "They are pointing at a computer screen."
+        },
+        "answer": "D",
+        "explanation": "두 사람이 모니터를 가리키며 논의하고 있으므로 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-03",
+        "image_description": "고객 서비스 데스크에서 직원이 불만족스러운 표정의 고객과 대화하며 메모를 적고 있는 모습",
+        "audio_script": "(A) A worker is wiping down a counter. (B) A customer is handing over a credit card. (C) A receipt is being printed from a machine. (D) A representative is taking down some notes.",
+        "options": {
+          "A": "A worker is wiping down a counter.",
+          "B": "A customer is handing over a credit card.",
+          "C": "A receipt is being printed from a machine.",
+          "D": "A representative is taking down some notes."
+        },
+        "answer": "D",
+        "explanation": "직원이 고객의 말을 들으며 메모를 하고 있으므로 (C)가 정답입니다."
+      },
+      {
+        "id": "LC1-04",
+        "image_description": "물류 센터에서 지게차가 대형 팔레트를 들어올리는 모습 (물류 센터 확장)",
+        "audio_script": "(A) Shelves are being assembled in an aisle. (B) Workers are sweeping the warehouse floor. (C) A forklift is raising a load of goods. (D) A truck is backing into a loading dock.",
+        "options": {
+          "A": "Shelves are being assembled in an aisle.",
+          "B": "Workers are sweeping the warehouse floor.",
+          "C": "A forklift is raising a load of goods.",
+          "D": "A truck is backing into a loading dock."
+        },
+        "answer": "C",
+        "explanation": "지게차가 짐을 들어올리고 있는 상황이므로 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-05",
+        "image_description": "신제품 출시 이벤트 부스에서 직원이 마이크를 들고 군중에게 발표하는 모습",
+        "audio_script": "(A) Microphones are being distributed. (B) A crowd is gathering around a stage. (C) A speaker is addressing an audience. (D) People are taking down a display tent.",
+        "options": {
+          "A": "Microphones are being distributed.",
+          "B": "A crowd is gathering around a stage.",
+          "C": "A speaker is addressing an audience.",
+          "D": "People are taking down a display tent."
+        },
+        "answer": "C",
+        "explanation": "직원이 마이크를 들고 사람들에게 연설/발표를 하고 있으므로 (B)가 정답입니다."
+      },
+      {
+        "id": "LC1-06",
+        "image_description": "공항 터미널에서 캐리어를 끈 남자가 항공편 전광판을 쳐다보는 모습 (해외 출장 일정 변경)",
+        "audio_script": "(A) A passenger is boarding an aircraft. (B) A ticket is being handed to a flight attendant. (C) A traveler is checking a departure board. (D) Luggage is being placed on a conveyor belt.",
+        "options": {
+          "A": "A passenger is boarding an aircraft.",
+          "B": "A ticket is being handed to a flight attendant.",
+          "C": "A traveler is checking a departure board.",
+          "D": "Luggage is being placed on a conveyor belt."
+        },
+        "answer": "C",
+        "explanation": "여행객이 출발 전광판을 확인하고 있으므로 (A)가 정답입니다."
+      }
+    ],
+    "part2": [
+      {
+        "id": "LC2-07",
+        "audio_script": "Question: Has the software update been installed on all the computers? (A) Not all of them yet. (B) The IT department is on the third floor. (C) I prefer the older version.",
+        "options": {
+          "A": "Not all of them yet.",
+          "B": "The IT department is on the third floor.",
+          "C": "I prefer the older version."
+        },
+        "answer": "A",
+        "explanation": "소프트웨어 업데이트 설치 여부를 묻는 질문에 '아직 전부 다 된 것은 아니다'라고 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-08",
+        "audio_script": "Question: Where should we place the new marketing materials? (A) By the end of the campaign. (B) Right next to the reception desk. (C) We usually use a local print shop.",
+        "options": {
+          "A": "By the end of the campaign.",
+          "B": "Right next to the reception desk.",
+          "C": "We usually use a local print shop."
+        },
+        "answer": "B",
+        "explanation": "Where로 묻는 질문에 장소로 답한 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-09",
+        "audio_script": "Question: The logistics center expansion project is still on schedule, right? (A) No, we had a delay with the building permits. (B) It's a very spacious facility. (C) He will project the slides onto the screen.",
+        "options": {
+          "A": "No, we had a delay with the building permits.",
+          "B": "It's a very spacious facility.",
+          "C": "He will project the slides onto the screen."
+        },
+        "answer": "A",
+        "explanation": "프로젝트가 예정대로 진행되는지 묻는 부가 의문문에 건축 허가 문제로 지연되었다고 답한 (A)가 정답입니다. (C)는 project의 다의어 함정입니다."
+      },
+      {
+        "id": "LC2-10",
+        "audio_script": "Question: Who is in charge of responding to the negative customer feedback? (A) That would be Ms. Henderson in public relations. (B) Yes, they charged it to the corporate card. (C) I found it quite positive, actually.",
+        "options": {
+          "A": "That would be Ms. Henderson in public relations.",
+          "B": "Yes, they charged it to the corporate card.",
+          "C": "I found it quite positive, actually."
+        },
+        "answer": "A",
+        "explanation": "Who 질문에 구체적인 담당자 이름을 언급한 (B)가 정답입니다. (C)는 in charge of의 charge 동음이의어 함정입니다."
+      },
+      {
+        "id": "LC2-11",
+        "audio_script": "Question: When are you leaving for the overseas conference in Berlin? (A) I've never been to Germany. (B) Let's leave it on the manager's desk. (C) The itinerary was changed this morning.",
+        "options": {
+          "A": "I've never been to Germany.",
+          "B": "Let's leave it on the manager's desk.",
+          "C": "The itinerary was changed this morning."
+        },
+        "answer": "C",
+        "explanation": "언제 떠나는지 묻는 질문에 일정이 아침에 변경되었다며 간접적으로 답하는 우회적 응답 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-12",
+        "audio_script": "Question: Why did we switch to a different supplier for office furniture? (A) The new chairs are very comfortable. (B) I'll turn on the switch for you. (C) Because they offer a better corporate discount.",
+        "options": {
+          "A": "The new chairs are very comfortable.",
+          "B": "I'll turn on the switch for you.",
+          "C": "Because they offer a better corporate discount."
+        },
+        "answer": "C",
+        "explanation": "이유를 묻는 Why 질문에 Because로 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-13",
+        "audio_script": "Question: Are you going to the year-end wrap-up meeting, or do you have another appointment? (A) I need to meet with a client then. (B) He wrapped the gift nicely. (C) Yes, it's a great opportunity.",
+        "options": {
+          "A": "I need to meet with a client then.",
+          "B": "He wrapped the gift nicely.",
+          "C": "Yes, it's a great opportunity."
+        },
+        "answer": "A",
+        "explanation": "선택 의문문이므로 Yes/No로 시작하는 (A)는 오답이며, 다른 약속이 있다고 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-14",
+        "audio_script": "Question: Could you review this expense report before I submit it? (A) The view from the office is excellent. (B) Sure, leave it on my desk. (C) I submitted my application yesterday.",
+        "options": {
+          "A": "The view from the office is excellent.",
+          "B": "Sure, leave it on my desk.",
+          "C": "I submitted my application yesterday."
+        },
+        "answer": "B",
+        "explanation": "요청에 대해 수락하는 (B)가 정답입니다. (A)는 review/view 유사 발음 함정입니다."
+      },
+      {
+        "id": "LC2-15",
+        "audio_script": "Question: How many boxes do we need for the headquarters relocation? (A) We ordered fifty, but we might need more. (B) They are moving to a larger facility. (C) The shipping department is downstairs.",
+        "options": {
+          "A": "We ordered fifty, but we might need more.",
+          "B": "They are moving to a larger facility.",
+          "C": "The shipping department is downstairs."
+        },
+        "answer": "A",
+        "explanation": "수량을 묻는 How many 질문에 구체적 숫자로 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-16",
+        "audio_script": "Question: We should probably hire extra staff for the new product launch, shouldn't we? (A) I'll speak to the human resources director about it. (B) No, the launch party is on Friday. (C) The product is selling very well.",
+        "options": {
+          "A": "I'll speak to the human resources director about it.",
+          "B": "No, the launch party is on Friday.",
+          "C": "The product is selling very well."
+        },
+        "answer": "A",
+        "explanation": "인력 충원 제안에 대해 인사 담당자에게 이야기해보겠다며 호응하는 우회적 응답 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-17",
+        "audio_script": "Question: What time is the press conference for the global marketing campaign? (A) Several prominent journalists. (B) In the main auditorium. (C) It's been pushed back to 3 P.M.",
+        "options": {
+          "A": "Several prominent journalists.",
+          "B": "In the main auditorium.",
+          "C": "It's been pushed back to 3 P.M."
+        },
+        "answer": "C",
+        "explanation": "시간을 묻는 질문에 오후 3시로 미뤄졌다고 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-18",
+        "audio_script": "Question: Don't you think the new logo looks much better? (A) The graphic designer is running late. (B) I actually prefer the previous design. (C) He went to the logo presentation.",
+        "options": {
+          "A": "The graphic designer is running late.",
+          "B": "I actually prefer the previous design.",
+          "C": "He went to the logo presentation."
+        },
+        "answer": "B",
+        "explanation": "의견을 묻는 부정 의문문에 자신의 의견을 밝힌 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-19",
+        "audio_script": "Question: Is the budget proposal for the logistics expansion finished? (A) I'm still waiting for some cost estimates. (B) The expansion will double our capacity. (C) We proposed a new strategy.",
+        "options": {
+          "A": "I'm still waiting for some cost estimates.",
+          "B": "The expansion will double our capacity.",
+          "C": "We proposed a new strategy."
+        },
+        "answer": "A",
+        "explanation": "완료 여부를 묻는 질문에 아직 비용 견적을 기다리고 있다고 답한 간접 응답 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-20",
+        "audio_script": "Question: Who organized the training session on the new software? (A) Next Wednesday at 10 A.M. (B) The IT director handled all the details. (C) Please fill out the registration form.",
+        "options": {
+          "A": "Next Wednesday at 10 A.M.",
+          "B": "The IT director handled all the details.",
+          "C": "Please fill out the registration form."
+        },
+        "answer": "B",
+        "explanation": "Who 질문에 담당자를 명시한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-21",
+        "audio_script": "Question: Would you like me to book your flight to Singapore now? (A) Yes, a window seat please. (B) The flight takes about six hours. (C) I haven't received approval for the trip yet.",
+        "options": {
+          "A": "Yes, a window seat please.",
+          "B": "The flight takes about six hours.",
+          "C": "I haven't received approval for the trip yet."
+        },
+        "answer": "C",
+        "explanation": "예약을 도와줄지 묻는 제안에 아직 승인이 나지 않았다며 보류하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-22",
+        "audio_script": "Question: Where is the manual for the new office printer? (A) To print some promotional flyers. (B) The technician fixed the paper jam. (C) It should be in the top drawer of my desk.",
+        "options": {
+          "A": "To print some promotional flyers.",
+          "B": "The technician fixed the paper jam.",
+          "C": "It should be in the top drawer of my desk."
+        },
+        "answer": "C",
+        "explanation": "매뉴얼의 위치를 묻는 질문에 서랍 안에 있다고 답한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-23",
+        "audio_script": "Question: The board members approved the year-end budget, didn't they? (A) They voted unanimously in favor of it. (B) Across the board. (C) It's a very tight deadline.",
+        "options": {
+          "A": "They voted unanimously in favor of it.",
+          "B": "Across the board.",
+          "C": "It's a very tight deadline."
+        },
+        "answer": "A",
+        "explanation": "승인 여부를 묻는 부가 의문문에 만장일치로 찬성했다고 답한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-24",
+        "audio_script": "Question: When will the updated marketing strategy be distributed? (A) During the weekly staff meeting tomorrow. (B) She is a strategic thinker. (C) It's a highly competitive market.",
+        "options": {
+          "A": "During the weekly staff meeting tomorrow.",
+          "B": "She is a strategic thinker.",
+          "C": "It's a highly competitive market."
+        },
+        "answer": "A",
+        "explanation": "언제 배포될 것인지 묻는 질문에 내일 회의 중이라고 시점을 답한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-25",
+        "audio_script": "Question: How do you plan to address the recent customer complaints? (A) We are drafting a formal apology email. (B) No, I haven't complained about it. (C) The address is 1200 Commerce Way.",
+        "options": {
+          "A": "We are drafting a formal apology email.",
+          "B": "No, I haven't complained about it.",
+          "C": "The address is 1200 Commerce Way."
+        },
+        "answer": "A",
+        "explanation": "어떻게 대처할 것인지 묻는 방법에 대한 질문에 사과 이메일을 작성 중이라고 답한 (B)가 정답입니다. (A)는 address 다의어 함정입니다."
+      },
+      {
+        "id": "LC2-26",
+        "audio_script": "Question: Do you have a copy of the architectural plans for the new headquarters? (A) I sent the file to your inbox ten minutes ago. (B) The architect is very talented. (C) Yes, we plan to copy the report.",
+        "options": {
+          "A": "I sent the file to your inbox ten minutes ago.",
+          "B": "The architect is very talented.",
+          "C": "Yes, we plan to copy the report."
+        },
+        "answer": "A",
+        "explanation": "도면이 있는지 묻는 질문에 10분 전에 이메일로 보냈다고 답한 우회적 정답 (B)입니다."
+      },
+      {
+        "id": "LC2-27",
+        "audio_script": "Question: Why has the shipment of our new laptops been delayed? (A) They will ship it by air freight. (B) The laptop battery needs replacing. (C) Because of a strike at the port.",
+        "options": {
+          "A": "They will ship it by air freight.",
+          "B": "The laptop battery needs replacing.",
+          "C": "Because of a strike at the port."
+        },
+        "answer": "C",
+        "explanation": "배송 지연 이유를 묻는 질문에 항구 파업 때문이라고 답한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-28",
+        "audio_script": "Question: This conference room is too small for our quarterly review. (A) It was a glowing review. (B) Then let's reserve the auditorium on the first floor. (C) About a quarter of the budget.",
+        "options": {
+          "A": "It was a glowing review.",
+          "B": "Then let's reserve the auditorium on the first floor.",
+          "C": "About a quarter of the budget."
+        },
+        "answer": "B",
+        "explanation": "회의실이 너무 작다는 평서문에 1층 강당을 예약하자고 제안하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-29",
+        "audio_script": "Question: Are we renewing our contract with the catering service, or finding a new one? (A) The food was much better this time. (B) Management decided to look for other vendors. (C) Let's review the menu options.",
+        "options": {
+          "A": "The food was much better this time.",
+          "B": "Management decided to look for other vendors.",
+          "C": "Let's review the menu options."
+        },
+        "answer": "B",
+        "explanation": "선택 의문문에서 경영진이 다른 업체를 찾기로 결정했다고 명확히 알려주는 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-30",
+        "audio_script": "Question: How can I access the secure employee portal? (A) Through the main entrance. (B) Enter your badge ID and the temporary password. (C) Security is our top priority.",
+        "options": {
+          "A": "Through the main entrance.",
+          "B": "Enter your badge ID and the temporary password.",
+          "C": "Security is our top priority."
+        },
+        "answer": "B",
+        "explanation": "포털 접속 방법을 묻는 질문에 ID와 비밀번호를 입력하라고 안내하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-31",
+        "audio_script": "Question: The client from Tokyo is arriving today, isn't he? (A) I really enjoyed the presentation. (B) Tokyo is a bustling city. (C) Actually, his flight was rescheduled to tomorrow.",
+        "options": {
+          "A": "I really enjoyed the presentation.",
+          "B": "Tokyo is a bustling city.",
+          "C": "Actually, his flight was rescheduled to tomorrow."
+        },
+        "answer": "C",
+        "explanation": "오늘 도착하는지 확인하는 부가 의문문에 비행 일정이 내일로 변경되었다고 정정하는 (A)가 정답입니다."
+      }
+    ],
+    "part3": [
+      {
+        "set_id": "LC3-SET01",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Woman (US): Hi Daniel. I just saw the memo about the upcoming headquarters relocation. Are we still planning to move by the first week of November?\nMan (UK): Yes, that's the target. However, the renovations at the new downtown site are taking slightly longer than expected, particularly the installation of the network cables.\nWoman (US): I see. If the network isn't fully operational, our customer support team won't be able to take calls. We need at least a week to test the system before going live.\nMan (UK): Exactly. I'm meeting with the general contractor this afternoon. I'll ask them to prioritize the IT infrastructure so we don't experience any service downtime.",
+        "questions": [
+          {
+            "id": "LC3-32",
+            "question": "What is the main topic of the conversation?",
+            "options": {
+              "A": "Hiring new IT personnel",
+              "B": "Upgrading software systems",
+              "C": "Opening a customer service center",
+              "D": "Relocating to a new office"
+            },
+            "answer": "D",
+            "explanation": "대화 초반 여자가 headquarters relocation에 대해 언급하므로 (B) 사무실 이전이 정답입니다."
+          },
+          {
+            "id": "LC3-33",
+            "question": "What does the man mention as a cause for delay?",
+            "options": {
+              "A": "Issues with network installation",
+              "B": "A shortage of funding",
+              "C": "A delay in furniture delivery",
+              "D": "A problem with a building permit"
+            },
+            "answer": "A",
+            "explanation": "남자가 installation of the network cables가 예상보다 길어지고 있다고 했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-34",
+            "question": "What does the man plan to do this afternoon?",
+            "options": {
+              "A": "Visit the new downtown site",
+              "B": "Speak with a contractor",
+              "C": "Send out a memo",
+              "D": "Test a phone system"
+            },
+            "answer": "B",
+            "explanation": "남자가 I'm meeting with the general contractor this afternoon이라고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET02",
+        "context_type": "Financial Discussion",
+        "speakers": [
+          {
+            "name": "Man 1",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Man 1 (US): Sarah, have you finished compiling the data for the year-end financial report? The board of directors expects a presentation on Friday.\nWoman (AU): Almost. I've consolidated the sales figures from the European branches, but I'm still waiting on the final expense reports from the marketing division.\nMan 1 (US): That's concerning. They launched that huge global campaign in November, so their expenses will significantly impact our fourth-quarter profit margins.\nWoman (AU): I know. I've sent two reminder emails already. I'll go over to their office on the 5th floor now and speak to the director in person to expedite the process.",
+        "questions": [
+          {
+            "id": "LC3-35",
+            "question": "What are the speakers preparing for?",
+            "options": {
+              "A": "A marketing workshop",
+              "B": "A board presentation",
+              "C": "An annual audit",
+              "D": "A staff training session"
+            },
+            "answer": "B",
+            "explanation": "이사회(board of directors)에서 프레젠테이션을 예상하고 있다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-36",
+            "question": "What information is the woman waiting for?",
+            "options": {
+              "A": "Sales figures from Europe",
+              "B": "Expense reports from marketing",
+              "C": "A budget approval from the board",
+              "D": "A list of new product launches"
+            },
+            "answer": "B",
+            "explanation": "여자가 marketing division으로부터의 final expense reports를 기다리고 있다고 언급했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-37",
+            "question": "What will the woman most likely do next?",
+            "options": {
+              "A": "Visit a colleague's office",
+              "B": "Review the European data",
+              "C": "Schedule a meeting with the director",
+              "D": "Send another email"
+            },
+            "answer": "A",
+            "explanation": "여자가 5층 마케팅 사무실에 직접 가서 책임자와 이야기하겠다고 했으므로 (C) 동료의 사무실 방문이 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET03",
+        "context_type": "Customer Service",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Man (US): Thank you for calling Omega Electronics. How can I assist you today?\nWoman (US): Hello, I'm calling about an order I placed last week for five laptops for my small business. The tracking status hasn't updated in three days, and we need those computers by tomorrow to train new employees.\nMan (US): I apologize for the inconvenience. Let me look up your order number. Ah, I see. Your shipment was delayed because of a massive storm near our main distribution center. \nWoman (US): That's unfortunate. If they don't arrive by tomorrow, I'll have to delay the training session.\nMan (US): Let me do this. I'll upgrade your shipping to overnight express right now at no extra charge. They should be delivered to your office by 10 A.M. tomorrow.",
+        "questions": [
+          {
+            "id": "LC3-38",
+            "question": "Why is the woman calling?",
+            "options": {
+              "A": "To complain about a billing error",
+              "B": "To request a product repair",
+              "C": "To inquire about a delayed shipment",
+              "D": "To place an order for laptops"
+            },
+            "answer": "C",
+            "explanation": "여자가 주문한 물품의 배송 상태가 업데이트되지 않아 전화했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-39",
+            "question": "What caused the problem?",
+            "options": {
+              "A": "An incorrect shipping address",
+              "B": "An out-of-stock item",
+              "C": "Severe weather conditions",
+              "D": "A system glitch"
+            },
+            "answer": "C",
+            "explanation": "남자가 물류 센터 근처의 폭풍(massive storm) 때문이라고 했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-40",
+            "question": "What does the man offer to do for the woman?",
+            "options": {
+              "A": "Provide a full refund",
+              "B": "Send a replacement order",
+              "C": "Upgrade the shipping method",
+              "D": "Offer a discount on future purchases"
+            },
+            "answer": "C",
+            "explanation": "남자가 추가 비용 없이 야간 익일 배송(overnight express)으로 업그레이드해주겠다고 제안했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET04",
+        "context_type": "Marketing Meeting",
+        "speakers": [
+          {
+            "name": "Woman 1",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Woman 1 (UK): Now that our new skincare line is ready for production, we need to finalize the global marketing campaign. Have we decided on the primary platform for our advertisements?\nMan (AU): Well, based on the market research, our target demographic spends a significant amount of time on social media. I suggest we allocate seventy percent of the budget to online video ads.\nWoman 1 (UK): I agree with focusing on social media, but we shouldn't completely ignore traditional channels. A prominent billboard in major cities like Tokyo, New York, and Paris creates strong brand prestige.\nMan (AU): That's a fair point. Let's ask the finance team if there's enough room in the budget to cover both digital ads and a few strategic billboard placements.",
+        "questions": [
+          {
+            "id": "LC3-41",
+            "question": "What product is being discussed?",
+            "options": {
+              "A": "A line of clothing",
+              "B": "A skincare line",
+              "C": "A software application",
+              "D": "A fitness device"
+            },
+            "answer": "B",
+            "explanation": "여자가 new skincare line이라고 명확히 언급하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-42",
+            "question": "What does the man suggest doing?",
+            "options": {
+              "A": "Hiring a new social media manager",
+              "B": "Conducting more market research",
+              "C": "Spending most of the budget on online video ads",
+              "D": "Focusing entirely on traditional media"
+            },
+            "answer": "C",
+            "explanation": "남자가 70%의 예산을 온라인 비디오 광고에 할당하자고 제안하므로 (A)가 정답입니다."
+          },
+          {
+            "id": "LC3-43",
+            "question": "What will the speakers do next?",
+            "options": {
+              "A": "Design a new billboard",
+              "B": "Consult with the finance team",
+              "C": "Contact an advertising agency",
+              "D": "Travel to Paris and Tokyo"
+            },
+            "answer": "B",
+            "explanation": "남자가 재무팀(finance team)에 예산 여유가 있는지 물어보자고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET05",
+        "context_type": "Travel Arrangement",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Man (US): Hi Lisa, I just got an email from our clients in Singapore. They've requested to push our meetings back by two days. Is it possible to change my flight schedule?\nWoman (US): I can certainly look into that for you. Since you booked a flexible ticket, changing the date shouldn't incur a penalty fee. Let me check the airline's website right now.\nMan (US): That's a relief. Oh, and because I'll be staying longer, I'll need to extend my hotel reservation as well. \nWoman (US): Let's handle the flight first. It looks like there's a departure on Thursday evening that has an open seat in business class. Once I confirm this, I'll call the hotel directly.",
+        "questions": [
+          {
+            "id": "LC3-44",
+            "question": "Why does the man want to change his schedule?",
+            "options": {
+              "A": "A client requested a different meeting date.",
+              "B": "He needs more time to prepare a presentation.",
+              "C": "He missed his original flight.",
+              "D": "He wants to attend a conference."
+            },
+            "answer": "A",
+            "explanation": "싱가포르 고객이 회의를 이틀 미루자고 요청했다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-45",
+            "question": "What is mentioned about the man's plane ticket?",
+            "options": {
+              "A": "It was purchased at a discount.",
+              "B": "It is an economy class ticket.",
+              "C": "It allows for dates to be changed without a fee.",
+              "D": "It has already been canceled."
+            },
+            "answer": "C",
+            "explanation": "여자가 flexible ticket을 예약했기 때문에 위약금(penalty fee)이 발생하지 않을 것이라고 말했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-46",
+            "question": "What will the woman do after booking the flight?",
+            "options": {
+              "A": "Contact a hotel",
+              "B": "Print the travel itinerary",
+              "C": "Request a reimbursement",
+              "D": "Email the clients in Singapore"
+            },
+            "answer": "A",
+            "explanation": "여자가 비행기를 먼저 확정하고 나면 호텔에 직접 전화하겠다고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET06",
+        "context_type": "Facility Management",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Woman (UK): Brian, the volume of online orders has doubled over the last quarter. Our current logistics center simply doesn't have the capacity to handle this much inventory.\nMan (US): I completely agree. The aisles are overcrowded, which is slowing down our forklift operators and increasing processing times. We need to look into expanding the facility.\nWoman (UK): There's a vacant lot adjacent to our current warehouse that recently went up for sale. If we purchase it, we could build an extension and install an automated sorting system.\nMan (US): That sounds promising. Could you draft a preliminary proposal with some cost estimates? I'd like to present the idea at the executive board meeting next Monday.",
+        "questions": [
+          {
+            "id": "LC3-47",
+            "question": "What problem are the speakers discussing?",
+            "options": {
+              "A": "A decline in online sales",
+              "B": "Insufficient storage space",
+              "C": "A shortage of forklift operators",
+              "D": "Malfunctioning sorting equipment"
+            },
+            "answer": "B",
+            "explanation": "온라인 주문량이 두 배로 늘어 현재 물류 센터에 재고를 감당할 용량(capacity)이 부족하다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-48",
+            "question": "What solution does the woman propose?",
+            "options": {
+              "A": "Renting a warehouse in a different city",
+              "B": "Buying adjacent land to expand the building",
+              "C": "Hiring a third-party logistics company",
+              "D": "Reducing the number of product lines"
+            },
+            "answer": "B",
+            "explanation": "여자가 인접한 공터(vacant lot)를 사서 시설을 확장하자고 제안했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-49",
+            "question": "What does the man ask the woman to do?",
+            "options": {
+              "A": "Prepare a cost estimate document",
+              "B": "Schedule a meeting with the board",
+              "C": "Contact a real estate agent",
+              "D": "Inspect the vacant lot"
+            },
+            "answer": "A",
+            "explanation": "남자가 예비 제안서(preliminary proposal)와 비용 견적(cost estimates)을 작성해달라고 했으므로 (A)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET07",
+        "context_type": "IT Support",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man 2",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Man (AU): Hey team, management has just approved the rollout of the new cybersecurity software update. We need to install it on all company devices by Friday.\nWoman (US): That's a tight deadline. Will the update require the servers to be temporarily shut down?\nMan 2 (US): Yes, unfortunately. It will take the system offline for about two hours. We should probably schedule it during the night to minimize disruption to normal business operations.\nMan (AU): Good idea. Let's aim for Thursday midnight. I'll draft an email notification right now so all employees are aware and remember to save their work before logging off.",
+        "questions": [
+          {
+            "id": "LC3-50",
+            "question": "What is the purpose of the meeting?",
+            "options": {
+              "A": "To evaluate employee performance",
+              "B": "To review a security breach",
+              "C": "To discuss a new marketing strategy",
+              "D": "To plan a software installation"
+            },
+            "answer": "D",
+            "explanation": "새로운 사이버 보안 소프트웨어 업데이트 배포(rollout)에 대해 논의하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-51",
+            "question": "What concern does the woman raise?",
+            "options": {
+              "A": "The compatibility with existing hardware",
+              "B": "The temporary shutdown of servers",
+              "C": "The cost of the new software",
+              "D": "A lack of technical training"
+            },
+            "answer": "B",
+            "explanation": "여자가 업데이트로 인해 서버를 임시로 셧다운해야 하는지 우려 섞인 질문을 하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-52",
+            "question": "When will the event most likely take place?",
+            "options": {
+              "A": "Friday afternoon",
+              "B": "Over the weekend",
+              "C": "Thursday morning",
+              "D": "Thursday midnight"
+            },
+            "answer": "D",
+            "explanation": "남자가 Thursday midnight에 작업을 진행하자고 제안했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET08",
+        "context_type": "Event Planning",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Woman (UK): The new smartphone launch event is only three weeks away. Have we secured the keynote speakers and finalized the guest list?\nMan (US): The guest list is done, and invitations were sent out yesterday. However, our main speaker, the lead engineer, unexpectedly fell ill and won't be able to attend.\nWoman (UK): Oh no, that's a significant setback. His presentation on the new AI processor was supposed to be the highlight of the event. We need a replacement immediately.\nMan (US): I've already reached out to the senior product manager, Sarah Jenkins. She's deeply involved in the project and is an excellent public speaker. She's reviewing her schedule now.",
+        "questions": [
+          {
+            "id": "LC3-53",
+            "question": "What event are the speakers preparing for?",
+            "options": {
+              "A": "An annual shareholder meeting",
+              "B": "An employee orientation",
+              "C": "A retirement party",
+              "D": "A product launch"
+            },
+            "answer": "D",
+            "explanation": "대화 초반에 new smartphone launch event라고 언급하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-54",
+            "question": "What problem has occurred?",
+            "options": {
+              "A": "The main speaker is unable to attend.",
+              "B": "A venue canceled the reservation.",
+              "C": "A prototype was damaged.",
+              "D": "Invitations have not been sent."
+            },
+            "answer": "A",
+            "explanation": "메인 연사인 수석 엔지니어가 병에 걸려 참석하지 못하게 되었다고 하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-55",
+            "question": "Who is Sarah Jenkins?",
+            "options": {
+              "A": "A medical professional",
+              "B": "A senior product manager",
+              "C": "An event planner",
+              "D": "A catering coordinator"
+            },
+            "answer": "B",
+            "explanation": "남자가 senior product manager인 Sarah Jenkins에게 연락했다고 말했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET09",
+        "context_type": "Contract Negotiation",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Man (UK): I've been reviewing the renewed contract from our cloud storage provider. They are proposing a fifteen percent increase in the monthly subscription fee starting next year.\nWoman (US): A fifteen percent hike seems quite steep, especially considering the frequent server outages we experienced last quarter. Did they offer any additional features to justify the price jump?\nMan (UK): They mentioned enhanced data encryption and 24/7 priority customer support. But frankly, I think we can find a better rate with one of their competitors.\nWoman (US): Let's not sign anything yet. I'll assign my team to research alternative cloud service providers this week, and we can compare the pricing structures.",
+        "questions": [
+          {
+            "id": "LC3-56",
+            "question": "What is the main topic of the conversation?",
+            "options": {
+              "A": "Expanding storage space in the warehouse",
+              "B": "Renewing a service contract",
+              "C": "Upgrading office computers",
+              "D": "Hiring a legal consultant"
+            },
+            "answer": "B",
+            "explanation": "클라우드 스토리지 업체의 계약 갱신(renewed contract)과 요금 인상에 대해 논의하고 있으므로 (A)가 정답입니다."
+          },
+          {
+            "id": "LC3-57",
+            "question": "Why is the woman dissatisfied with the provider?",
+            "options": {
+              "A": "Their customer service is unhelpful.",
+              "B": "They had frequent server outages recently.",
+              "C": "They lost important company data.",
+              "D": "Their software is difficult to use."
+            },
+            "answer": "B",
+            "explanation": "여자가 지난 분기에 잦은 서버 다운(frequent server outages)을 겪었음을 언급하며 불만을 표하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-58",
+            "question": "What does the woman say her team will do?",
+            "options": {
+              "A": "Draft a new counteroffer",
+              "B": "Test the new security features",
+              "C": "Investigate alternative providers",
+              "D": "Cancel the current subscription immediately"
+            },
+            "answer": "C",
+            "explanation": "여자가 팀에게 대안 클라우드 서비스 업체를 조사(research alternative cloud service providers)하도록 지시하겠다고 하므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET10",
+        "context_type": "Human Resources",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "AU"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Woman (AU): Marcus, upper management wants to organize a team-building workshop for the entire sales department to boost morale after a challenging quarter. Do you have any venue suggestions?\nMan (US): The Oakwood Retreat Center is fantastic. They have large conference rooms for the seminars and great outdoor spaces for the team activities. Plus, it's only a forty-minute drive from the city.\nWoman (AU): That sounds ideal. We need a place that accommodates about eighty people. Could you call them and see if they have availability for the second weekend of next month?\nMan (US): Sure. I'll also ask them to email over a brochure with their catering options so we can select a lunch menu.",
+        "questions": [
+          {
+            "id": "LC3-59",
+            "question": "What is the purpose of the event?",
+            "options": {
+              "A": "To host an international conference",
+              "B": "To conduct a team-building workshop",
+              "C": "To introduce a new product line",
+              "D": "To celebrate a retirement"
+            },
+            "answer": "B",
+            "explanation": "대화 첫 문장에서 팀 빌딩 워크숍(team-building workshop)을 개최하길 원한다고 명시하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-60",
+            "question": "Why does the man recommend the Oakwood Retreat Center?",
+            "options": {
+              "A": "It offers both indoor and outdoor spaces.",
+              "B": "It is known for its affordable pricing.",
+              "C": "It recently renovated its guest rooms.",
+              "D": "It is located in the city center."
+            },
+            "answer": "A",
+            "explanation": "남자가 세미나를 위한 대회의실과 팀 활동을 위한 야외 공간이 훌륭하다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-61",
+            "question": "What will the man request from the venue?",
+            "options": {
+              "A": "A brochure with catering options",
+              "B": "A discount on accommodations",
+              "C": "A list of available activities",
+              "D": "A floor plan of the building"
+            },
+            "answer": "A",
+            "explanation": "점심 메뉴를 고르기 위해 케이터링 옵션이 있는 브로셔를 이메일로 보내달라고 요청하겠다고 하므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET11",
+        "context_type": "Product Development",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Man (US): I just got off a video call with the client regarding the new mobile app prototype. Overall, they were impressed with the design, but they had a few critical pieces of feedback.\nWoman (UK): What did they say? I thought we smoothed out all the major bugs during the beta testing phase last week.\nMan (US): Functionally, it's perfect. However, they feel the checkout process requires too many steps. They want us to streamline it so users can complete a purchase with just one click.\nWoman (UK): That shouldn't be too difficult to implement. I'll gather the software engineering team at 2 P.M. to discuss reconfiguring the user interface for the payment page.",
+        "questions": [
+          {
+            "id": "LC3-62",
+            "question": "What are the speakers discussing?",
+            "options": {
+              "A": "A marketing brochure design",
+              "B": "Results from a beta testing survey",
+              "C": "Feedback on an app prototype",
+              "D": "A new video conferencing tool"
+            },
+            "answer": "C",
+            "explanation": "고객과의 화상 통화 후 모바일 앱 프로토타입에 대한 피드백을 논의하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-63",
+            "question": "What does the client want changed?",
+            "options": {
+              "A": "The speed of the application",
+              "B": "The complexity of the checkout process",
+              "C": "The security of the payment system",
+              "D": "The color scheme of the logo"
+            },
+            "answer": "B",
+            "explanation": "고객이 결제 과정(checkout process)이 너무 많은 단계를 요구하여 간소화하길 원한다고 했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-64",
+            "question": "What does the woman plan to do at 2 P.M.?",
+            "options": {
+              "A": "Test the new payment gateway",
+              "B": "Submit a progress report",
+              "C": "Meet with the engineering team",
+              "D": "Call the client"
+            },
+            "answer": "C",
+            "explanation": "여자가 오후 2시에 소프트웨어 엔지니어링 팀을 모아 논의하겠다고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET12",
+        "context_type": "Interviewing Process",
+        "speakers": [
+          {
+            "name": "Woman 1",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Woman 1 (US): Have you had a chance to look over the resumes for the vacant Marketing Director position? We need to start scheduling interviews soon.\nMan (UK): Yes, I narrowed it down to three strong candidates. One of them, David Thorne, has over ten years of experience leading international campaigns for a major tech firm.\nWoman 1 (US): Oh, I saw his portfolio. His work is very impressive. But I noticed he currently lives in London. Would he be willing to relocate to our headquarters here in Chicago?\nMan (UK): I spoke to him briefly on the phone yesterday, and he confirmed that relocation is not an issue. He's actually looking forward to moving to the States. Let's invite him for a video interview next Tuesday.",
+        "questions": [
+          {
+            "id": "LC3-65",
+            "question": "What position are the speakers trying to fill?",
+            "options": {
+              "A": "Marketing Director",
+              "B": "Human Resources Manager",
+              "C": "Chief Executive Officer",
+              "D": "Sales Representative"
+            },
+            "answer": "A",
+            "explanation": "대화 첫 문장에서 비어있는 Marketing Director 자리에 대해 언급하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC3-66",
+            "question": "What concern does the woman have about a candidate?",
+            "options": {
+              "A": "He lacks leadership experience.",
+              "B": "His portfolio is incomplete.",
+              "C": "His salary expectations are too high.",
+              "D": "He lives in a different country."
+            },
+            "answer": "D",
+            "explanation": "후보자가 현재 런던에 거주하고 있어 시카고 본사로 이주할 의향이 있는지 우려하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-67",
+            "question": "What did the man do yesterday?",
+            "options": {
+              "A": "Conducted a background check",
+              "B": "Spoke with a candidate on the phone",
+              "C": "Sent an official job offer",
+              "D": "Booked a flight to London"
+            },
+            "answer": "B",
+            "explanation": "남자가 어제 그와 짧게 전화 통화(spoke to him briefly on the phone)를 했다고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET13",
+        "context_type": "Office Supplies",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Man (AU): The heavy-duty printer in the graphic design department has been breaking down a lot lately. It jammed three times just this morning while I was trying to print the new brochures.\nWoman (US): I know, the maintenance technician said it's essentially reached the end of its lifespan. Management has finally approved the budget to replace it with a state-of-the-art commercial model.\nMan (AU): That's great news. Do you know when the new machine will be delivered? We have a huge client presentation on Thursday and need to print high-quality mockups.\nWoman (US): It's scheduled for delivery on Wednesday afternoon. The supplier is also sending a technician to set it up and calibrate the color settings immediately.",
+        "questions": [
+          {
+            "id": "LC3-68",
+            "question": "What is the problem with the current equipment?",
+            "options": {
+              "A": "It breaks down frequently.",
+              "B": "It is too difficult to operate.",
+              "C": "It is out of ink.",
+              "D": "It consumes too much electricity."
+            },
+            "answer": "A",
+            "explanation": "남자가 프린터가 최근 고장이 잦고 오늘 아침에도 세 번이나 종이가 걸렸다고 하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC3-69",
+            "question": "Why does the man need the new equipment by Thursday?",
+            "options": {
+              "A": "To print materials for a client presentation",
+              "B": "To create banners for a marketing event",
+              "C": "To prepare for an employee training session",
+              "D": "To review a financial report"
+            },
+            "answer": "A",
+            "explanation": "목요일에 큰 고객 프레젠테이션이 있어 고품질 시안을 인쇄해야 한다고 했으므로 (A)가 정답입니다."
+          },
+          {
+            "id": "LC3-70",
+            "question": "What will happen on Wednesday afternoon?",
+            "options": {
+              "A": "A new machine will be delivered and set up.",
+              "B": "A client will visit the office.",
+              "C": "A budget meeting will take place.",
+              "D": "The design team will attend a workshop."
+            },
+            "answer": "A",
+            "explanation": "여자가 수요일 오후에 새 기계가 배송되며 기술자가 설치를 위해 방문한다고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "set_id": "LC4-SET01",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Attention all employees. As you know, our company has experienced incredible growth over the past year, and we have simply outgrown this building. I am thrilled to officially announce that we will be relocating our corporate headquarters to the new Horizon Tower downtown. The move is scheduled to take place over the weekend of November 15th to ensure there is no disruption to our normal workday. Professional movers will handle all furniture and large equipment, but we ask that you pack up your personal desk items into the provided boxes by Friday, the 14th. Detailed instructions and floor plans for the new office will be emailed to everyone this afternoon.",
+        "questions": [
+          {
+            "id": "LC4-71",
+            "question": "What is the main purpose of the announcement?",
+            "options": {
+              "A": "To congratulate staff on a sales record",
+              "B": "To explain a change in working hours",
+              "C": "To introduce a new company policy",
+              "D": "To announce an office relocation"
+            },
+            "answer": "D",
+            "explanation": "화자가 회사가 새 건물(Horizon Tower)로 사옥을 이전한다고 공지하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-72",
+            "question": "When is the event scheduled to happen?",
+            "options": {
+              "A": "During a public holiday",
+              "B": "On a Monday morning",
+              "C": "Over a weekend",
+              "D": "At the end of the month"
+            },
+            "answer": "C",
+            "explanation": "이사 일정이 주말(over the weekend of November 15th)에 예정되어 있다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-73",
+            "question": "What are employees asked to do by November 14th?",
+            "options": {
+              "A": "Pack their personal belongings",
+              "B": "Attend an orientation session",
+              "C": "Submit an expense report",
+              "D": "Sign a new contract"
+            },
+            "answer": "A",
+            "explanation": "직원들에게 14일 금요일까지 개인 물품을 상자에 포장(pack up your personal desk items)해 달라고 요청했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET02",
+        "context_type": "Speech",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Good evening, everyone, and welcome to our annual year-end corporate dinner. Before we begin the banquet, I want to take a moment to reflect on our achievements. This has been a record-breaking year for us, particularly regarding the expansion of our logistics centers in Asia and Europe. Thanks to the tireless efforts of our supply chain team, we have reduced international delivery times by 20 percent. This directly resulted in our highest customer satisfaction ratings in company history. As a token of appreciation for your hard work, the board of directors has decided to award a year-end bonus to all employees, which will be reflected in your next paycheck. Now, please enjoy the meal and the live music!",
+        "questions": [
+          {
+            "id": "LC4-74",
+            "question": "Who is the speaker most likely addressing?",
+            "options": {
+              "A": "Local government officials",
+              "B": "Company employees",
+              "C": "New customers",
+              "D": "Potential investors"
+            },
+            "answer": "B",
+            "explanation": "연말 기업 만찬에서 직원들의 노고에 감사하며 보너스를 발표하는 상황이므로 (A)가 정답입니다."
+          },
+          {
+            "id": "LC4-75",
+            "question": "What achievement does the speaker highlight?",
+            "options": {
+              "A": "Reducing international delivery times",
+              "B": "Launching a new smartphone",
+              "C": "Winning an industry award",
+              "D": "Acquiring a rival company"
+            },
+            "answer": "A",
+            "explanation": "화자가 국제 배송 시간을 20% 단축(reduced international delivery times)했다고 강조하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-76",
+            "question": "What will listeners receive in their next paycheck?",
+            "options": {
+              "A": "A travel allowance",
+              "B": "A refund for expenses",
+              "C": "A voucher for a restaurant",
+              "D": "A year-end bonus"
+            },
+            "answer": "D",
+            "explanation": "이사회 결정으로 모든 직원에게 연말 보너스(year-end bonus)가 지급될 것이라고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET03",
+        "context_type": "Voicemail",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Hello, this message is for the customer service department at Vertex Furniture. My name is Amanda Clark, and I'm calling regarding an order I received yesterday, order number 4492. I purchased the executive leather office chair, but unfortunately, the package didn't include the assembly hardware—the screws and bolts are completely missing. I am setting up a home office and desperately need this chair by the end of the week. Could you please send the missing parts via expedited shipping as soon as possible? You can reach me at 555-0198 to confirm when they will be shipped out. Thank you.",
+        "questions": [
+          {
+            "id": "LC4-77",
+            "question": "Why is the speaker calling?",
+            "options": {
+              "A": "To ask for a refund on a defective product",
+              "B": "To cancel a membership",
+              "C": "To schedule a repair service",
+              "D": "To report missing parts from an order"
+            },
+            "answer": "D",
+            "explanation": "주문한 의자에 조립용 부품(나사 등)이 빠져 있다고 불만을 제기하는 전화이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-78",
+            "question": "What did the speaker purchase?",
+            "options": {
+              "A": "A computer monitor",
+              "B": "A wooden desk",
+              "C": "A filing cabinet",
+              "D": "An office chair"
+            },
+            "answer": "D",
+            "explanation": "화자가 executive leather office chair를 구매했다고 명시하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC4-79",
+            "question": "What does the speaker request?",
+            "options": {
+              "A": "A discount on her next purchase",
+              "B": "Instructions on how to assemble a product",
+              "C": "Expedited shipping for the missing items",
+              "D": "A call back from a technician"
+            },
+            "answer": "C",
+            "explanation": "누락된 부품을 급행 배송(expedited shipping)으로 빨리 보내달라고 요청했으므로 (A)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET04",
+        "context_type": "Radio Broadcast",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "You're listening to Tech Talk on Radio 99.5. Coming up after the commercial break, we'll be discussing the highly anticipated global marketing campaign for the new Nova X smartwatch. Launching simultaneously in twenty countries tomorrow, the Nova X promises revolutionary health tracking features, including real-time blood pressure monitoring. We have an exclusive interview lined up with the lead developer of the device, who will explain the cutting-edge sensor technology behind these new functions. But first, let's take a quick look at the local traffic report to see how your morning commute is shaping up.",
+        "questions": [
+          {
+            "id": "LC4-80",
+            "question": "What is the subject of the upcoming discussion?",
+            "options": {
+              "A": "An update to a mobile app",
+              "B": "A change in broadcasting regulations",
+              "C": "A new health clinic opening",
+              "D": "A global launch of a smartwatch"
+            },
+            "answer": "D",
+            "explanation": "새로운 스마트워치(Nova X smartwatch)의 글로벌 출시 마케팅 캠페인에 대해 다룰 예정이라고 하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-81",
+            "question": "Who will be interviewed on the program?",
+            "options": {
+              "A": "A marketing director",
+              "B": "A medical doctor",
+              "C": "A professional athlete",
+              "D": "A lead developer"
+            },
+            "answer": "D",
+            "explanation": "해당 기기의 수석 개발자(lead developer)와 독점 인터뷰가 예정되어 있다고 하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC4-82",
+            "question": "What will listeners hear next?",
+            "options": {
+              "A": "A commercial for a car",
+              "B": "A song by a local band",
+              "C": "A traffic report",
+              "D": "A weather forecast"
+            },
+            "answer": "C",
+            "explanation": "인터뷰 전에 먼저 지역 교통 정보(local traffic report)를 살펴보겠다고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET05",
+        "context_type": "Tour",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Welcome, everyone, to the newly expanded regional logistics center. I'm Rebecca, your guide for today's facility tour. As you can see, this recent expansion has doubled our floor space, allowing us to process up to fifty thousand packages daily. To my right is our brand-new automated conveyor system, which sorts parcels by destination zip code using optical barcode scanners. This technology has practically eliminated human sorting errors. For your safety, please ensure you stay within the yellow painted lines on the floor as we walk through the active loading zones, as forklifts are operating constantly. Let's head over to the quality control area now.",
+        "questions": [
+          {
+            "id": "LC4-83",
+            "question": "Where is the tour taking place?",
+            "options": {
+              "A": "At a recycling facility",
+              "B": "At a logistics center",
+              "C": "At a manufacturing plant",
+              "D": "At a technology museum"
+            },
+            "answer": "B",
+            "explanation": "화자가 newly expanded regional logistics center에 온 것을 환영한다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-84",
+            "question": "What is mentioned as a benefit of the new conveyor system?",
+            "options": {
+              "A": "It requires less electricity.",
+              "B": "It operates silently.",
+              "C": "It reduces sorting errors.",
+              "D": "It is made from recycled materials."
+            },
+            "answer": "C",
+            "explanation": "새로운 컨베이어 시스템이 작업자의 분류 오류를 사실상 없앴다(eliminated human sorting errors)고 했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC4-85",
+            "question": "What safety instruction does the speaker give?",
+            "options": {
+              "A": "Stay within the yellow lines.",
+              "B": "Keep away from the conveyor belts.",
+              "C": "Wear a hard hat at all times.",
+              "D": "Do not take photographs."
+            },
+            "answer": "A",
+            "explanation": "지게차가 운행 중이므로 바닥의 노란 선(yellow painted lines) 안쪽으로 걸어 달라고 안전 지시를 하므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET06",
+        "context_type": "Excerpt from a Meeting",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Before we wrap up this meeting, I want to address the upcoming software update for our internal communication platform. Starting next Monday, the IT department will roll out version 4.0 across the entire corporate network. This mandatory update includes several crucial security patches to protect our sensitive client data from external threats. Because the interface will look quite different, the IT team has created a short instructional video detailing the new layout and features. I strongly encourage everyone to watch it before Monday so you aren't caught off guard. I will post the link to the video on the company intranet homepage right after this meeting.",
+        "questions": [
+          {
+            "id": "LC4-86",
+            "question": "What is the topic of the excerpt?",
+            "options": {
+              "A": "A new policy for data storage",
+              "B": "A mandatory software update",
+              "C": "A schedule for network maintenance",
+              "D": "A change to the company dress code"
+            },
+            "answer": "B",
+            "explanation": "회사 내부 통신 플랫폼의 필수 소프트웨어 업데이트(mandatory software update)에 대해 이야기하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-87",
+            "question": "Why is the update considered crucial?",
+            "options": {
+              "A": "It allows for mobile access.",
+              "B": "It improves internet speed.",
+              "C": "It adds a video conferencing feature.",
+              "D": "It includes important security patches."
+            },
+            "answer": "D",
+            "explanation": "외부 위협으로부터 클라이언트 데이터를 보호하기 위한 중요한 보안 패치(crucial security patches)가 포함되어 있기 때문이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-88",
+            "question": "What does the speaker urge the listeners to do?",
+            "options": {
+              "A": "Back up their files",
+              "B": "Watch an instructional video",
+              "C": "Change their passwords",
+              "D": "Contact the IT help desk"
+            },
+            "answer": "B",
+            "explanation": "화자가 월요일 전에 새로운 인터페이스를 설명하는 교육용 비디오를 시청하라고 강하게 권장하므로 (A)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET07",
+        "context_type": "Telephone Message",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Hi Mr. Bennett, this is Laura from corporate travel calling. I'm leaving this message to inform you about a change to your overseas business trip schedule to Frankfurt. Unfortunately, the airline just notified us that your original flight on Wednesday morning has been canceled due to a mechanical issue with the aircraft. I have gone ahead and rebooked you on the next available flight, which departs at 4 P.M. on the same day. Because of this delay, you will miss the introductory reception dinner. I've already emailed the conference organizers to let them know you'll be arriving late. Please call me back if you have any questions.",
+        "questions": [
+          {
+            "id": "LC4-89",
+            "question": "Who is the speaker most likely calling from?",
+            "options": {
+              "A": "An airline ticket counter",
+              "B": "A hotel reservation desk",
+              "C": "A corporate travel agency",
+              "D": "A conference organizing committee"
+            },
+            "answer": "C",
+            "explanation": "화자가 corporate travel(기업 출장 부서/대행사)에서 전화했다고 밝혔으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC4-90",
+            "question": "Why was the flight changed?",
+            "options": {
+              "A": "A mechanical issue",
+              "B": "A pilot strike",
+              "C": "An overbooked flight",
+              "D": "Severe weather conditions"
+            },
+            "answer": "A",
+            "explanation": "항공기의 기계적 결함(mechanical issue)으로 인해 원래 비행편이 취소되었다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-91",
+            "question": "What event will the listener miss?",
+            "options": {
+              "A": "A contract signing",
+              "B": "A factory tour",
+              "C": "A training workshop",
+              "D": "A reception dinner"
+            },
+            "answer": "D",
+            "explanation": "지연으로 인해 도입부 환영 만찬(introductory reception dinner)을 놓치게 될 것이라고 했으므로 (D)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET08",
+        "context_type": "Advertisement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Are you struggling to manage your company's year-end financial settlement? Preparing tax documents, auditing expenses, and balancing the books can be overwhelming for any small business owner. Let the experts at Apex Financial Consulting take the stress out of your corporate accounting. With over twenty years of experience, our certified accountants specialize in maximizing tax deductions and ensuring total regulatory compliance. For the entire month of December, we are offering a free, one-hour initial consultation to all new clients. Visit our website at apexfinancial.com to book your appointment today, and let us help you finish the fiscal year strong.",
+        "questions": [
+          {
+            "id": "LC4-92",
+            "question": "What type of service is being advertised?",
+            "options": {
+              "A": "Marketing strategy",
+              "B": "Financial consulting",
+              "C": "Legal counseling",
+              "D": "IT support"
+            },
+            "answer": "B",
+            "explanation": "기업 회계 및 연말 결산(financial settlement)을 도와주는 금융 컨설팅 서비스 광고이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-93",
+            "question": "What is mentioned about the firm's employees?",
+            "options": {
+              "A": "They offer 24-hour service.",
+              "B": "They speak multiple languages.",
+              "C": "They are former government officials.",
+              "D": "They are certified accountants."
+            },
+            "answer": "D",
+            "explanation": "회사의 직원들이 공인 회계사(certified accountants)라고 언급했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "LC4-94",
+            "question": "What special offer is available in December?",
+            "options": {
+              "A": "A complimentary tax guide",
+              "B": "A discounted software subscription",
+              "C": "A free initial consultation",
+              "D": "A waived registration fee"
+            },
+            "answer": "C",
+            "explanation": "12월 한 달 동안 신규 고객에게 1시간 무료 초기 상담(free, one-hour initial consultation)을 제공한다고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET09",
+        "context_type": "Introduction",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Good morning, and a warm welcome to all of our new hires. My name is Cynthia, the Director of Human Resources, and I'll be leading your orientation today. You are joining us at a very exciting time, as we recently launched our new global marketing campaign to expand into the South American market. Today's schedule is quite full. We'll start with an overview of our corporate policies, followed by a facility tour. Then, at noon, you will be treated to a catered lunch in the cafeteria, where you'll have the opportunity to meet your respective department managers. Let's get started by having everyone introduce themselves and state which department they will be working in.",
+        "questions": [
+          {
+            "id": "LC4-95",
+            "question": "Who is the speaker addressing?",
+            "options": {
+              "A": "Foreign investors",
+              "B": "Factory workers",
+              "C": "Board members",
+              "D": "New employees"
+            },
+            "answer": "D",
+            "explanation": "화자가 신입 사원(new hires) 오리엔테이션에서 환영 인사를 하고 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-96",
+            "question": "What recent company development does the speaker mention?",
+            "options": {
+              "A": "The appointment of a new CEO",
+              "B": "The launch of a global marketing campaign",
+              "C": "The acquisition of a competitor",
+              "D": "The opening of a new branch"
+            },
+            "answer": "B",
+            "explanation": "최근 남미 시장으로 확장하기 위한 새로운 글로벌 마케팅 캠페인(global marketing campaign)을 시작했다고 언급하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-97",
+            "question": "What will happen at noon?",
+            "options": {
+              "A": "A safety training session",
+              "B": "A tour of the facility",
+              "C": "A catered lunch with managers",
+              "D": "A group photograph"
+            },
+            "answer": "C",
+            "explanation": "정오(at noon)에 구내식당에서 부서 매니저들과 함께 케이터링 점심 식사를 할 것이라고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET10",
+        "context_type": "Public Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "May I have your attention, please. This is a public service announcement for all passengers traveling on the express commuter train to the central business district. Due to emergency track maintenance ahead near the Riverview Bridge, this train will be operating at a reduced speed for the next five miles. As a result, we anticipate a delay of approximately fifteen to twenty minutes arriving at Central Station. We apologize for the inconvenience this may cause to your morning commute. If you have a connecting outbound train at Central Station, please speak to a customer service agent on the platform upon arrival to get your ticket rebooked. Thank you for your patience.",
+        "questions": [
+          {
+            "id": "LC4-98",
+            "question": "Where is the announcement being made?",
+            "options": {
+              "A": "At an airport gate",
+              "B": "On a ferry",
+              "C": "On a commuter train",
+              "D": "In a bus terminal"
+            },
+            "answer": "C",
+            "explanation": "중심 업무 지구로 향하는 급행 통근 열차(express commuter train) 승객들에게 하는 방송이므로 (A)가 정답입니다."
+          },
+          {
+            "id": "LC4-99",
+            "question": "What is the cause of the delay?",
+            "options": {
+              "A": "Emergency track maintenance",
+              "B": "A power outage",
+              "C": "An accident on the highway",
+              "D": "Bad weather conditions"
+            },
+            "answer": "A",
+            "explanation": "Riverview Bridge 근처의 선로 긴급 유지보수(emergency track maintenance) 때문이라고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "LC4-100",
+            "question": "What should passengers with connecting trains do?",
+            "options": {
+              "A": "Purchase a new ticket online",
+              "B": "Wait in the waiting lounge",
+              "C": "Call a hotline number",
+              "D": "Speak to an agent upon arrival"
+            },
+            "answer": "D",
+            "explanation": "환승 열차가 있는 경우 도착 후 플랫폼에 있는 고객 서비스 직원에게 이야기(speak to a customer service agent on the platform upon arrival)하라고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      }
+    ]
+  },
+  "rc": {
+    "part5": [
+      {
+        "id": "RC5-101",
+        "category": "Grammar - Noun",
+        "question": "The company’s -------- to the new downtown office will take place over the weekend.",
+        "options": {
+          "A": "relocating",
+          "B": "relocated",
+          "C": "relocate",
+          "D": "relocation"
+        },
+        "answer": "D",
+        "translation": "회사의 새 시내 사무실로의 이전은 주말 동안 진행될 것이다.",
+        "explanation": "소유격(company's) 뒤에 올 명사 자리가 필요하므로 (B) relocation이 정답입니다.",
+        "key_vocabulary": [
+          "relocation: 이전",
+          "take place: 개최되다, 일어나다"
+        ]
+      },
+      {
+        "id": "RC5-102",
+        "category": "Vocabulary - Adjective",
+        "question": "Employees are requested to pack their belongings into the -------- boxes provided by the moving company.",
+        "options": {
+          "A": "fluent",
+          "B": "spacious",
+          "C": "hesitant",
+          "D": "sturdy"
+        },
+        "answer": "D",
+        "translation": "직원들은 이사업체에서 제공한 튼튼한 상자에 소지품을 포장하시기 바랍니다.",
+        "explanation": "상자(boxes)를 수식하기에 가장 적절한 어휘는 튼튼한이라는 뜻의 (B) sturdy입니다.",
+        "key_vocabulary": [
+          "belonging: 소지품",
+          "sturdy: 튼튼한"
+        ]
+      },
+      {
+        "id": "RC5-103",
+        "category": "Grammar - Verb",
+        "question": "The management -------- the exact moving schedule as soon as it is finalized.",
+        "options": {
+          "A": "announced",
+          "B": "announcing",
+          "C": "will announce",
+          "D": "has announced"
+        },
+        "answer": "C",
+        "translation": "경영진은 정확한 이전 일정이 확정되는 대로 발표할 것이다.",
+        "explanation": "시간 부사절(as soon as it is finalized)이 현재시제로 미래를 나타내므로 주절에는 미래시제가 와야 합니다. 정답은 (B) will announce입니다.",
+        "key_vocabulary": [
+          "management: 경영진",
+          "finalize: 확정하다"
+        ]
+      },
+      {
+        "id": "RC5-104",
+        "category": "Grammar - Preposition",
+        "question": "All personal items must be removed from the desks -------- 5:00 P.M. on Friday.",
+        "options": {
+          "A": "in",
+          "B": "on",
+          "C": "until",
+          "D": "by"
+        },
+        "answer": "D",
+        "translation": "모든 개인 물품은 금요일 오후 5시까지 책상에서 치워져야 합니다.",
+        "explanation": "어떤 행위가 완료되는 시한을 나타낼 때는 전치사 by를 사용합니다. until은 상태의 계속을 나타냅니다.",
+        "key_vocabulary": [
+          "remove: 제거하다, 치우다"
+        ]
+      },
+      {
+        "id": "RC5-105",
+        "category": "Grammar - Pronoun",
+        "question": "The new headquarters features a modern cafeteria, which will be open exclusively to -------- employees.",
+        "options": {
+          "A": "our",
+          "B": "ours",
+          "C": "us",
+          "D": "we"
+        },
+        "answer": "A",
+        "translation": "새 본사는 현대적인 구내식당을 갖추고 있으며, 이는 우리 직원들에게만 독점적으로 개방될 것입니다.",
+        "explanation": "명사(employees) 앞에서 이를 수식하는 소유격 대명사가 필요하므로 (A) our가 정답입니다.",
+        "key_vocabulary": [
+          "headquarters: 본사",
+          "exclusively: 독점적으로"
+        ]
+      },
+      {
+        "id": "RC5-106",
+        "category": "Grammar - Conjunction",
+        "question": "-------- the new building is larger, it will accommodate all departments on a single floor.",
+        "options": {
+          "A": "However",
+          "B": "Despite",
+          "C": "Therefore",
+          "D": "Because"
+        },
+        "answer": "D",
+        "translation": "새 건물이 더 크기 때문에, 단일 층에 모든 부서를 수용할 수 있을 것입니다.",
+        "explanation": "주어와 동사를 갖춘 절을 이끌고 원인을 나타내는 접속사가 필요하므로 (B) Because가 정답입니다.",
+        "key_vocabulary": [
+          "accommodate: 수용하다"
+        ]
+      },
+      {
+        "id": "RC5-107",
+        "category": "Grammar - Adverb",
+        "question": "Any IT equipment that is not working -------- should be reported to the technical support team.",
+        "options": {
+          "A": "properly",
+          "B": "properness",
+          "C": "property",
+          "D": "proper"
+        },
+        "answer": "A",
+        "translation": "제대로 작동하지 않는 모든 IT 장비는 기술 지원 팀에 보고되어야 합니다.",
+        "explanation": "동사(working)를 수식하는 부사가 필요하므로 (C) properly가 정답입니다.",
+        "key_vocabulary": [
+          "equipment: 장비",
+          "properly: 제대로, 적절히"
+        ]
+      },
+      {
+        "id": "RC5-108",
+        "category": "Grammar - Adjective",
+        "question": "A -------- workspace will be set up in the lobby for employees who need to access the network during the move.",
+        "options": {
+          "A": "temporarily",
+          "B": "temporaries",
+          "C": "temporariness",
+          "D": "temporary"
+        },
+        "answer": "D",
+        "translation": "이전 기간 동안 네트워크에 접속해야 하는 직원들을 위해 로비에 임시 작업 공간이 마련될 것입니다.",
+        "explanation": "명사(workspace)를 수식하는 형용사 자리이므로 (A) temporary가 정답입니다.",
+        "key_vocabulary": [
+          "workspace: 작업 공간",
+          "temporary: 임시의"
+        ]
+      },
+      {
+        "id": "RC5-109",
+        "category": "Vocabulary - Noun",
+        "question": "The finance department is currently reviewing all expense reports for the year-end --------.",
+        "options": {
+          "A": "appointment",
+          "B": "settlement",
+          "C": "destination",
+          "D": "foundation"
+        },
+        "answer": "B",
+        "translation": "재무 부서는 현재 연말 정산을 위해 모든 경비 보고서를 검토하고 있습니다.",
+        "explanation": "year-end(연말)와 어울려 '연말 정산'이라는 의미를 만드는 명사는 (A) settlement입니다.",
+        "key_vocabulary": [
+          "expense report: 경비 보고서",
+          "settlement: 정산, 합의"
+        ]
+      },
+      {
+        "id": "RC5-110",
+        "category": "Grammar - Verb",
+        "question": "All managers must -------- that their team members have submitted valid receipts by December 15.",
+        "options": {
+          "A": "ensuring",
+          "B": "ensured",
+          "C": "ensure",
+          "D": "sure"
+        },
+        "answer": "C",
+        "translation": "모든 매니저들은 팀원들이 12월 15일까지 유효한 영수증을 제출했는지 확실히 해야 합니다.",
+        "explanation": "조동사(must) 뒤에는 동사원형이 와야 하므로 (B) ensure가 정답입니다.",
+        "key_vocabulary": [
+          "ensure: 확실히 하다",
+          "valid: 유효한",
+          "receipt: 영수증"
+        ]
+      },
+      {
+        "id": "RC5-111",
+        "category": "Vocabulary - Adverb",
+        "question": "Corporate credit card usage policies will be -------- enforced starting next fiscal year.",
+        "options": {
+          "A": "mutually",
+          "B": "lightly",
+          "C": "barely",
+          "D": "strictly"
+        },
+        "answer": "D",
+        "translation": "법인 신용카드 사용 규정은 다음 회계연도부터 엄격하게 시행될 것입니다.",
+        "explanation": "규정이나 법이 '엄격하게' 시행된다는 문맥이므로 (A) strictly가 정답입니다.",
+        "key_vocabulary": [
+          "enforce: 시행하다",
+          "strictly: 엄격하게"
+        ]
+      },
+      {
+        "id": "RC5-112",
+        "category": "Grammar - Adjective",
+        "question": "Employees with incomplete -------- records will face delays in receiving their reimbursements.",
+        "options": {
+          "A": "financially",
+          "B": "financed",
+          "C": "finance",
+          "D": "financial"
+        },
+        "answer": "D",
+        "translation": "불완전한 재무 기록을 가진 직원들은 환급을 받는 데 지연을 겪게 될 것입니다.",
+        "explanation": "명사(records)를 수식하는 형용사 자리이므로 (B) financial이 정답입니다.",
+        "key_vocabulary": [
+          "incomplete: 불완전한",
+          "reimbursement: 환급, 배상"
+        ]
+      },
+      {
+        "id": "RC5-113",
+        "category": "Grammar - Noun",
+        "question": "The -------- for the late submission of expense claims is a 10 percent deduction from the total amount.",
+        "options": {
+          "A": "penalties",
+          "B": "penalize",
+          "C": "penalizing",
+          "D": "penalty"
+        },
+        "answer": "D",
+        "translation": "경비 청구서 지연 제출에 대한 벌금은 총액의 10% 삭감입니다.",
+        "explanation": "관사(The) 뒤에 단수 동사(is)와 호응하는 단수 명사 자리이므로 (A) penalty가 정답입니다.",
+        "key_vocabulary": [
+          "submission: 제출",
+          "deduction: 공제, 삭감"
+        ]
+      },
+      {
+        "id": "RC5-114",
+        "category": "Grammar - Preposition",
+        "question": "Reimbursement requests submitted -------- the deadline will not be processed until the following month.",
+        "options": {
+          "A": "onto",
+          "B": "past",
+          "C": "into",
+          "D": "over"
+        },
+        "answer": "B",
+        "translation": "마감일이 지나서 제출된 환급 요청은 다음 달까지 처리되지 않을 것입니다.",
+        "explanation": "특정 시점을 '지나서'라는 의미의 전치사가 필요하므로 (B) past가 정답입니다.",
+        "key_vocabulary": [
+          "process: 처리하다",
+          "deadline: 마감일"
+        ]
+      },
+      {
+        "id": "RC5-115",
+        "category": "Vocabulary - Verb",
+        "question": "We sincerely -------- for the inconvenience caused by the recent software outage.",
+        "options": {
+          "A": "apologize",
+          "B": "regret",
+          "C": "forgive",
+          "D": "excuse"
+        },
+        "answer": "A",
+        "translation": "최근의 소프트웨어 중단으로 인해 발생한 불편에 대해 진심으로 사과드립니다.",
+        "explanation": "전치사 for와 함께 쓰여 '~에 대해 사과하다'라는 의미를 나타내는 자동사는 (B) apologize입니다.",
+        "key_vocabulary": [
+          "inconvenience: 불편",
+          "outage: 정전, 단전, 가동 중단"
+        ]
+      },
+      {
+        "id": "RC5-116",
+        "category": "Grammar - Noun",
+        "question": "The customer service representative listened to the client's -------- with great patience.",
+        "options": {
+          "A": "complain",
+          "B": "complaining",
+          "C": "complains",
+          "D": "complaint"
+        },
+        "answer": "D",
+        "translation": "고객 서비스 담당자는 아주 인내심 있게 고객의 불만을 들었습니다.",
+        "explanation": "소유격(client's) 뒤에 명사가 필요하므로 (C) complaint(불만)가 정답입니다.",
+        "key_vocabulary": [
+          "representative: 담당자, 대표",
+          "patience: 인내심"
+        ]
+      },
+      {
+        "id": "RC5-117",
+        "category": "Vocabulary - Adverb",
+        "question": "Our technical team worked -------- to restore the server and minimize data loss.",
+        "options": {
+          "A": "tirelessly",
+          "B": "scarcely",
+          "C": "hardly",
+          "D": "commonly"
+        },
+        "answer": "A",
+        "translation": "우리 기술팀은 서버를 복구하고 데이터 손실을 최소화하기 위해 끊임없이 노력했습니다.",
+        "explanation": "노력이나 작업이 '지치지 않고, 끊임없이' 이루어졌다는 문맥이므로 (A) tirelessly가 정답입니다.",
+        "key_vocabulary": [
+          "restore: 복구하다",
+          "minimize: 최소화하다"
+        ]
+      },
+      {
+        "id": "RC5-118",
+        "category": "Grammar - Verb",
+        "question": "To -------- the issue with your defective product, we have dispatched a replacement overnight.",
+        "options": {
+          "A": "resolved",
+          "B": "resolve",
+          "C": "resolving",
+          "D": "resolves"
+        },
+        "answer": "B",
+        "translation": "결함이 있는 제품 문제를 해결하기 위해, 당사는 대체품을 익일 배송으로 발송했습니다.",
+        "explanation": "목적을 나타내는 to 부정사가 필요하므로 동사원형인 (A) resolve가 정답입니다.",
+        "key_vocabulary": [
+          "defective: 결함이 있는",
+          "dispatch: 발송하다",
+          "replacement: 대체품"
+        ]
+      },
+      {
+        "id": "RC5-119",
+        "category": "Vocabulary - Adjective",
+        "question": "The company offers a -------- refund to any customer who is not completely satisfied with their purchase.",
+        "options": {
+          "A": "wide",
+          "B": "filled",
+          "C": "full",
+          "D": "broad"
+        },
+        "answer": "C",
+        "translation": "회사는 구매에 완전히 만족하지 않는 모든 고객에게 전액 환불을 제공합니다.",
+        "explanation": "환불(refund)을 수식하여 '전액'의 의미를 만드는 형용사는 (A) full입니다.",
+        "key_vocabulary": [
+          "refund: 환불",
+          "satisfied: 만족한"
+        ]
+      },
+      {
+        "id": "RC5-120",
+        "category": "Grammar - Pronoun",
+        "question": "If you need further assistance, please contact -------- at the toll-free number provided below.",
+        "options": {
+          "A": "us",
+          "B": "we",
+          "C": "our",
+          "D": "ours"
+        },
+        "answer": "A",
+        "translation": "추가적인 도움이 필요하시면 아래 제공된 수신자 부담 번호로 저희에게 연락해 주십시오.",
+        "explanation": "타동사(contact)의 목적어 자리이므로 목적격 대명사인 (C) us가 정답입니다.",
+        "key_vocabulary": [
+          "assistance: 도움, 지원",
+          "toll-free: 수신자 부담의"
+        ]
+      },
+      {
+        "id": "RC5-121",
+        "category": "Vocabulary - Verb",
+        "question": "The marketing department is planning to -------- a new global campaign next month.",
+        "options": {
+          "A": "absorb",
+          "B": "launch",
+          "C": "persist",
+          "D": "compel"
+        },
+        "answer": "B",
+        "translation": "마케팅 부서는 다음 달에 새로운 글로벌 캠페인을 시작할 계획입니다.",
+        "explanation": "캠페인이나 제품을 '시작하다, 출시하다'라는 의미로 쓰이는 동사는 (A) launch입니다.",
+        "key_vocabulary": [
+          "launch: 시작하다, 출시하다",
+          "campaign: 캠페인"
+        ]
+      },
+      {
+        "id": "RC5-122",
+        "category": "Grammar - Adverb",
+        "question": "The advertisements have been -------- placed in highly populated areas to maximize visibility.",
+        "options": {
+          "A": "strategy",
+          "B": "strategies",
+          "C": "strategically",
+          "D": "strategic"
+        },
+        "answer": "C",
+        "translation": "광고들은 가시성을 극대화하기 위해 인구 밀집 지역에 전략적으로 배치되었습니다.",
+        "explanation": "동사구(have been placed) 사이에서 동사를 수식하는 부사가 필요하므로 (C) strategically가 정답입니다.",
+        "key_vocabulary": [
+          "strategically: 전략적으로",
+          "maximize: 극대화하다",
+          "visibility: 가시성"
+        ]
+      },
+      {
+        "id": "RC5-123",
+        "category": "Grammar - Adjective",
+        "question": "Our goal is to create a -------- brand identity that appeals to customers across different cultures.",
+        "options": {
+          "A": "unifies",
+          "B": "unify",
+          "C": "unified",
+          "D": "unifying"
+        },
+        "answer": "C",
+        "translation": "우리의 목표는 다양한 문화권의 고객들에게 어필할 수 있는 통일된 브랜드 정체성을 만드는 것입니다.",
+        "explanation": "명사(brand identity)를 수식하는 분사형 형용사로 '통일된'이라는 수동의 의미가 적절하므로 (D) unified가 정답입니다.",
+        "key_vocabulary": [
+          "appeal to: ~의 흥미를 끌다",
+          "unified: 통일된"
+        ]
+      },
+      {
+        "id": "RC5-124",
+        "category": "Vocabulary - Noun",
+        "question": "To ensure the success of the campaign, extensive market -------- was conducted in Asia and Europe.",
+        "options": {
+          "A": "researches",
+          "B": "research",
+          "C": "researching",
+          "D": "researcher"
+        },
+        "answer": "B",
+        "translation": "캠페인의 성공을 보장하기 위해 아시아와 유럽에서 광범위한 시장 조사가 수행되었습니다.",
+        "explanation": "market과 결합하여 '시장 조사'라는 복합명사를 이루는 (A) research가 정답입니다. research는 불가산 명사이므로 단수 취급됩니다.",
+        "key_vocabulary": [
+          "extensive: 광범위한",
+          "conduct: 수행하다"
+        ]
+      },
+      {
+        "id": "RC5-125",
+        "category": "Grammar - Preposition",
+        "question": "The promotional materials will be distributed -------- the entire region starting next week.",
+        "options": {
+          "A": "between",
+          "B": "among",
+          "C": "throughout",
+          "D": "within"
+        },
+        "answer": "C",
+        "translation": "홍보물은 다음 주부터 전체 지역 곳곳에 배포될 것입니다.",
+        "explanation": "장소를 나타내는 명사구(the entire region) 앞에 쓰여 '~의 도처에'라는 의미를 나타내는 전치사 (A) throughout이 정답입니다.",
+        "key_vocabulary": [
+          "promotional: 홍보의",
+          "distribute: 배포하다"
+        ]
+      },
+      {
+        "id": "RC5-126",
+        "category": "Grammar - Conjunction",
+        "question": "-------- the initial sales figures are promising, the marketing team will continue to monitor the trends.",
+        "options": {
+          "A": "Since",
+          "B": "Unless",
+          "C": "Although",
+          "D": "So that"
+        },
+        "answer": "C",
+        "translation": "초기 판매 수치가 유망함에도 불구하고, 마케팅 팀은 계속해서 동향을 모니터링할 것입니다.",
+        "explanation": "주절과 종속절의 의미가 양보 관계(유망하다 - 계속 모니터링한다)이므로 (B) Although가 정답입니다.",
+        "key_vocabulary": [
+          "initial: 초기의",
+          "promising: 유망한"
+        ]
+      },
+      {
+        "id": "RC5-127",
+        "category": "Vocabulary - Verb",
+        "question": "The new social media strategy is designed to -------- a younger demographic of consumers.",
+        "options": {
+          "A": "contract",
+          "B": "extract",
+          "C": "attract",
+          "D": "distract"
+        },
+        "answer": "C",
+        "translation": "새로운 소셜 미디어 전략은 더 젊은 인구통계학적 소비자층을 끌어들이기 위해 고안되었습니다.",
+        "explanation": "소비자나 관심을 '끌어들이다'라는 의미에 적합한 동사는 (A) attract입니다.",
+        "key_vocabulary": [
+          "demographic: 인구통계학적 집단",
+          "attract: 끌어들이다"
+        ]
+      },
+      {
+        "id": "RC5-128",
+        "category": "Grammar - Noun",
+        "question": "Customer -------- to the new product line has been overwhelmingly positive across all platforms.",
+        "options": {
+          "A": "respond",
+          "B": "responsive",
+          "C": "responds",
+          "D": "response"
+        },
+        "answer": "D",
+        "translation": "새로운 제품 라인에 대한 고객 반응은 모든 플랫폼에 걸쳐 압도적으로 긍정적이었습니다.",
+        "explanation": "주어 자리에 명사가 필요하므로 (D) response(반응)가 정답입니다.",
+        "key_vocabulary": [
+          "overwhelmingly: 압도적으로",
+          "positive: 긍정적인"
+        ]
+      },
+      {
+        "id": "RC5-129",
+        "category": "Vocabulary - Adjective",
+        "question": "Our marketing consultants advised us to implement more -------- pricing options to remain competitive.",
+        "options": {
+          "A": "flexible",
+          "B": "reluctant",
+          "C": "severe",
+          "D": "rigid"
+        },
+        "answer": "A",
+        "translation": "우리의 마케팅 컨설턴트들은 경쟁력을 유지하기 위해 더 유연한 가격 책정 옵션을 시행할 것을 조언했습니다.",
+        "explanation": "경쟁력을 유지하기 위해 가격 옵션을 변경해야 한다는 문맥이므로 '유연한'이라는 뜻의 (A) flexible이 적절합니다.",
+        "key_vocabulary": [
+          "implement: 시행하다",
+          "competitive: 경쟁력 있는"
+        ]
+      },
+      {
+        "id": "RC5-130",
+        "category": "Grammar - Verb",
+        "question": "All regional managers -------- to attend the global marketing summit in London next month.",
+        "options": {
+          "A": "requires",
+          "B": "are requiring",
+          "C": "are required",
+          "D": "require"
+        },
+        "answer": "C",
+        "translation": "모든 지역 매니저들은 다음 달 런던에서 열리는 글로벌 마케팅 정상회의에 참석하도록 요구받습니다.",
+        "explanation": "매니저들이 참석하도록 '요구받는' 수동의 의미가 되어야 하고, 뒤에 to 부정사가 오므로 수동태인 (C) are required가 정답입니다.",
+        "key_vocabulary": [
+          "summit: 정상회의",
+          "regional: 지역의"
+        ]
+      }
+    ],
+    "part6": [
+      {
+        "set_id": "RC6-SET01",
+        "context_type": "Memo",
+        "content": "To: All Employees\nFrom: Facilities Management\nDate: October 12\nSubject: Office Relocation Instructions\n\nAs you are aware, our corporate headquarters will be moving to the new Apex Building at the end of the month. To ensure a -------- transition, we ask that all employees follow the packing guidelines distributed last week. \n\nPlease pack all non-essential items into the labeled boxes provided by your department heads. Personal belongings should be taken home -------- the moving weekend. --------. \n\nIT support staff will disconnect all computers and phones on Friday evening. Do not attempt to move any electronic equipment --------. If you have any questions, please contact the facilities desk.\n\nThank you for your cooperation.",
+        "questions": [
+          {
+            "id": "RC6-131",
+            "category": "Vocabulary - Adjective",
+            "question": "To ensure a -------- transition",
+            "options": {
+              "A": "sudden",
+              "B": "steep",
+              "C": "rough",
+              "D": "smooth"
+            },
+            "answer": "D",
+            "explanation": "이전(transition)이 '순조로운, 원활한' 것이 되도록 한다는 문맥이므로 (A) smooth가 정답입니다."
+          },
+          {
+            "id": "RC6-132",
+            "category": "Grammar - Preposition",
+            "question": "Personal belongings should be taken home -------- the moving weekend.",
+            "options": {
+              "A": "while",
+              "B": "before",
+              "C": "among",
+              "D": "next"
+            },
+            "answer": "B",
+            "explanation": "이사하는 주말 '전에' 개인 물품을 집으로 가져가야 한다는 의미이므로 전치사 (A) before가 정답입니다. while은 접속사이므로 오답입니다."
+          },
+          {
+            "id": "RC6-133",
+            "category": "Sentence Insertion",
+            "question": "--------.",
+            "options": {
+              "A": "The company will not be responsible for lost personal items.",
+              "B": "The annual holiday party is scheduled for December.",
+              "C": "We are hiring new staff for the maintenance team.",
+              "D": "You can park your vehicles in the underground lot."
+            },
+            "answer": "A",
+            "explanation": "개인 물품을 집으로 가져가라는 앞 문장에 이어, 회사는 분실된 개인 물품에 대해 책임지지 않는다는 경고 문구인 (A)가 문맥상 가장 자연스럽습니다."
+          },
+          {
+            "id": "RC6-134",
+            "category": "Grammar - Pronoun",
+            "question": "Do not attempt to move any electronic equipment --------.",
+            "options": {
+              "A": "you",
+              "B": "your",
+              "C": "yours",
+              "D": "yourself"
+            },
+            "answer": "D",
+            "explanation": "전자기기를 '직접' 옮기려 하지 말라는 의미로, 주어(You)를 강조하는 재귀대명사 (A) yourself가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC6-SET02",
+        "context_type": "Email",
+        "content": "To: All Staff\nFrom: Payroll & Finance Department\nDate: December 1\nSubject: Year-End Tax Settlement Procedures\n\nAs the end of the year approaches, we need to begin the annual tax settlement process. All employees are -------- to submit their final expense reports and tax deduction documents by December 20.\n\nPlease log in to the employee portal and navigate to the 'Finance' tab. There, you will find a checklist of required documents. --------. \n\nFailure to submit the necessary paperwork on time may result in a delayed tax refund. We strongly advise you to double-check your submissions for --------.\n\nIf you encounter any technical issues while uploading your files, please reach out to the IT helpdesk --------.",
+        "questions": [
+          {
+            "id": "RC6-135",
+            "category": "Grammar - Verb",
+            "question": "All employees are -------- to submit",
+            "options": {
+              "A": "reminded",
+              "B": "reminds",
+              "C": "reminding",
+              "D": "remind"
+            },
+            "answer": "A",
+            "explanation": "직원들이 제출하도록 '상기받는' 수동의 의미가 되어야 하므로 be reminded to 형태인 (C)가 정답입니다."
+          },
+          {
+            "id": "RC6-136",
+            "category": "Sentence Insertion",
+            "question": "--------.",
+            "options": {
+              "A": "Make sure to download and fill out all forms listed there.",
+              "B": "Our revenue has doubled over the past year.",
+              "C": "The cafeteria menu will be changed next week.",
+              "D": "The CEO will give a speech at the end of the year."
+            },
+            "answer": "A",
+            "explanation": "앞 문장에서 필요한 문서 목록(checklist)이 포털에 있다고 언급했으므로, 그 목록에 있는 양식을 다운로드하여 작성하라는 (B)가 가장 적절합니다."
+          },
+          {
+            "id": "RC6-137",
+            "category": "Vocabulary - Noun",
+            "question": "double-check your submissions for --------.",
+            "options": {
+              "A": "attendance",
+              "B": "vacancy",
+              "C": "accuracy",
+              "D": "hesitation"
+            },
+            "answer": "C",
+            "explanation": "제출물이 '정확한지' 재확인하라는 의미이므로 '정확성'을 뜻하는 (A) accuracy가 정답입니다."
+          },
+          {
+            "id": "RC6-138",
+            "category": "Vocabulary - Adverb",
+            "question": "reach out to the IT helpdesk --------.",
+            "options": {
+              "A": "highly",
+              "B": "immediately",
+              "C": "hardly",
+              "D": "previously"
+            },
+            "answer": "B",
+            "explanation": "기술적인 문제가 발생하면 '즉시' IT 헬프데스크에 연락하라는 문맥이므로 (A) immediately가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC6-SET03",
+        "context_type": "Letter",
+        "content": "Dear Mr. Thompson,\n\nWe are writing to address your recent complaint regarding order #84920. We understand that your shipment arrived two weeks later than the estimated delivery date, and the packaging was damaged. \n\nWe take full responsibility for this --------. Our logistics partner experienced unexpected delays due to severe weather conditions in your region. However, this does not excuse the poor condition in which your items were delivered. --------. \n\nAs a gesture of goodwill, we have credited $50 to your account, which can be applied to any future --------. \n\nWe value your business and hope you will give us another opportunity to serve you better.\n\nSincerely,\nCustomer Care Team\nNova Electronics",
+        "questions": [
+          {
+            "id": "RC6-139",
+            "category": "Vocabulary - Noun",
+            "question": "We take full responsibility for this --------.",
+            "options": {
+              "A": "oversight",
+              "B": "achievement",
+              "C": "promotion",
+              "D": "advantage"
+            },
+            "answer": "A",
+            "explanation": "배송 지연 및 파손과 같은 실수에 대해 전적으로 책임을 진다는 의미이므로 '실수, 간과'를 뜻하는 (A) oversight가 정답입니다."
+          },
+          {
+            "id": "RC6-140",
+            "category": "Sentence Insertion",
+            "question": "--------.",
+            "options": {
+              "A": "The weather forecast predicts more snow next week.",
+              "B": "You can find our catalog online for more products.",
+              "C": "Please make sure to pay your outstanding balance immediately.",
+              "D": "We have already shipped a replacement for the damaged goods at no extra cost."
+            },
+            "answer": "D",
+            "explanation": "파손된 상태로 배송된 것에 대한 변명이 될 수 없다고 한 뒤, 이에 대한 구체적인 해결책으로 파손된 상품의 대체품을 무료로 발송했다는 (A)가 가장 적절합니다."
+          },
+          {
+            "id": "RC6-141",
+            "category": "Grammar - Noun",
+            "question": "which can be applied to any future --------.",
+            "options": {
+              "A": "purchaser",
+              "B": "purchase",
+              "C": "purchases",
+              "D": "purchasing"
+            },
+            "answer": "C",
+            "explanation": "any 뒤에는 가산 단수/복수가 모두 올 수 있지만, 일반적인 '향후 구매 건들'을 의미할 때는 복수형이 자연스러우며(any future purchases), (A) purchase가 불가산으로 쓰일 수 있으나 문맥상 개별 구매 행위를 나타내므로 복수형인 (D) purchases가 가장 적절한 정답입니다. (TOEIC 빈출 복합/관용적 용법)"
+          },
+          {
+            "id": "RC6-142",
+            "category": "Vocabulary - Verb",
+            "question": "We -------- your business",
+            "options": {
+              "A": "evaluate",
+              "B": "deny",
+              "C": "value",
+              "D": "cancel"
+            },
+            "answer": "C",
+            "explanation": "고객과의 거래(비즈니스)를 '소중히 여긴다'는 감사 표현이므로 (A) value가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC6-SET04",
+        "context_type": "Article",
+        "content": "Astra Beverages to Launch Global Campaign\n\nAstra Beverages announced yesterday that it will roll out its largest global marketing campaign to date, starting in January. The initiative, titled 'Refresh Your World,' aims to -------- the company's brand image among younger consumers. \n\nThe campaign will feature collaborations with popular influencers and musicians across Asia, Europe, and the Americas. --------. Additionally, interactive pop-up events will be held in major cities like Tokyo, London, and New York.\n\nIndustry analysts predict that this aggressive marketing strategy will significantly boost Astra's market share. If the campaign performs as --------, Astra could become the top beverage brand globally by the end of next year.\n\nThe company's stock price saw a slight increase following the announcement.",
+        "questions": [
+          {
+            "id": "RC6-143",
+            "category": "Vocabulary - Verb",
+            "question": "aims to -------- the company's brand image",
+            "options": {
+              "A": "abandon",
+              "B": "confuse",
+              "C": "revitalize",
+              "D": "diminish"
+            },
+            "answer": "C",
+            "explanation": "새로운 마케팅 캠페인을 통해 브랜드 이미지를 '새로운 활력을 불어넣다, 활성화하다'라는 의미가 적절하므로 (A) revitalize가 정답입니다."
+          },
+          {
+            "id": "RC6-144",
+            "category": "Sentence Insertion",
+            "question": "--------.",
+            "options": {
+              "A": "The factory in Brazil will be shut down for maintenance.",
+              "B": "Our new flavor of sparkling water tastes like lemon.",
+              "C": "Astra Beverages was founded forty years ago in a small town.",
+              "D": "These partnerships are expected to generate high engagement on social media platforms."
+            },
+            "answer": "D",
+            "explanation": "앞 문장에서 인플루언서 및 음악가들과의 협업을 언급했으므로, 이러한 파트너십이 소셜 미디어에서 높은 참여를 유도할 것으로 기대된다는 (A)가 문맥에 가장 잘 맞습니다."
+          },
+          {
+            "id": "RC6-145",
+            "category": "Grammar - Adverb",
+            "question": "If the campaign performs as --------",
+            "options": {
+              "A": "expects",
+              "B": "expecting",
+              "C": "expected",
+              "D": "expect"
+            },
+            "answer": "C",
+            "explanation": "'예상된 대로'라는 의미의 분사구문 관용 표현인 as expected가 되어야 하므로 (A) expected가 정답입니다."
+          },
+          {
+            "id": "RC6-146",
+            "category": "Vocabulary - Noun",
+            "question": "following the --------.",
+            "options": {
+              "A": "inspection",
+              "B": "announcement",
+              "C": "departure",
+              "D": "resistance"
+            },
+            "answer": "B",
+            "explanation": "글로벌 캠페인에 대한 '발표' 직후에 주가가 상승했다는 문맥이므로 (A) announcement가 정답입니다."
+          }
+        ]
+      }
+    ],
+    "part7": [
+      {
+        "set_id": "RC7-SET01",
+        "context_type": "Memo",
+        "content": "To: All Staff\nFrom: Facilities Management\nDate: March 15\nSubject: Upcoming Office Relocation\n\nThis is a reminder that our transition to the new headquarters on 5th Avenue will take place over the weekend of April 10-11. All employees are required to pack their personal belongings in the provided boxes by 5:00 P.M. on Friday, April 9. Please label each box clearly with your name and new desk number. Large equipment and furniture will be moved by our hired contractors, Swift Movers. If you have any fragile items, please notify us in advance.",
+        "questions": [
+          {
+            "id": "RC7-147",
+            "question": "What are employees instructed to do by April 9?",
+            "options": {
+              "A": "Pack their personal items",
+              "B": "Notify the moving company",
+              "C": "Assemble new furniture",
+              "D": "Tour the new headquarters"
+            },
+            "answer": "A",
+            "explanation": "직원들은 4월 9일 오후 5시까지 제공된 상자에 개인 소지품을 포장해야 한다고 명시되어 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-148",
+            "question": "Who will be responsible for transporting office furniture?",
+            "options": {
+              "A": "An external moving company",
+              "B": "All employees",
+              "C": "The building owner",
+              "D": "Facilities Management"
+            },
+            "answer": "A",
+            "explanation": "대형 장비와 가구는 고용된 계약업체인 Swift Movers가 옮길 것이라고 했으므로 외부 이사 업체인 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET02",
+        "context_type": "Email",
+        "content": "To: Marketing Team\nFrom: Sarah Jenkins, VP of Marketing\nDate: June 5\nSubject: Global Campaign Launch\n\nI am thrilled to announce that our 'Connect the World' global marketing campaign will officially launch on July 1. This initiative aims to expand our reach in the European and Asian markets. We will have a mandatory briefing session on June 10 at 10:00 A.M. to discuss the localized strategies for each region. Please review the attached preliminary materials before the meeting.",
+        "questions": [
+          {
+            "id": "RC7-149",
+            "question": "What is the main purpose of the email?",
+            "options": {
+              "A": "To introduce a new team member",
+              "B": "To request budget approval for a project",
+              "C": "To reschedule a departmental meeting",
+              "D": "To announce the launch of a new marketing initiative"
+            },
+            "answer": "D",
+            "explanation": "새로운 글로벌 마케팅 캠페인('Connect the World')의 출시를 알리기 위한 이메일이므로 (A)가 정답입니다."
+          },
+          {
+            "id": "RC7-150",
+            "question": "What are team members asked to do prior to June 10?",
+            "options": {
+              "A": "Submit their travel expenses",
+              "B": "Contact regional managers",
+              "C": "Prepare a presentation",
+              "D": "Examine some documents"
+            },
+            "answer": "D",
+            "explanation": "6월 10일 회의 전에 첨부된 예비 자료(preliminary materials)를 검토하라고 지시했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET03",
+        "context_type": "Text message chain",
+        "content": "10:15 A.M. [Mark] Hi team, a customer just complained about the late delivery of the X200 laptop. They ordered it last week with expedited shipping.\n10:18 A.M. [Lisa] Let me check the order number. Do you have it?\n10:20 A.M. [Mark] Yes, it's #89320.\n10:25 A.M. [Lisa] Ah, it seems there was a weather-related delay at the distribution center. I'll issue a refund for the shipping fee immediately and send an apology email.\n10:27 A.M. [Mark] Thanks, Lisa. That should help appease the customer.",
+        "questions": [
+          {
+            "id": "RC7-151",
+            "question": "What is the problem being discussed?",
+            "options": {
+              "A": "A defective product was returned.",
+              "B": "An incorrect item was dispatched.",
+              "C": "A payment was declined.",
+              "D": "A shipment has been delayed."
+            },
+            "answer": "D",
+            "explanation": "고객이 주문한 노트북 배송이 지연되었다는 불만을 제기한 상황이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-152",
+            "question": "At 10:25 A.M., what does Lisa mean when she writes, \"Ah\"?",
+            "options": {
+              "A": "She forgot to send an email.",
+              "B": "She has discovered the cause of an issue.",
+              "C": "She made a mistake in processing an order.",
+              "D": "She needs more information."
+            },
+            "answer": "B",
+            "explanation": "주문 번호를 조회한 후 배송 센터의 기상 악화로 인한 지연이라는 원인을 파악하고 낸 감탄사이므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET04",
+        "context_type": "Article",
+        "content": "Vanguard Tech Reports Record Year-End Profits\n\nSan Francisco - Vanguard Tech, a leading software developer, released its year-end financial report yesterday, revealing a 25% increase in net profits compared to the previous fiscal year. CEO Marcus Thorne attributed this growth primarily to the successful launch of their new cloud storage solution in Q3. 'Our team's dedication to innovation has truly paid off,' Thorne stated. Despite increased operational costs due to recent acquisitions, the company's aggressive cost-cutting measures in other departments helped maintain a strong bottom line. Vanguard Tech plans to distribute a special dividend to shareholders next month.",
+        "questions": [
+          {
+            "id": "RC7-153",
+            "question": "What is the main topic of the article?",
+            "options": {
+              "A": "The appointment of a new CEO",
+              "B": "The opening of a new office in San Francisco",
+              "C": "A company's annual financial performance",
+              "D": "A merger between two software companies"
+            },
+            "answer": "C",
+            "explanation": "소프트웨어 기업인 Vanguard Tech의 연말 결산 수익이 기록적으로 증가했다는 내용이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-154",
+            "question": "According to Mr. Thorne, what contributed to the increase in profits?",
+            "options": {
+              "A": "A reduction in employee taxes",
+              "B": "The sale of a subsidiary",
+              "C": "An increase in software subscription fees",
+              "D": "The introduction of a new product"
+            },
+            "answer": "D",
+            "explanation": "CEO는 3분기에 출시된 새로운 클라우드 스토리지 솔루션의 성공이 수익 성장의 주요 원인이라고 언급했으므로 (A)가 정답입니다."
+          },
+          {
+            "id": "RC7-155",
+            "question": "What action will Vanguard Tech take next month?",
+            "options": {
+              "A": "Issue payments to its investors",
+              "B": "Release a new update",
+              "C": "Acquire a competing firm",
+              "D": "Relocate its headquarters"
+            },
+            "answer": "A",
+            "explanation": "다음 달에 주주들에게 특별 배당금(special dividend)을 지급할 계획이라고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET05",
+        "context_type": "Advertisement",
+        "content": "Elevate Your Business with Streamline Pro!\n\nAre you tired of disorganized projects and missed deadlines? Streamline Pro is the ultimate project management software designed for modern teams. With our intuitive interface, you can effortlessly assign tasks, track progress, and collaborate in real-time. \n\nFeatures:\n- Custom workflow templates\n- Automated progress reports\n- Integration with over 50 popular apps\n\nSign up today at www.streamlinepro.com and receive a 30-day free trial. No credit card required! Upgrade to our Premium plan before August 31 and get 20% off your first year.",
+        "questions": [
+          {
+            "id": "RC7-156",
+            "question": "What is indicated about Streamline Pro?",
+            "options": {
+              "A": "It is currently unavailable in certain regions.",
+              "B": "It offers a trial period at no cost.",
+              "C": "It requires special hardware to run.",
+              "D": "It is designed exclusively for small businesses."
+            },
+            "answer": "B",
+            "explanation": "가입 시 30일 무료 평가판을 제공한다고 언급되었으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-157",
+            "question": "How can customers receive a discount?",
+            "options": {
+              "A": "By referring a colleague",
+              "B": "By attending a software demonstration",
+              "C": "By subscribing to a specific plan before a deadline",
+              "D": "By purchasing multiple user licenses"
+            },
+            "answer": "C",
+            "explanation": "8월 31일 이전에 프리미엄 플랜으로 업그레이드하면 첫해 20% 할인을 받을 수 있으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET06",
+        "context_type": "Notice",
+        "content": "Notice of Building Maintenance\n\nAs part of our preparations for the upcoming office relocation next month, the current building's management will be conducting routine maintenance on the HVAC systems this weekend. \n\nDate: Saturday, November 12 to Sunday, November 13\nTime: 8:00 A.M. - 5:00 P.M. daily\n\nDuring this time, the heating and cooling systems will be turned off in the east wing of the building. Employees who plan to work over the weekend are advised to use the temporary workstations set up in the west wing cafeteria. We apologize for any inconvenience this may cause and appreciate your cooperation as we finalize our move.",
+        "questions": [
+          {
+            "id": "RC7-158",
+            "question": "Why is the maintenance being performed?",
+            "options": {
+              "A": "To prepare for a move",
+              "B": "To upgrade security systems",
+              "C": "To comply with safety regulations",
+              "D": "To repair a water leak"
+            },
+            "answer": "A",
+            "explanation": "다음 달 사옥 이전을 준비하는 과정의 일환으로 수행되는 작업이라고 명시되었으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-159",
+            "question": "When will the HVAC systems be unavailable?",
+            "options": {
+              "A": "Next month",
+              "B": "On Friday afternoon",
+              "C": "Every evening",
+              "D": "Over the weekend"
+            },
+            "answer": "D",
+            "explanation": "11월 12일 토요일부터 13일 일요일까지 시스템이 꺼질 것이라고 했으므로 주말인 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-160",
+            "question": "What are employees advised to do if they need to work during the maintenance?",
+            "options": {
+              "A": "Work from home",
+              "B": "Relocate to a different area of the building",
+              "C": "Bring portable heaters",
+              "D": "Wear warm clothing"
+            },
+            "answer": "B",
+            "explanation": "주말 근무자는 서관 식당에 마련된 임시 작업 공간을 이용하라고 권고받았으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET07",
+        "context_type": "Web page",
+        "content": "Global Horizon Marketing Services\n\nExpanding your business internationally? Global Horizon is here to help. We specialize in creating tailored marketing campaigns that resonate with diverse audiences worldwide.\n\nOur Services:\n1. Market Research: Comprehensive analysis of target demographics in over 40 countries.\n2. Localization: Adapting your brand message to align with local cultures and languages.\n3. Digital Advertising: Strategic online ad placements to maximize ROI.\n4. Public Relations: Building strong relationships with international media outlets.\n\nCheck out our portfolio to see how we helped brands like Zenith Electronics achieve a 40% increase in global sales. Contact us today for a free consultation!",
+        "questions": [
+          {
+            "id": "RC7-161",
+            "question": "What type of business is Global Horizon?",
+            "options": {
+              "A": "A marketing agency",
+              "B": "A software developer",
+              "C": "An electronics manufacturer",
+              "D": "A travel agency"
+            },
+            "answer": "A",
+            "explanation": "비즈니스의 해외 진출을 돕기 위해 맞춤형 마케팅 캠페인을 제작하는 업체이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-162",
+            "question": "What is NOT listed as a service provided by Global Horizon?",
+            "options": {
+              "A": "Digital advertising",
+              "B": "Localization",
+              "C": "Product manufacturing",
+              "D": "Market research"
+            },
+            "answer": "C",
+            "explanation": "시장 조사, 현지화, 디지털 광고는 서비스 목록에 있지만 제품 제조(Product manufacturing)는 없으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-163",
+            "question": "What is mentioned about Zenith Electronics?",
+            "options": {
+              "A": "It experienced significant sales growth with Global Horizon's help.",
+              "B": "It is searching for a new PR director.",
+              "C": "It recently opened 40 new stores.",
+              "D": "It developed a new advertising software."
+            },
+            "answer": "A",
+            "explanation": "Global Horizon의 도움으로 글로벌 매출이 40% 증가한 성공 사례로 언급되었으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET08",
+        "context_type": "Letter",
+        "content": "September 14\n\nCustomer Service Department\nOrion Appliances\n4500 Industrial Pkwy\nChicago, IL 60613\n\nDear Customer Service,\n\nI am writing to express my profound disappointment with the Orion T-500 toaster I purchased from your online store on September 1. When I first used it, the heating elements only functioned on one side, resulting in unevenly toasted bread. I contacted your support hotline on September 5 and was told a replacement would be shipped within three business days. However, it has been over a week, and I have neither received the replacement nor any update on its status.\n\nAs a long-time customer of Orion Appliances, I expect better service. I request that you either expedite the shipment of the replacement unit immediately or process a full refund to my original payment method.\n\nI look forward to your prompt response.\n\nSincerely,\nJonathan Reed",
+        "questions": [
+          {
+            "id": "RC7-164",
+            "question": "Why did Mr. Reed write the letter?",
+            "options": {
+              "A": "To change the delivery address for an order",
+              "B": "To complain about a defective product and poor customer service",
+              "C": "To inquire about a new kitchen appliance",
+              "D": "To request an extension on a warranty"
+            },
+            "answer": "B",
+            "explanation": "작동 불량인 제품과 교환 처리 지연 등 서비스 불만에 대해 항의하기 위해 작성되었으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-165",
+            "question": "When did Mr. Reed first contact the company about the issue?",
+            "options": {
+              "A": "On September 5",
+              "B": "On September 1",
+              "C": "Within three business days",
+              "D": "On September 14"
+            },
+            "answer": "A",
+            "explanation": "편지 내용 중 'I contacted your support hotline on September 5'라고 언급되어 있으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-166",
+            "question": "The word \"profound\" in paragraph 1, line 1, is closest in meaning to:",
+            "options": {
+              "A": "complicated",
+              "B": "sudden",
+              "C": "deep",
+              "D": "minor"
+            },
+            "answer": "C",
+            "explanation": "'profound disappointment'에서 profound는 '깊은, 엄청난'의 의미로 쓰였으므로 동의어는 deep입니다."
+          },
+          {
+            "id": "RC7-167",
+            "question": "What does Mr. Reed request?",
+            "options": {
+              "A": "A discount on his next purchase",
+              "B": "A quick replacement or a refund",
+              "C": "A store credit voucher",
+              "D": "An apology letter from the manager"
+            },
+            "answer": "B",
+            "explanation": "마지막 단락에서 대체품 배송을 서두르거나 전액 환불해 줄 것을 요구했으므로 (D)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET09",
+        "context_type": "Article",
+        "content": "Refresh Beverage's Global Success\n\nLondon - Refresh Beverage Co. has reported unprecedented success with its recent \"Taste the Summer\" global marketing campaign. Launched simultaneously in 15 countries, the campaign utilized interactive social media challenges and partnerships with local influencers to promote its new line of sparkling fruit juices.\n\nAccording to Elena Rostova, the Chief Marketing Officer, the key to the campaign's success was localization. \"While the core message remained the same, we tailored the visuals and influencer selections to reflect the unique cultures of each market,\" she explained. This strategy led to a 35% increase in international sales over the past quarter.\n\nIndustry analysts note that Refresh Beverage's approach sets a new standard for multinational corporations. The company is now planning to expand the campaign into South America later this year, a region where they have historically struggled to gain market share.",
+        "questions": [
+          {
+            "id": "RC7-168",
+            "question": "What did Refresh Beverage Co. recently launch?",
+            "options": {
+              "A": "A social media platform",
+              "B": "A global marketing campaign for new beverages",
+              "C": "A new manufacturing plant in London",
+              "D": "An online store for fruit juices"
+            },
+            "answer": "B",
+            "explanation": "새로운 탄산 과일 주스 라인을 홍보하기 위한 글로벌 마케팅 캠페인을 런칭했다고 언급되었으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-169",
+            "question": "How did the company adapt its campaign for different countries?",
+            "options": {
+              "A": "By translating all materials into 15 languages",
+              "B": "By lowering the price of their beverages",
+              "C": "By offering different product flavors in each region",
+              "D": "By modifying images and using local personalities"
+            },
+            "answer": "D",
+            "explanation": "CMO에 따르면 각 시장의 고유한 문화를 반영하여 시각적 요소(visuals)를 맞춤화하고 현지 인플루언서를 기용했다고 하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-170",
+            "question": "What is indicated about the company's international sales?",
+            "options": {
+              "A": "They were higher in South America than in Europe.",
+              "B": "They declined due to strong competition.",
+              "C": "They grew by 35 percent recently.",
+              "D": "They remained stable over the past quarter."
+            },
+            "answer": "C",
+            "explanation": "이러한 마케팅 전략으로 지난 분기 해외 매출이 35% 증가했다고 하므로 (A)가 정답입니다."
+          },
+          {
+            "id": "RC7-171",
+            "question": "What is implied about the South American market?",
+            "options": {
+              "A": "Local influencers refused to participate in the campaign.",
+              "B": "It is the company's most profitable region.",
+              "C": "The company recently closed its operations there.",
+              "D": "Refresh Beverage has not been very successful there in the past."
+            },
+            "answer": "D",
+            "explanation": "남미 지역은 역사적으로 시장 점유율을 확보하는 데 어려움을 겪었던 곳('historically struggled to gain market share')이라고 했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET10",
+        "context_type": "Online chat discussion",
+        "content": "Accounting Team Chat\n\n1:00 P.M. [David] Hi everyone, just a quick check-in on the year-end closing process. Have all department expense reports been submitted?\n1:05 P.M. [Rachel] I have received reports from Marketing, HR, and IT. Still waiting on Sales.\n1:08 P.M. [David] Okay. We need all reports by tomorrow to meet the final deadline. Rachel, could you follow up with the Sales director?\n1:12 P.M. [Rachel] Will do. I'll send him an email right away.\n1:15 P.M. [Kevin] David, I've finished reconciling the bank statements for Q4. Where should I upload the files?\n1:18 P.M. [David] Great job, Kevin. Please upload them to the 'Year-End 2025' folder on the shared drive. \n1:20 P.M. [Kevin] Done. Let me know if you need help with anything else.\n1:25 P.M. [David] Actually, could you help Rachel review the expense reports once they are all in?\n1:28 P.M. [Kevin] Sure thing.",
+        "questions": [
+          {
+            "id": "RC7-172",
+            "question": "What is the main purpose of the discussion?",
+            "options": {
+              "A": "To resolve a dispute with the Sales department",
+              "B": "To introduce a new accounting software",
+              "C": "To check the progress of the year-end financial tasks",
+              "D": "To plan a year-end company party"
+            },
+            "answer": "C",
+            "explanation": "연말 결산 절차(year-end closing process)의 진행 상황을 확인하고 작업 일정을 조율하기 위한 대화이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-173",
+            "question": "Which department has NOT yet submitted its expense report?",
+            "options": {
+              "A": "Sales",
+              "B": "IT",
+              "C": "HR",
+              "D": "Marketing"
+            },
+            "answer": "A",
+            "explanation": "Rachel이 마케팅, HR, IT 부서의 보고서는 받았지만 영업부(Sales)는 아직 기다리고 있다고 했으므로 (D)가 정답입니다."
+          },
+          {
+            "id": "RC7-174",
+            "question": "What is Kevin asked to do with the bank statements?",
+            "options": {
+              "A": "Hand them directly to David",
+              "B": "Save them in a specific network folder",
+              "C": "Mail them to the bank",
+              "D": "Shred them immediately"
+            },
+            "answer": "B",
+            "explanation": "David가 공유 드라이브의 'Year-End 2025' 폴더에 파일을 업로드하라고 지시했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-175",
+            "question": "What will Kevin most likely do next?",
+            "options": {
+              "A": "Contact the Sales director",
+              "B": "Create a new shared folder",
+              "C": "Assist Rachel with reviewing documents",
+              "D": "Leave the office early"
+            },
+            "answer": "C",
+            "explanation": "David가 경비 보고서 검토 작업을 Rachel과 함께 해달라고 부탁했고 Kevin이 승낙했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET11",
+        "context_type": "Double Passage (Email & Schedule)",
+        "content": "[Email]\nTo: All Employees\nFrom: Facilities Management\nDate: October 20\nSubject: Office Move Schedule\n\nDear Staff, \nAs you know, our office relocation to the new downtown building is scheduled for next week. Please review the attached schedule for the move. We have staggered the moving times by department to minimize disruption. \n\nIt is crucial that you pack your belongings in the provided boxes by 5 P.M. on the day before your department's scheduled move. Please leave the boxes on your desk; the moving company will handle the rest. \n\n[Schedule]\nOffice Relocation Schedule\nMonday, Oct 26: HR and Legal Departments\nTuesday, Oct 27: Marketing and Sales Departments\nWednesday, Oct 28: IT and Research & Development\nThursday, Oct 29: Executive Offices\nFriday, Oct 30: Final walkthrough and cleaning (No employees on site)\nNote: The new office will officially open on Monday, November 2 for all employees.",
+        "questions": [
+          {
+            "id": "RC7-176",
+            "question": "Why was the email sent?",
+            "options": {
+              "A": "To announce a change in company leadership",
+              "B": "To request volunteers for a committee",
+              "C": "To introduce a new building manager",
+              "D": "To provide a schedule for an upcoming office move"
+            },
+            "answer": "D",
+            "explanation": "다음 주에 있을 사옥 이전 일정을 직원들에게 안내하기 위해 발송된 이메일이므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-177",
+            "question": "What must employees do the day before their move?",
+            "options": {
+              "A": "Update their contact information",
+              "B": "Box up their personal items",
+              "C": "Attend a safety training session",
+              "D": "Tour the new office building"
+            },
+            "answer": "B",
+            "explanation": "이메일에서 부서 이동 예정일 전날 오후 5시까지 제공된 상자에 개인 물품을 포장하라고 지시했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-178",
+            "question": "When will the Marketing department move?",
+            "options": {
+              "A": "On October 27",
+              "B": "On October 26",
+              "C": "On November 2",
+              "D": "On October 28"
+            },
+            "answer": "A",
+            "explanation": "일정표(Schedule)에 따르면 마케팅 및 영업 부서는 10월 27일 화요일에 이전하므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-179",
+            "question": "When is the deadline for IT department employees to pack their belongings?",
+            "options": {
+              "A": "By 5 P.M. on October 27",
+              "B": "By 5 P.M. on October 29",
+              "C": "By 5 P.M. on October 28",
+              "D": "By 5 P.M. on October 26"
+            },
+            "answer": "A",
+            "explanation": "연계 추론 문제: IT 부서의 이전일은 10월 28일이며, 이전 전날 오후 5시까지 포장해야 하므로 마감일은 10월 27일 오후 5시입니다. 따라서 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-180",
+            "question": "What will happen on October 30?",
+            "options": {
+              "A": "A party will be held at the new office.",
+              "B": "The old office will be inspected and cleaned.",
+              "C": "Executive staff will pack their belongings.",
+              "D": "New employees will undergo orientation."
+            },
+            "answer": "B",
+            "explanation": "일정표에서 10월 30일에는 최종 점검 및 청소(Final walkthrough and cleaning)가 진행되며 직원은 출입할 수 없다고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET12",
+        "context_type": "Double Passage (Form & Email)",
+        "content": "[Form]\nCustomer Feedback Form\nName: Sarah Jenkins\nDate of Visit: May 14\nLocation: Downtown Branch\nFeedback: I visited your store yesterday to purchase a new smartphone. While the store was well-organized, I was very disappointed with the customer service. I waited for over 20 minutes before a sales representative approached me. When I finally asked for help, the representative seemed rushed and was unable to answer my questions about the phone's features. I expected a much better experience from your brand.\n\n[Email]\nTo: Sarah Jenkins <s.jenkins@email.com>\nFrom: Marcus Thorne, Store Manager <m.thorne@electrostore.com>\nDate: May 16\nSubject: Apology regarding your recent visit\n\nDear Ms. Jenkins,\n\nI am writing to sincerely apologize for your experience at our Downtown Branch on May 14. We strive to provide excellent customer service, and it is clear we fell short during your visit. \n\nWe were unexpectedly short-staffed that day due to illness, which led to longer wait times. However, this does not excuse the lack of knowledge displayed by our representative. We are taking your feedback seriously and will be conducting additional training for our sales team.\n\nAs a gesture of our goodwill, please accept the enclosed $50 gift card, valid at any of our store locations. We hope you will give us another chance to provide you with the stellar service you deserve.",
+        "questions": [
+          {
+            "id": "RC7-181",
+            "question": "What is the main purpose of the feedback form?",
+            "options": {
+              "A": "To express dissatisfaction with a recent shopping experience",
+              "B": "To apply for a job opening",
+              "C": "To request a refund for a defective phone",
+              "D": "To compliment a specific employee"
+            },
+            "answer": "A",
+            "explanation": "스마트폰 구매를 위해 매장을 방문했으나 고객 서비스에 매우 실망했다는 내용의 피드백이므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-182",
+            "question": "How long did Ms. Jenkins wait for assistance?",
+            "options": {
+              "A": "An hour",
+              "B": "Exactly 15 minutes",
+              "C": "More than 20 minutes",
+              "D": "Less than 10 minutes"
+            },
+            "answer": "C",
+            "explanation": "피드백 양식에서 직원이 다가올 때까지 20분 이상(over 20 minutes) 기다렸다고 했으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-183",
+            "question": "What reason does Mr. Thorne give for the poor service?",
+            "options": {
+              "A": "The sales representative was new to the job.",
+              "B": "The store was undergoing renovations.",
+              "C": "A computer system crashed unexpectedly.",
+              "D": "The store did not have enough staff working that day."
+            },
+            "answer": "D",
+            "explanation": "이메일에서 매니저인 Mr. Thorne는 당일 직원의 결근(illness)으로 인해 예상치 않게 인력이 부족(short-staffed)했다고 해명했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-184",
+            "question": "What action does Mr. Thorne say the store will take?",
+            "options": {
+              "A": "Change the store's opening hours",
+              "B": "Hire a new customer service manager",
+              "C": "Fire the responsible employee",
+              "D": "Provide more training for employees"
+            },
+            "answer": "D",
+            "explanation": "직원의 지식 부족을 개선하기 위해 영업팀을 대상으로 추가 교육(additional training)을 실시할 예정이라고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-185",
+            "question": "What is included with the email?",
+            "options": {
+              "A": "A store voucher",
+              "B": "A detailed product manual",
+              "C": "A free smartphone case",
+              "D": "A promotional catalog"
+            },
+            "answer": "A",
+            "explanation": "매니저가 사과의 의미로 모든 매장에서 사용 가능한 50달러 기프트 카드(gift card)를 동봉했다고 했으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET13",
+        "context_type": "Triple Passage (Memo, Web page, Email)",
+        "content": "[Memo]\nTo: Global Marketing Team\nFrom: David Chen, Director\nDate: January 10\nSubject: Project Phoenix\n\nWe are officially launching \"Project Phoenix,\" our new campaign aimed at increasing brand awareness in the South American market. We will focus primarily on digital advertising and social media engagement. I would like everyone to brainstorm ideas for the campaign slogan and submit them to me by January 15.\n\n[Web Page]\nCompany Intranet: Project Phoenix Updates\nJanuary 18 Update:\nThank you to everyone who submitted slogan ideas. After careful consideration, we have selected \"Rise with Us,\" submitted by Maria Gomez. Maria's slogan perfectly captures the empowering message we want to convey. The design team will now begin creating visual assets incorporating this slogan.\n\n[Email]\nTo: Design Team\nFrom: Maria Gomez, Lead Designer\nDate: January 19\nSubject: Next Steps for Project Phoenix\n\nHi Team,\n\nI'm thrilled that my slogan was chosen for the new campaign! As discussed in the memo from David on January 10, our focus is on digital and social media. Let's start sketching out banner ads and social media posts that feature \"Rise with Us\" prominently. I'd like to review the initial drafts at our weekly meeting this Friday. Please ensure all designs align with the vibrant color palette we agreed upon last week.",
+        "questions": [
+          {
+            "id": "RC7-186",
+            "question": "What is the goal of Project Phoenix?",
+            "options": {
+              "A": "To analyze competitors' advertising strategies",
+              "B": "To recruit new marketing executives",
+              "C": "To boost brand recognition in South America",
+              "D": "To launch a new software application"
+            },
+            "answer": "C",
+            "explanation": "Memo에서 Project Phoenix는 남미 시장에서의 브랜드 인지도(brand awareness)를 높이기 위한 캠페인이라고 명시했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-187",
+            "question": "According to the memo, what were team members asked to do by January 15?",
+            "options": {
+              "A": "Propose a catchphrase for the campaign",
+              "B": "Design a new company logo",
+              "C": "Finalize a marketing budget",
+              "D": "Submit their performance reviews"
+            },
+            "answer": "A",
+            "explanation": "1월 15일까지 캠페인 슬로건 아이디어를 제출하라고 요청했으므로 catchphrase(슬로건)를 제안하라는 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-188",
+            "question": "Whose slogan was selected for the campaign?",
+            "options": {
+              "A": "David Chen's",
+              "B": "An external agency's",
+              "C": "The South American team's",
+              "D": "Maria Gomez's"
+            },
+            "answer": "D",
+            "explanation": "웹페이지 공지에서 Maria Gomez가 제출한 \"Rise with Us\"가 선정되었다고 했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-189",
+            "question": "What does Maria Gomez instruct her team to do?",
+            "options": {
+              "A": "Change the agreed-upon color palette",
+              "B": "Write a report on digital advertising trends",
+              "C": "Create initial designs using the new slogan",
+              "D": "Contact local media outlets in South America"
+            },
+            "answer": "C",
+            "explanation": "이메일에서 디자인 팀에게 \"Rise with Us\" 슬로건을 활용한 배너 광고와 소셜 미디어 게시물 스케치를 시작하라고 지시했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-190",
+            "question": "Based on the documents, what is true about Maria Gomez?",
+            "options": {
+              "A": "She works in the South American branch office.",
+              "B": "She missed the deadline for submitting ideas.",
+              "C": "She is a designer who came up with the winning slogan.",
+              "D": "She was recently promoted to Marketing Director."
+            },
+            "answer": "C",
+            "explanation": "연계 추론 문제: 웹페이지 공지와 이메일 발신자 정보를 종합하면, 그녀는 리드 디자이너(Lead Designer)이며 선정된 슬로건의 작성자임을 알 수 있으므로 (C)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET14",
+        "context_type": "Triple Passage (Notice, Meeting Minutes, Email)",
+        "content": "[Notice]\nAttention All Department Heads\nThe annual year-end financial audit will commence on December 1. External auditors from Apex Financial Group will be on-site for two weeks to review our records. Please ensure that all financial documents, including expense reports and invoices for the current fiscal year, are organized and readily available. A preliminary meeting with the auditors is scheduled for November 25 in Conference Room B.\n\n[Meeting Minutes]\nMeeting: Preliminary Audit Briefing\nDate: November 25\nAttendees: Department Heads, Apex Auditors\n\nKey Points Discussed:\n- Auditors require access to both digital and physical records.\n- IT department must provide temporary network access to the audit team by November 30.\n- The Sales department needs to submit their final Q4 revenue projections by December 5.\n- Any discrepancies found during the audit will be reported directly to the CEO.\n\n[Email]\nTo: IT Support Team\nFrom: Robert Vance, IT Director\nDate: November 28\nSubject: Auditor Access\n\nTeam, \nPlease refer to the minutes from the audit briefing. We need to set up guest accounts for the five auditors from Apex Financial Group. These accounts must have read-only access to our financial databases and be active starting next Monday. Let me know once this is completed.",
+        "questions": [
+          {
+            "id": "RC7-191",
+            "question": "Who is conducting the audit?",
+            "options": {
+              "A": "Government tax inspectors",
+              "B": "The company's internal accounting team",
+              "C": "An external financial firm",
+              "D": "A newly hired CEO"
+            },
+            "answer": "C",
+            "explanation": "공지문에서 Apex Financial Group이라는 외부 감사팀(External auditors)이 진행한다고 명시했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-192",
+            "question": "What are department heads asked to do before December 1?",
+            "options": {
+              "A": "Prepare their financial documents",
+              "B": "Relocate to Conference Room B",
+              "C": "Hire temporary staff members",
+              "D": "Submit vacation requests"
+            },
+            "answer": "A",
+            "explanation": "12월 1일 감사가 시작되기 전에 비용 보고서와 청구서 등 재무 문서를 정리해 두라고 요청받았으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-193",
+            "question": "What must the Sales department do by December 5?",
+            "options": {
+              "A": "Provide estimates for their Q4 income",
+              "B": "Update client contact lists",
+              "C": "Meet with the CEO",
+              "D": "Approve the advertising budget"
+            },
+            "answer": "A",
+            "explanation": "회의록에 영업부는 12월 5일까지 4분기 최종 수익 예상치(revenue projections)를 제출해야 한다고 기재되어 있으므로 (A)가 정답입니다."
+          },
+          {
+            "id": "RC7-194",
+            "question": "When must the IT department complete their assigned task?",
+            "options": {
+              "A": "By November 30",
+              "B": "By November 25",
+              "C": "By November 28",
+              "D": "By December 5"
+            },
+            "answer": "A",
+            "explanation": "회의록과 이메일에 따르면 IT 부서는 감사팀의 임시 네트워크 접근 권한을 11월 30일까지 제공해야 하므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-195",
+            "question": "What restriction is placed on the guest accounts?",
+            "options": {
+              "A": "They can only be used on weekends.",
+              "B": "They can only view information, not change it.",
+              "C": "They are limited to accessing physical records.",
+              "D": "They expire after three days."
+            },
+            "answer": "B",
+            "explanation": "이메일에서 감사팀의 게스트 계정은 재무 데이터베이스에 대한 '읽기 전용(read-only) 권한'만 가져야 한다고 지시했으므로 (B)가 정답입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "RC7-SET15",
+        "context_type": "Triple Passage (Advertisement, Email, Invoice)",
+        "content": "[Advertisement]\nAtlas Corporate Relocation Services\nMoving your office? Let Atlas handle the heavy lifting. We specialize in seamless corporate relocations, ensuring minimal downtime for your business.\n\nOur comprehensive packages include:\n- Professional packing and unpacking\n- Secure transportation of sensitive equipment\n- IT infrastructure setup at the new location\n- Post-move cleaning services\n\nContact us today at 555-0198 for a free quote!\n\n[Email]\nTo: Atlas Corporate Relocation <info@atlasrelocation.com>\nFrom: Jessica Lin, Operations Manager <j.lin@techinnovate.com>\nDate: August 5\nSubject: Inquiry about services\n\nHello, \nMy company, Tech Innovate, is planning to move to a larger facility across town next month. We have a lot of specialized computer servers and monitors. Do your movers have experience handling delicate IT equipment? Also, we are interested in your post-move cleaning service. Could you provide a quote for moving a 50-person office?\n\n[Invoice]\nAtlas Corporate Relocation Services\nInvoice #4920\nDate: September 15\nBill To: Tech Innovate\n\nServices Rendered:\n- Standard Office Move (50 employees) ... $5,000\n- Specialized IT Equipment Handling ... $1,200\n- IT Infrastructure Setup ... $800\n- Post-Move Cleaning ... $500\n\nTotal Due: $7,500\nPlease submit payment within 30 days.",
+        "questions": [
+          {
+            "id": "RC7-196",
+            "question": "What is advertised about Atlas Corporate Relocation Services?",
+            "options": {
+              "A": "They operate exclusively on weekends.",
+              "B": "They sell office furniture and equipment.",
+              "C": "They aim to reduce business interruption during a move.",
+              "D": "They offer discounts for small businesses."
+            },
+            "answer": "C",
+            "explanation": "광고에서 비즈니스의 가동 중단 시간을 최소화(ensuring minimal downtime)해준다고 홍보하고 있으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-197",
+            "question": "What is Jessica Lin's primary concern?",
+            "options": {
+              "A": "The safe transport of fragile electronic equipment",
+              "B": "Hiring additional IT staff",
+              "C": "The total cost of the relocation",
+              "D": "Finding a larger office facility"
+            },
+            "answer": "A",
+            "explanation": "이메일에서 민감한 IT 장비(컴퓨터 서버 및 모니터)를 다뤄본 경험이 있는지 질문하며 우려를 표했으므로 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-198",
+            "question": "Which service did Tech Innovate pay $800 for?",
+            "options": {
+              "A": "Standard Office Move",
+              "B": "Post-Move Cleaning",
+              "C": "Specialized IT Equipment Handling",
+              "D": "IT Infrastructure Setup"
+            },
+            "answer": "D",
+            "explanation": "송장(Invoice)의 내역을 보면 'IT Infrastructure Setup' 비용으로 $800이 청구되었으므로 (C)가 정답입니다."
+          },
+          {
+            "id": "RC7-199",
+            "question": "When did Tech Innovate most likely move?",
+            "options": {
+              "A": "In October",
+              "B": "After September 30",
+              "C": "In July",
+              "D": "Between August 5 and September 15"
+            },
+            "answer": "D",
+            "explanation": "연계 추론 문제: 8월 5일에 다음 달 이사 예정이라고 이메일을 보냈고, 9월 15일에 서비스가 완료된 송장이 발급되었으므로 이사는 이 두 날짜 사이에 이루어졌음을 추론할 수 있습니다. 따라서 (B)가 정답입니다."
+          },
+          {
+            "id": "RC7-200",
+            "question": "How much time does Tech Innovate have to pay the invoice?",
+            "options": {
+              "A": "60 days",
+              "B": "45 days",
+              "C": "30 days",
+              "D": "15 days"
+            },
+            "answer": "C",
+            "explanation": "송장 하단에 지불 기한이 'within 30 days'로 명시되어 있으므로 (B)가 정답입니다."
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,2928 @@
+{
+  "exam_metadata": {
+    "session": 3,
+    "title": "TOEIC Full Practice Test - Vol.3",
+    "total_questions": 200
+  },
+  "lc": {
+    "part1": [
+      {
+        "id": "LC1-01",
+        "image_description": "한 남자가 공장 설비의 제어판을 조작하고 있는 사진",
+        "image_prompt": "A male factory worker wearing a hard hat and safety goggles is operating a control panel of a large manufacturing machine",
+        "audio_script": "(A) He is repairing a broken pipe. (B) He is operating a piece of factory machinery. (C) He is unpacking some boxes. (D) He is sweeping the floor.",
+        "options": {
+          "A": "He is repairing a broken pipe.",
+          "B": "He is operating a piece of factory machinery.",
+          "C": "He is unpacking some boxes.",
+          "D": "He is sweeping the floor."
+        },
+        "answer": "B",
+        "explanation": "남자가 기계를 조작하는 모습이므로 (B)가 정답입니다."
+      },
+      {
+        "id": "LC1-02",
+        "image_description": "세미나실에서 발표자가 스크린을 가리키고 있는 사진",
+        "image_prompt": "A female speaker pointing at a projection screen during a business seminar in a conference room",
+        "audio_script": "(A) She is pointing at a screen. (B) She is distributing some documents. (C) She is adjusting a microphone. (D) She is arranging the chairs.",
+        "options": {
+          "A": "She is pointing at a screen.",
+          "B": "She is distributing some documents.",
+          "C": "She is adjusting a microphone.",
+          "D": "She is arranging the chairs."
+        },
+        "answer": "A",
+        "explanation": "여자가 스크린을 가리키고 있으므로 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-03",
+        "image_description": "고객 서비스 데스크에서 직원과 고객이 대화하는 사진",
+        "image_prompt": "A male customer talking to a female customer service representative across a service desk",
+        "audio_script": "(A) They are carrying some luggage. (B) They are looking at a computer monitor. (C) They are speaking across a desk. (D) They are shaking hands.",
+        "options": {
+          "A": "They are carrying some luggage.",
+          "B": "They are looking at a computer monitor.",
+          "C": "They are speaking across a desk.",
+          "D": "They are shaking hands."
+        },
+        "answer": "C",
+        "explanation": "두 사람이 데스크를 사이에 두고 대화하고 있으므로 (C)가 정답입니다."
+      },
+      {
+        "id": "LC1-04",
+        "image_description": "작업자들이 안전모를 쓰고 컨베이어 벨트를 점검하는 사진",
+        "image_prompt": "Two workers in safety gear inspecting a conveyor belt in an industrial facility",
+        "audio_script": "(A) They are putting on their safety helmets. (B) They are loading items onto a truck. (C) They are painting a wall. (D) They are inspecting a conveyor belt.",
+        "options": {
+          "A": "They are putting on their safety helmets.",
+          "B": "They are loading items onto a truck.",
+          "C": "They are painting a wall.",
+          "D": "They are inspecting a conveyor belt."
+        },
+        "answer": "D",
+        "explanation": "컨베이어 벨트를 점검하고 있으므로 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-05",
+        "image_description": "안내 게시판 앞에 사람들이 모여 일정을 확인하는 사진",
+        "image_prompt": "A group of professionals gathered around a notice board checking a seminar schedule",
+        "audio_script": "(A) Some people are checking a schedule on a board. (B) Some people are hanging a poster. (C) Some people are opening their briefcases. (D) Some people are exiting a building.",
+        "options": {
+          "A": "Some people are checking a schedule on a board.",
+          "B": "Some people are hanging a poster.",
+          "C": "Some people are opening their briefcases.",
+          "D": "Some people are exiting a building."
+        },
+        "answer": "A",
+        "explanation": "게시판의 일정을 확인하고 있으므로 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-06",
+        "image_description": "고객이 상점에서 영수증을 보여주며 환불을 요구하는 사진",
+        "image_prompt": "A customer showing a receipt to a store clerk while holding a defective product",
+        "audio_script": "(A) The clerk is folding some clothes. (B) The customer is holding a receipt. (C) The customer is trying on a jacket. (D) The clerk is closing the cash register.",
+        "options": {
+          "A": "The clerk is folding some clothes.",
+          "B": "The customer is holding a receipt.",
+          "C": "The customer is trying on a jacket.",
+          "D": "The clerk is closing the cash register."
+        },
+        "answer": "B",
+        "explanation": "고객이 영수증을 들고 있으므로 (B)가 정답입니다."
+      }
+    ],
+    "part2": [
+      {
+        "id": "LC2-07",
+        "audio_script": "When is the maintenance team coming to fix the factory equipment?",
+        "options": {
+          "A": "By tomorrow morning.",
+          "B": "Yes, they are broken.",
+          "C": "In the main warehouse."
+        },
+        "answer": "A",
+        "explanation": "When 질문에 대한 응답으로 시점(tomorrow morning)을 나타낸 (A)가 정답."
+      },
+      {
+        "id": "LC2-08",
+        "audio_script": "Who is responsible for updating the seminar schedule?",
+        "options": {
+          "A": "In conference room B.",
+          "B": "The event coordinator.",
+          "C": "It was very informative."
+        },
+        "answer": "B",
+        "explanation": "Who 질문에 대한 응답으로 사람(event coordinator)을 나타낸 (B)가 정답."
+      },
+      {
+        "id": "LC2-09",
+        "audio_script": "How should we handle this customer's complaint?",
+        "options": {
+          "A": "A full refund, I think.",
+          "B": "About three days ago.",
+          "C": "No, he didn't complain."
+        },
+        "answer": "A",
+        "explanation": "How 질문에 대해 해결책(전액 환불)을 제시한 (A)가 정답."
+      },
+      {
+        "id": "LC2-10",
+        "audio_script": "Has the replacement part for the conveyor belt arrived yet?",
+        "options": {
+          "A": "It's still in transit.",
+          "B": "Part 3 is difficult.",
+          "C": "Yes, I can drive there."
+        },
+        "answer": "A",
+        "explanation": "도착 여부를 묻는 질문에 아직 배송 중이라고 답한 (A)가 정답. (B)는 part를 이용한 함정."
+      },
+      {
+        "id": "LC2-11",
+        "audio_script": "Why was the leadership seminar postponed?",
+        "options": {
+          "A": "Because the main speaker is ill.",
+          "B": "At the downtown hotel.",
+          "C": "I'll read it later."
+        },
+        "answer": "A",
+        "explanation": "Why 질문에 대해 이유(발표자의 병결)를 나타낸 (A)가 정답."
+      },
+      {
+        "id": "LC2-12",
+        "audio_script": "Did you reply to the unhappy customer, or should I?",
+        "options": {
+          "A": "Yes, I was very happy.",
+          "B": "I already sent an email.",
+          "C": "To the customer service desk."
+        },
+        "answer": "B",
+        "explanation": "선택 의문문에 대해 자신이 이미 이메일을 보냈다고 답한 (B)가 정답."
+      },
+      {
+        "id": "LC2-13",
+        "audio_script": "Where is the manual for this printing machine?",
+        "options": {
+          "A": "It's in the top drawer.",
+          "B": "About 50 pages long.",
+          "C": "We print them locally."
+        },
+        "answer": "A",
+        "explanation": "Where 질문에 대해 장소(서랍 안)를 나타낸 (A)가 정답."
+      },
+      {
+        "id": "LC2-14",
+        "audio_script": "The new assembly line seems to be malfunctioning, doesn't it?",
+        "options": {
+          "A": "No, it's not assembling.",
+          "B": "Yes, I noticed a strange noise.",
+          "C": "I'll draw a new line."
+        },
+        "answer": "B",
+        "explanation": "부가 의문문에 동의하며 이상한 소리가 났다고 한 (B)가 정답."
+      },
+      {
+        "id": "LC2-15",
+        "audio_script": "What time does the keynote speech start?",
+        "options": {
+          "A": "He is a great speaker.",
+          "B": "Not until 10 A.M.",
+          "C": "It's a new watch."
+        },
+        "answer": "B",
+        "explanation": "What time 질문에 대해 시간(10시)을 나타낸 (B)가 정답."
+      },
+      {
+        "id": "LC2-16",
+        "audio_script": "I think we should offer a discount to apologize to the customer.",
+        "options": {
+          "A": "Yes, a 15% coupon sounds fair.",
+          "B": "No, the store is closed.",
+          "C": "They are counting the items."
+        },
+        "answer": "A",
+        "explanation": "평서문의 제안에 동의하며 구체적인 할인율을 제시한 (A)가 정답."
+      },
+      {
+        "id": "LC2-17",
+        "audio_script": "Should we call a technician, or try to fix the server ourselves?",
+        "options": {
+          "A": "Let's call the IT department.",
+          "B": "It's a technical manual.",
+          "C": "Yes, we should."
+        },
+        "answer": "A",
+        "explanation": "선택 의문문에 대해 IT 부서에 전화하자고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-18",
+        "audio_script": "Could you send me the revised seminar schedule?",
+        "options": {
+          "A": "I'll email it right away.",
+          "B": "I didn't revise for the test.",
+          "C": "Yes, it was a great seminar."
+        },
+        "answer": "A",
+        "explanation": "요청에 대해 바로 이메일로 보내겠다고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-19",
+        "audio_script": "Who is looking into the defective products issue?",
+        "options": {
+          "A": "They are looking good.",
+          "B": "In the warehouse.",
+          "C": "The quality control manager."
+        },
+        "answer": "C",
+        "explanation": "Who 질문에 대해 담당자(품질 관리 매니저)를 답한 (C)가 정답."
+      },
+      {
+        "id": "LC2-20",
+        "audio_script": "How long will the factory be closed for repairs?",
+        "options": {
+          "A": "It's closed on Sundays.",
+          "B": "For at least two weeks.",
+          "C": "Yes, they paired them up."
+        },
+        "answer": "B",
+        "explanation": "How long 질문에 대해 기간(최소 2주)을 나타낸 (B)가 정답."
+      },
+      {
+        "id": "LC2-21",
+        "audio_script": "Why did they change the venue for the workshop?",
+        "options": {
+          "A": "Because we have more attendees than expected.",
+          "B": "To the Grand Hotel.",
+          "C": "Yes, I changed my mind."
+        },
+        "answer": "A",
+        "explanation": "Why 질문에 대해 이유(참석자 증가)를 나타낸 (A)가 정답."
+      },
+      {
+        "id": "LC2-22",
+        "audio_script": "Have you reviewed the feedback from our recent clients?",
+        "options": {
+          "A": "I'll do it after lunch.",
+          "B": "No, it's not a review.",
+          "C": "They are sitting at the back."
+        },
+        "answer": "A",
+        "explanation": "확인 여부를 묻는 질문에 점심 후에 하겠다고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-23",
+        "audio_script": "What's the best way to handle negative online reviews?",
+        "options": {
+          "A": "It was very positive.",
+          "B": "We usually reply within 24 hours.",
+          "C": "Down the hallway."
+        },
+        "answer": "B",
+        "explanation": "대처 방법을 묻는 질문에 24시간 내에 답변한다고 한 (B)가 정답."
+      },
+      {
+        "id": "LC2-24",
+        "audio_script": "Is the new packaging machine installed yet?",
+        "options": {
+          "A": "Yes, it started running today.",
+          "B": "It's a large package.",
+          "C": "I installed the software."
+        },
+        "answer": "A",
+        "explanation": "설치 여부를 묻는 질문에 오늘 가동을 시작했다고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-25",
+        "audio_script": "You're attending the training session, aren't you?",
+        "options": {
+          "A": "It's a long train ride.",
+          "B": "Yes, but I might be a little late.",
+          "C": "The session was cancelled."
+        },
+        "answer": "B",
+        "explanation": "참석 여부를 확인하는 부가 의문문에 조금 늦을 수 있다고 한 (B)가 정답."
+      },
+      {
+        "id": "LC2-26",
+        "audio_script": "Who authorized the refund for Mr. Smith?",
+        "options": {
+          "A": "He is an author.",
+          "B": "The store manager did.",
+          "C": "Refunds take three days."
+        },
+        "answer": "B",
+        "explanation": "Who 질문에 대해 권한을 부여한 사람(상점 매니저)을 나타낸 (B)가 정답."
+      },
+      {
+        "id": "LC2-27",
+        "audio_script": "Can you check if the hydraulic press is overheating?",
+        "options": {
+          "A": "I'll measure the temperature now.",
+          "B": "Press the red button.",
+          "C": "No, it's very cold outside."
+        },
+        "answer": "A",
+        "explanation": "요청에 대해 온도를 측정하겠다고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-28",
+        "audio_script": "Why don't we shift the presentation to 3 P.M.?",
+        "options": {
+          "A": "That works better for my schedule.",
+          "B": "It's a nice present.",
+          "C": "I work the night shift."
+        },
+        "answer": "A",
+        "explanation": "제안에 대해 내 일정에 더 맞다고 긍정적으로 답한 (A)가 정답."
+      },
+      {
+        "id": "LC2-29",
+        "audio_script": "The client is demanding an exchange for the damaged goods.",
+        "options": {
+          "A": "Let's prepare a replacement immediately.",
+          "B": "The stock exchange closed.",
+          "C": "It's not very demanding."
+        },
+        "answer": "A",
+        "explanation": "상황을 알리는 평서문에 대해 즉시 교환품을 준비하자고 한 (A)가 정답."
+      },
+      {
+        "id": "LC2-30",
+        "audio_script": "Which supplier should we contact for the spare parts?",
+        "options": {
+          "A": "They supply office stationery.",
+          "B": "We parted ways last year.",
+          "C": "The one based in Chicago."
+        },
+        "answer": "C",
+        "explanation": "Which supplier 질문에 시카고에 있는 업체를 지목한 (C)가 정답."
+      },
+      {
+        "id": "LC2-31",
+        "audio_script": "Doesn't the conference call start in ten minutes?",
+        "options": {
+          "A": "No, it was pushed back an hour.",
+          "B": "I called him yesterday.",
+          "C": "It takes ten minutes to walk there."
+        },
+        "answer": "A",
+        "explanation": "시작 시간을 확인하는 질문에 1시간 연기되었다고 한 (A)가 정답."
+      }
+    ],
+    "part3": [
+      {
+        "set_id": "LC3-SET01",
+        "context_type": "Factory Floor Conversation",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "M: Sarah, the main conveyor belt on assembly line three just stopped working again. We can't process any more orders right now.\nW: That's the second time this week. Have you called the maintenance team?\nM: I tried, but they are dealing with an emergency in the packing area. They said they won't be here for another hour.\nW: We can't afford to wait. Let's move the workers to line four for now so we don't fall behind schedule.",
+        "questions": [
+          {
+            "id": "LC3-01-32",
+            "question": "What is the problem?",
+            "options": {
+              "A": "A machine is broken.",
+              "B": "An order was lost.",
+              "C": "Workers are on strike.",
+              "D": "A part is missing."
+            },
+            "answer": "A",
+            "explanation": "컨베이어 벨트가 고장 났다고 언급했습니다."
+          },
+          {
+            "id": "LC3-01-33",
+            "question": "Why is the maintenance team delayed?",
+            "options": {
+              "A": "They are on a lunch break.",
+              "B": "They are handling another issue.",
+              "C": "They lack the right tools.",
+              "D": "They have not been contacted."
+            },
+            "answer": "B",
+            "explanation": "포장 구역의 비상 상황을 처리 중이라고 했습니다."
+          },
+          {
+            "id": "LC3-01-34",
+            "question": "What does the woman suggest?",
+            "options": {
+              "A": "Calling a different technician.",
+              "B": "Relocating the staff.",
+              "C": "Canceling the orders.",
+              "D": "Taking a break."
+            },
+            "answer": "B",
+            "explanation": "작업자들을 다른 라인(line four)으로 이동시키자고 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET02",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W1",
+            "gender": "Female",
+            "accent": "AU"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W1: Mark, I just got an email from the event venue. They double-booked our conference room for the upcoming leadership seminar on Friday.\nM: Oh no. That means we have to either change the date or find a new location fast. We have over 100 people attending.\nW1: I already checked nearby hotels, but they are fully booked due to the trade fair. I think our only option is to push the seminar to next Monday.\nM: I agree. I'll start drafting an email to notify all the registered attendees about the schedule change immediately.",
+        "questions": [
+          {
+            "id": "LC3-02-35",
+            "question": "What is the main topic of the conversation?",
+            "options": {
+              "A": "Booking a hotel room.",
+              "B": "Scheduling a trade fair.",
+              "C": "Changing a seminar date.",
+              "D": "Hiring a new speaker."
+            },
+            "answer": "C",
+            "explanation": "세미나 일정을 월요일로 미루는 것에 대해 논의하고 있습니다."
+          },
+          {
+            "id": "LC3-02-36",
+            "question": "Why can't they use another venue?",
+            "options": {
+              "A": "It is too expensive.",
+              "B": "Nearby places are fully booked.",
+              "C": "It is too far away.",
+              "D": "The capacity is too small."
+            },
+            "answer": "B",
+            "explanation": "근처 호텔들이 무역 박람회 때문에 예약이 꽉 찼다고 했습니다."
+          },
+          {
+            "id": "LC3-02-37",
+            "question": "What will the man do next?",
+            "options": {
+              "A": "Call the hotel manager.",
+              "B": "Write an email to participants.",
+              "C": "Refund the tickets.",
+              "D": "Prepare a presentation."
+            },
+            "answer": "B",
+            "explanation": "참석자들에게 일정 변경을 알리는 이메일 초안을 작성하겠다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET03",
+        "context_type": "Customer Service",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Hello, I'm calling to complain about a laptop I ordered from your website. It arrived yesterday, but the screen is cracked.\nW: I sincerely apologize for that inconvenience, sir. It must have been damaged during transit. Could you please provide your order number?\nM: Yes, it's 88392. I need this laptop for a business trip next Tuesday, so I can't wait weeks for a repair.\nW: I understand completely. I will arrange for a courier to pick up the damaged laptop tomorrow, and we will ship a brand new replacement overnight.",
+        "questions": [
+          {
+            "id": "LC3-03-38",
+            "question": "Why is the man calling?",
+            "options": {
+              "A": "To upgrade his software.",
+              "B": "To track a shipment.",
+              "C": "To report a damaged product.",
+              "D": "To cancel an order."
+            },
+            "answer": "C",
+            "explanation": "노트북 화면이 깨져서 왔다고 불만을 제기하고 있습니다."
+          },
+          {
+            "id": "LC3-03-39",
+            "question": "What does the man mention about a business trip?",
+            "options": {
+              "A": "He needs a laptop for it.",
+              "B": "He will buy a ticket soon.",
+              "C": "He lost his luggage during it.",
+              "D": "He wants to rent a car."
+            },
+            "answer": "A",
+            "explanation": "다음 주 화요일 출장을 위해 노트북이 필요하다고 언급했습니다."
+          },
+          {
+            "id": "LC3-03-40",
+            "question": "What does the woman offer to do?",
+            "options": {
+              "A": "Provide a full refund.",
+              "B": "Send a replacement overnight.",
+              "C": "Repair the screen for free.",
+              "D": "Give a discount coupon."
+            },
+            "answer": "B",
+            "explanation": "새 제품을 익일 배송으로 보내주겠다고 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET04",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "AU"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W: I reviewed the recent customer feedback for our new mobile app, and there are a lot of complaints about the checkout process.\nM: Really? I thought we fixed those bugs in the last update. What exactly are they saying?\nW: Most users say the payment page freezes when they try to use a credit card. It's causing us to lose sales.\nM: I'll have the software development team look into the payment gateway integration right away. We need a patch by tomorrow.",
+        "questions": [
+          {
+            "id": "LC3-04-41",
+            "question": "What are they discussing?",
+            "options": {
+              "A": "Customer feedback on an app.",
+              "B": "A new marketing campaign.",
+              "C": "Employee performance.",
+              "D": "Office network issues."
+            },
+            "answer": "A",
+            "explanation": "새 모바일 앱에 대한 고객 피드백에 대해 논의하고 있습니다."
+          },
+          {
+            "id": "LC3-04-42",
+            "question": "What specific problem is mentioned?",
+            "options": {
+              "A": "The app is too expensive.",
+              "B": "The payment page freezes.",
+              "C": "Passwords are hard to reset.",
+              "D": "Images are not loading."
+            },
+            "answer": "B",
+            "explanation": "신용카드 사용 시 결제 페이지가 멈춘다고 했습니다."
+          },
+          {
+            "id": "LC3-04-43",
+            "question": "What will the man do?",
+            "options": {
+              "A": "Call the bank.",
+              "B": "Contact the software team.",
+              "C": "Refund the customers.",
+              "D": "Update the manual."
+            },
+            "answer": "B",
+            "explanation": "소프트웨어 개발팀에 문제를 조사하라고 지시하겠다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET05",
+        "context_type": "Factory Floor Conversation",
+        "speakers": [
+          {
+            "name": "M1",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "M2",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M1: The safety inspector is coming tomorrow to check the new chemical processing equipment.\nM2: Are we completely ready? I noticed a small leak near the pressure valve this morning.\nM1: I already replaced the seal on the valve, so it's secure now. But we still need to update the maintenance logs.\nM2: I can take care of the logs. I'll make sure all recent inspections are documented before I leave today.",
+        "questions": [
+          {
+            "id": "LC3-05-44",
+            "question": "Who is visiting tomorrow?",
+            "options": {
+              "A": "A safety inspector.",
+              "B": "A new client.",
+              "C": "A job applicant.",
+              "D": "A union representative."
+            },
+            "answer": "A",
+            "explanation": "안전 검사관(safety inspector)이 온다고 했습니다."
+          },
+          {
+            "id": "LC3-05-45",
+            "question": "What did the first man do this morning?",
+            "options": {
+              "A": "He ordered new uniforms.",
+              "B": "He replaced a valve seal.",
+              "C": "He cleaned the floor.",
+              "D": "He called a supplier."
+            },
+            "answer": "B",
+            "explanation": "압력 밸브의 씰을 교체했다고(replaced the seal) 했습니다."
+          },
+          {
+            "id": "LC3-05-46",
+            "question": "What does the second man offer to do?",
+            "options": {
+              "A": "Test the equipment.",
+              "B": "Update the maintenance logs.",
+              "C": "Buy lunch.",
+              "D": "Train new employees."
+            },
+            "answer": "B",
+            "explanation": "유지보수 기록(maintenance logs)을 업데이트하겠다고 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET06",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W: Did you hear that the keynote speaker for our annual marketing seminar had to cancel due to a family emergency?\nM: Yes, the organizing committee told me this morning. Are they going to change the schedule, or find a replacement?\nW: They decided to move my workshop up to the keynote slot. It's a huge opportunity, but I need to expand my presentation now.\nM: That's great news! If you need help gathering more data for your slides, I have some free time this afternoon.",
+        "questions": [
+          {
+            "id": "LC3-06-47",
+            "question": "Why was the schedule changed?",
+            "options": {
+              "A": "The venue was unavailable.",
+              "B": "A speaker canceled.",
+              "C": "Equipment malfunctioned.",
+              "D": "Attendance was low."
+            },
+            "answer": "B",
+            "explanation": "기조 연설자가 가족 문제로 취소했기 때문입니다."
+          },
+          {
+            "id": "LC3-06-48",
+            "question": "What will the woman do at the seminar?",
+            "options": {
+              "A": "Register guests.",
+              "B": "Give the keynote presentation.",
+              "C": "Serve refreshments.",
+              "D": "Operate the projector."
+            },
+            "answer": "B",
+            "explanation": "자신의 워크숍이 기조 연설(keynote slot)로 이동했다고 했습니다."
+          },
+          {
+            "id": "LC3-06-49",
+            "question": "How will the man assist the woman?",
+            "options": {
+              "A": "By printing handouts.",
+              "B": "By gathering data.",
+              "C": "By picking up a client.",
+              "D": "By setting up microphones."
+            },
+            "answer": "B",
+            "explanation": "슬라이드에 들어갈 데이터를 모으는 것을 도와주겠다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET07",
+        "context_type": "Store Conversation",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Excuse me, I bought this blender here last week, but the motor overheats and shuts off after just a minute of use.\nW: I'm sorry to hear that. We had a batch of those blenders recalled recently due to a manufacturing defect. Do you have your receipt?\nM: Yes, here it is. I'd like a refund, if possible, rather than an exchange.\nW: Certainly. Let me process that for you. As an apology, I'd also like to offer you a 20% discount coupon for your next purchase.",
+        "questions": [
+          {
+            "id": "LC3-07-50",
+            "question": "What problem does the man report?",
+            "options": {
+              "A": "An item is missing a part.",
+              "B": "A device overheats.",
+              "C": "He was overcharged.",
+              "D": "The instructions are unclear."
+            },
+            "answer": "B",
+            "explanation": "블렌더 모터가 과열되어 꺼진다고 했습니다."
+          },
+          {
+            "id": "LC3-07-51",
+            "question": "What does the man want?",
+            "options": {
+              "A": "An exchange.",
+              "B": "A refund.",
+              "C": "A repair.",
+              "D": "Store credit."
+            },
+            "answer": "B",
+            "explanation": "교환보다는 환불(refund)을 원한다고 명확히 말했습니다."
+          },
+          {
+            "id": "LC3-07-52",
+            "question": "What does the woman give the man?",
+            "options": {
+              "A": "A discount coupon.",
+              "B": "A free sample.",
+              "C": "A replacement manual.",
+              "D": "A membership card."
+            },
+            "answer": "A",
+            "explanation": "사과의 의미로 20% 할인 쿠폰을 주겠다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET08",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W: I just heard from the logistics team. The delivery of our new office furniture has been delayed until next Wednesday.\nM: That's a problem. We have three new employees starting on Monday, and they won't have desks to work at.\nW: I know. I was thinking we could temporarily set them up in the spare conference room. There's a large table and plenty of chairs in there.\nM: Good idea. Let's make sure the IT department sets up their laptops and internet access in that room by Friday afternoon.",
+        "questions": [
+          {
+            "id": "LC3-08-53",
+            "question": "What has been delayed?",
+            "options": {
+              "A": "A software update.",
+              "B": "A furniture delivery.",
+              "C": "A business trip.",
+              "D": "A staff meeting."
+            },
+            "answer": "B",
+            "explanation": "새 사무용 가구 배송이 지연되었다고 언급했습니다."
+          },
+          {
+            "id": "LC3-08-54",
+            "question": "Why is the delay a problem?",
+            "options": {
+              "A": "An inspection is scheduled.",
+              "B": "New employees are starting soon.",
+              "C": "The budget is finalized.",
+              "D": "Clients are visiting."
+            },
+            "answer": "B",
+            "explanation": "월요일에 신규 직원 세 명이 출근하는데 책상이 없기 때문입니다."
+          },
+          {
+            "id": "LC3-08-55",
+            "question": "What will the IT department be asked to do?",
+            "options": {
+              "A": "Install security cameras.",
+              "B": "Set up equipment in a conference room.",
+              "C": "Order more laptops.",
+              "D": "Repair a printer."
+            },
+            "answer": "B",
+            "explanation": "임시 공간인 회의실에 노트북과 인터넷을 설정해 달라고 요청할 예정입니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET09",
+        "context_type": "Factory Floor Conversation",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: The cooling system in the warehouse is failing again. The temperature is rising, and we store perishable goods there.\nW: This is unacceptable. We just had the HVAC company here last month to overhaul that system. I'll call them and demand they send someone immediately.\nM: Please do. In the meantime, I'm going to start moving the most sensitive inventory into the backup refrigeration units.\nW: Yes, hurry. I'll get the contract file. If they don't fix this for free under warranty, we're finding a new contractor.",
+        "questions": [
+          {
+            "id": "LC3-09-56",
+            "question": "Where are the speakers?",
+            "options": {
+              "A": "In a restaurant kitchen.",
+              "B": "In a factory warehouse.",
+              "C": "In an office building.",
+              "D": "In a delivery truck."
+            },
+            "answer": "B",
+            "explanation": "창고(warehouse)의 냉각 시스템 문제를 이야기하므로 (B)가 적절합니다."
+          },
+          {
+            "id": "LC3-09-57",
+            "question": "What is the woman going to do?",
+            "options": {
+              "A": "Move some inventory.",
+              "B": "Call a repair company.",
+              "C": "Buy a new cooler.",
+              "D": "Check the temperature."
+            },
+            "answer": "B",
+            "explanation": "HVAC(냉난방) 업체에 당장 전화를 걸겠다고 했습니다."
+          },
+          {
+            "id": "LC3-09-58",
+            "question": "What is the man's immediate plan?",
+            "options": {
+              "A": "Transfer items to backup units.",
+              "B": "Review the contract.",
+              "C": "Go home early.",
+              "D": "Repair the system himself."
+            },
+            "answer": "A",
+            "explanation": "가장 민감한 재고를 예비 냉장 장치로 옮기겠다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET10",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W: Hi, David. The printing company just called. They can't deliver our seminar brochures by Thursday because of a paper shortage.\nM: Oh, no. The seminar is on Saturday, and we absolutely need those brochures for the attendee packets.\nW: They suggested using a slightly different type of paper that they have in stock. It's a bit thinner, but it looks very similar, and they can print it by tomorrow.\nM: That sounds like our best option. Please tell them to proceed with the alternative paper.",
+        "questions": [
+          {
+            "id": "LC3-10-59",
+            "question": "What is the cause of the delay?",
+            "options": {
+              "A": "A machine breakdown.",
+              "B": "A paper shortage.",
+              "C": "A spelling error.",
+              "D": "A bad weather condition."
+            },
+            "answer": "B",
+            "explanation": "종이 부족(paper shortage)으로 인해 브로셔 배송이 늦어진다고 했습니다."
+          },
+          {
+            "id": "LC3-10-60",
+            "question": "When is the seminar?",
+            "options": {
+              "A": "On Wednesday.",
+              "B": "On Thursday.",
+              "C": "On Friday.",
+              "D": "On Saturday."
+            },
+            "answer": "D",
+            "explanation": "남자가 'The seminar is on Saturday'라고 말했습니다."
+          },
+          {
+            "id": "LC3-10-61",
+            "question": "What solution do the speakers agree on?",
+            "options": {
+              "A": "Using a different printing company.",
+              "B": "Sending digital brochures.",
+              "C": "Using a different type of paper.",
+              "D": "Delaying the seminar."
+            },
+            "answer": "C",
+            "explanation": "재고가 있는 대체 용지(alternative paper)를 사용하기로 동의했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET11",
+        "context_type": "Store Conversation",
+        "speakers": [
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "W",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "M: I'm very frustrated. I hired your catering service for a corporate lunch, and the food arrived an hour late. The meeting was completely disrupted.\nW: I am so sorry for the unacceptable delay, sir. Our delivery van had a flat tire, but we should have communicated that to you immediately.\nM: Yes, communication is key. We had clients waiting, and it reflected poorly on our company.\nW: We take full responsibility. I will waive the entire delivery fee and issue a 30% refund for the meal cost to make up for this.",
+        "questions": [
+          {
+            "id": "LC3-11-62",
+            "question": "Why is the man upset?",
+            "options": {
+              "A": "The food was cold.",
+              "B": "The delivery was late.",
+              "C": "The wrong order was sent.",
+              "D": "The staff was rude."
+            },
+            "answer": "B",
+            "explanation": "음식이 한 시간 늦게 도착했다고 불만을 제기했습니다."
+          },
+          {
+            "id": "LC3-11-63",
+            "question": "What caused the problem?",
+            "options": {
+              "A": "A flat tire.",
+              "B": "Heavy traffic.",
+              "C": "A kitchen fire.",
+              "D": "A lost map."
+            },
+            "answer": "A",
+            "explanation": "배달 밴의 타이어 펑크(flat tire) 때문이었다고 설명했습니다."
+          },
+          {
+            "id": "LC3-11-64",
+            "question": "What does the woman offer as compensation?",
+            "options": {
+              "A": "A free dessert.",
+              "B": "A partial refund.",
+              "C": "A discount on the next order.",
+              "D": "A new delivery van."
+            },
+            "answer": "B",
+            "explanation": "배달비 면제와 함께 음식값의 30% 환불(partial refund)을 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET12",
+        "context_type": "Office Conversation",
+        "speakers": [
+          {
+            "name": "W1",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "M",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "W2",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W1: We need to finalize the schedule for the orientation on Monday. John, did you confirm the IT systems overview?\nM: Yes, I'm presenting that at 10 A.M. But I heard the main projector in Room A is broken. Has anyone checked on that?\nW2: I submitted a maintenance ticket yesterday. Facilities said they are waiting for a replacement bulb, which won't arrive until Tuesday.\nW1: In that case, let's swap rooms. John, you can use Room B for the IT overview, and I'll move my HR session to Room A, since I don't need a projector.",
+        "questions": [
+          {
+            "id": "LC3-12-65",
+            "question": "What is the problem with Room A?",
+            "options": {
+              "A": "It is too small.",
+              "B": "The air conditioning is broken.",
+              "C": "A projector is not working.",
+              "D": "The chairs are missing."
+            },
+            "answer": "C",
+            "explanation": "Room A의 메인 프로젝터가 고장났다고 했습니다."
+          },
+          {
+            "id": "LC3-12-66",
+            "question": "When will the replacement part arrive?",
+            "options": {
+              "A": "On Monday.",
+              "B": "On Tuesday.",
+              "C": "On Wednesday.",
+              "D": "On Thursday."
+            },
+            "answer": "B",
+            "explanation": "교체용 전구가 화요일(Tuesday)에 도착한다고 했습니다."
+          },
+          {
+            "id": "LC3-12-67",
+            "question": "What does W1 suggest?",
+            "options": {
+              "A": "Canceling the orientation.",
+              "B": "Renting equipment.",
+              "C": "Switching rooms.",
+              "D": "Printing handouts."
+            },
+            "answer": "C",
+            "explanation": "자신의 세션과 남자의 세션 장소를 바꾸자고(swap rooms) 제안했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET13",
+        "context_type": "Factory Floor Conversation",
+        "speakers": [
+          {
+            "name": "M1",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "M2",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M1: The quality control team just rejected a whole batch of the metal casings we produced this morning. They say the dimensions are off by a millimeter.\nM2: A millimeter? That means the calibration on the stamping machine is incorrect. I recalibrated it last week.\nM1: Well, it must have shifted. We need to halt production on that line immediately to avoid wasting more materials.\nM2: You're right. I'll shut down the machine and recalibrate it right now. Can you inform the supervisor about the delay?",
+        "questions": [
+          {
+            "id": "LC3-13-68",
+            "question": "Why were the products rejected?",
+            "options": {
+              "A": "They were the wrong color.",
+              "B": "Their dimensions were incorrect.",
+              "C": "They were scratched.",
+              "D": "They arrived late."
+            },
+            "answer": "B",
+            "explanation": "크기(dimensions)가 1밀리미터 어긋났다고 했습니다."
+          },
+          {
+            "id": "LC3-13-69",
+            "question": "What does M1 suggest doing?",
+            "options": {
+              "A": "Stopping production.",
+              "B": "Shipping the products anyway.",
+              "C": "Firing an employee.",
+              "D": "Calling a supplier."
+            },
+            "answer": "A",
+            "explanation": "더 이상의 재료 낭비를 막기 위해 해당 라인의 생산을 즉시 중단하자고 했습니다."
+          },
+          {
+            "id": "LC3-13-70",
+            "question": "What will M2 do next?",
+            "options": {
+              "A": "Talk to the supervisor.",
+              "B": "Recalibrate the machine.",
+              "C": "Inspect the materials.",
+              "D": "Take a break."
+            },
+            "answer": "B",
+            "explanation": "기계를 멈추고 다시 영점을 맞추겠다고(recalibrate) 했습니다."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "set_id": "LC4-SET01",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Attention all factory personnel. Due to an unexpected mechanical failure in the main boiler, we are experiencing a loss of steam power across the facility. For safety reasons, we are temporarily halting all manufacturing operations. Maintenance crews are currently on-site assessing the damage, and they estimate it will take approximately two hours to replace the faulty valve. In the meantime, please proceed to the cafeteria where complimentary refreshments are provided. Do not attempt to operate any heavy machinery until the all-clear signal is given. Thank you for your cooperation.",
+        "questions": [
+          {
+            "id": "LC4-01-71",
+            "question": "What is the purpose of the announcement?",
+            "options": {
+              "A": "To announce a staff promotion.",
+              "B": "To inform workers of a mechanical failure.",
+              "C": "To introduce new safety rules.",
+              "D": "To schedule a training session."
+            },
+            "answer": "B",
+            "explanation": "주 보일러의 기계적 고장과 그에 따른 조치를 알리는 방송입니다."
+          },
+          {
+            "id": "LC4-01-72",
+            "question": "How long is the repair expected to take?",
+            "options": {
+              "A": "One hour.",
+              "B": "Two hours.",
+              "C": "A full day.",
+              "D": "One week."
+            },
+            "answer": "B",
+            "explanation": "수리(밸브 교체)에 약 2시간(two hours)이 소요될 것으로 예상했습니다."
+          },
+          {
+            "id": "LC4-01-73",
+            "question": "Where are employees asked to go?",
+            "options": {
+              "A": "To the parking lot.",
+              "B": "To the HR office.",
+              "C": "To the cafeteria.",
+              "D": "To the warehouse."
+            },
+            "answer": "C",
+            "explanation": "직원들에게 구내식당(cafeteria)으로 가라고 지시했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET02",
+        "context_type": "Voicemail",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Hello, Mr. Tanaka. This is Clara from the Event Planning Committee. I'm calling to inform you of a sudden change regarding the Financial Strategies Seminar you are attending this Friday. Unfortunately, our venue at the Grand Hotel experienced a water leak this morning, so we have to relocate the event. The seminar will now be held at the Riverside Convention Center, just two blocks away. The start time has also been pushed back by 30 minutes to 9:30 A.M. to allow attendees extra travel time. I have emailed you a revised map and schedule. Please let me know if you have any questions.",
+        "questions": [
+          {
+            "id": "LC4-02-74",
+            "question": "Why is the speaker calling?",
+            "options": {
+              "A": "To cancel an event.",
+              "B": "To confirm a hotel reservation.",
+              "C": "To announce a change in venue.",
+              "D": "To request a payment."
+            },
+            "answer": "C",
+            "explanation": "세미나 장소가 변경되었음을 알리기 위해 전화했습니다."
+          },
+          {
+            "id": "LC4-02-75",
+            "question": "What caused the schedule change?",
+            "options": {
+              "A": "A speaker is sick.",
+              "B": "A water leak at the hotel.",
+              "C": "A traffic jam.",
+              "D": "A scheduling conflict."
+            },
+            "answer": "B",
+            "explanation": "원래 장소인 호텔에 누수(water leak) 문제가 생겼다고 했습니다."
+          },
+          {
+            "id": "LC4-02-76",
+            "question": "What time will the event start?",
+            "options": {
+              "A": "9:00 A.M.",
+              "B": "9:30 A.M.",
+              "C": "10:00 A.M.",
+              "D": "10:30 A.M."
+            },
+            "answer": "B",
+            "explanation": "시작 시간이 30분 미뤄져 9시 30분이 되었다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET03",
+        "context_type": "Meeting Excerpt",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Thanks for joining this emergency meeting, customer service team. As you know, we've received an overwhelming number of complaints this week regarding our new smart home hub. Customers are reporting that the device frequently disconnects from the Wi-Fi. Our engineering team has identified this as a software bug, and they are rolling out an automatic firmware update tonight that should resolve the issue completely. In the meantime, I have distributed a script detailing how you should respond to these complaints. We need to assure our customers that a fix is imminent and offer them a sincere apology.",
+        "questions": [
+          {
+            "id": "LC4-03-77",
+            "question": "Who is the speaker addressing?",
+            "options": {
+              "A": "Software engineers.",
+              "B": "Customer service staff.",
+              "C": "Investors.",
+              "D": "Factory workers."
+            },
+            "answer": "B",
+            "explanation": "서두에서 'customer service team'에게 말하고 있습니다."
+          },
+          {
+            "id": "LC4-03-78",
+            "question": "What is the problem with the product?",
+            "options": {
+              "A": "It is too expensive.",
+              "B": "It disconnects from Wi-Fi.",
+              "C": "The battery drains quickly.",
+              "D": "It is difficult to install."
+            },
+            "answer": "B",
+            "explanation": "스마트 홈 허브가 Wi-Fi 연결이 자주 끊어진다고 했습니다."
+          },
+          {
+            "id": "LC4-03-79",
+            "question": "What will happen tonight?",
+            "options": {
+              "A": "A firmware update will be released.",
+              "B": "The store will close early.",
+              "C": "A new product will be launched.",
+              "D": "A manager will resign."
+            },
+            "answer": "A",
+            "explanation": "엔지니어링 팀이 펌웨어 업데이트를 배포할 것이라고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET04",
+        "context_type": "Recorded Message",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "You have reached the customer support line for Apex Appliances. We are currently experiencing high call volumes due to a recall notice on our X-200 microwave model. If you are calling regarding a broken door latch on the X-200, please press one to be directed to our recall specialist team. They will assist you with scheduling a free repair or a complete replacement. If you are calling to file a complaint about a different product, please press two. For all other inquiries, please stay on the line and the next available representative will assist you.",
+        "questions": [
+          {
+            "id": "LC4-04-80",
+            "question": "What type of business is this?",
+            "options": {
+              "A": "An appliance manufacturer.",
+              "B": "A travel agency.",
+              "C": "An internet provider.",
+              "D": "A bank."
+            },
+            "answer": "A",
+            "explanation": "전자레인지(microwave) 리콜 안내 등을 하는 가전제품 회사(Apex Appliances)입니다."
+          },
+          {
+            "id": "LC4-04-81",
+            "question": "Why is the call volume high?",
+            "options": {
+              "A": "A holiday sale is ongoing.",
+              "B": "A product has been recalled.",
+              "C": "The website is down.",
+              "D": "There is a billing error."
+            },
+            "answer": "B",
+            "explanation": "X-200 전자레인지 모델의 리콜 통지 때문에 전화가 많다고 했습니다."
+          },
+          {
+            "id": "LC4-04-82",
+            "question": "What should callers do to speak about the X-200 model?",
+            "options": {
+              "A": "Stay on the line.",
+              "B": "Leave a voicemail.",
+              "C": "Press one.",
+              "D": "Press two."
+            },
+            "answer": "C",
+            "explanation": "해당 모델 관련 리콜은 1번을 누르라고 안내했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET05",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "May I have your attention, please. The scheduled maintenance on the printing presses will begin in 15 minutes. All operators on the floor must secure their workstations and power down their machines by 10:15 A.M. The maintenance team needs full access to the gears and motors to perform routine lubrication and replace worn belts. This maintenance period will last for approximately three hours. All floor staff are asked to use this time to attend the mandatory safety training session in Room 304. Production will resume immediately after the lunch break.",
+        "questions": [
+          {
+            "id": "LC4-05-83",
+            "question": "Where is the announcement taking place?",
+            "options": {
+              "A": "In a train station.",
+              "B": "In a printing facility.",
+              "C": "In a hospital.",
+              "D": "In a library."
+            },
+            "answer": "B",
+            "explanation": "인쇄기(printing presses)의 유지보수 안내이므로 인쇄 시설입니다."
+          },
+          {
+            "id": "LC4-05-84",
+            "question": "What are operators asked to do by 10:15 A.M.?",
+            "options": {
+              "A": "Submit a report.",
+              "B": "Clean the floor.",
+              "C": "Turn off their machines.",
+              "D": "Take a lunch break."
+            },
+            "answer": "C",
+            "explanation": "10시 15분까지 기계 전원을 끄라고(power down) 지시했습니다."
+          },
+          {
+            "id": "LC4-05-85",
+            "question": "What should the staff do during the maintenance?",
+            "options": {
+              "A": "Go home early.",
+              "B": "Attend a safety training.",
+              "C": "Help the maintenance team.",
+              "D": "Sort the mail."
+            },
+            "answer": "B",
+            "explanation": "이 시간 동안 Room 304에서 필수 안전 교육(safety training)을 받으라고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET06",
+        "context_type": "Speech",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Good morning, team. Before we begin the seminar on digital marketing trends, I need to announce a slight adjustment to today's agenda. Our afternoon speaker, Mr. Henderson, is stuck in traffic and won't arrive on time. Therefore, we will be moving the Q&A session, originally scheduled for 3 P.M., to the slot right after lunch. Mr. Henderson's presentation on social media metrics will now take place at 3 P.M. Please make a note of this change on your printed schedules. Now, let's welcome our first presenter to the stage.",
+        "questions": [
+          {
+            "id": "LC4-06-86",
+            "question": "What is the topic of the seminar?",
+            "options": {
+              "A": "Financial planning.",
+              "B": "Digital marketing trends.",
+              "C": "Software development.",
+              "D": "Customer service skills."
+            },
+            "answer": "B",
+            "explanation": "디지털 마케팅 트렌드(digital marketing trends)에 관한 세미나입니다."
+          },
+          {
+            "id": "LC4-06-87",
+            "question": "Why is the schedule changing?",
+            "options": {
+              "A": "A projector is broken.",
+              "B": "A speaker is delayed by traffic.",
+              "C": "The room is double-booked.",
+              "D": "A lunch caterer is late."
+            },
+            "answer": "B",
+            "explanation": "오후 발표자(Mr. Henderson)가 교통 체증으로 늦기 때문입니다."
+          },
+          {
+            "id": "LC4-06-88",
+            "question": "What will happen right after lunch?",
+            "options": {
+              "A": "A Q&A session.",
+              "B": "A networking event.",
+              "C": "A social media presentation.",
+              "D": "A factory tour."
+            },
+            "answer": "A",
+            "explanation": "원래 3시에 예정되어 있던 Q&A 세션이 점심 직후로 옮겨졌다고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET07",
+        "context_type": "Voicemail",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Hi, this message is for Sarah Jenkins. This is Robert from Horizon Furniture. I'm calling about the complaint you submitted online regarding the scratches on the dining table we delivered on Monday. I have reviewed the photos you attached to the claim, and I completely agree that the damage is unacceptable. Our quality control team must have missed that during inspection. I want to make this right immediately. We can either send a technician to your home to repair and refinish the surface, or we can replace the table entirely. Please call me back at 555-0199 to let me know your preference.",
+        "questions": [
+          {
+            "id": "LC4-07-89",
+            "question": "Why is Robert calling?",
+            "options": {
+              "A": "To schedule a delivery.",
+              "B": "To respond to a customer complaint.",
+              "C": "To offer a job interview.",
+              "D": "To request an online review."
+            },
+            "answer": "B",
+            "explanation": "고객이 남긴 불만 사항(식탁 흠집)에 대해 답변하기 위해 전화했습니다."
+          },
+          {
+            "id": "LC4-07-90",
+            "question": "What did the customer provide online?",
+            "options": {
+              "A": "A receipt.",
+              "B": "Photos of the damage.",
+              "C": "A discount code.",
+              "D": "A bank statement."
+            },
+            "answer": "B",
+            "explanation": "클레임에 첨부된 사진(photos)을 확인했다고 언급했습니다."
+          },
+          {
+            "id": "LC4-07-91",
+            "question": "What choice is the customer given?",
+            "options": {
+              "A": "A refund or store credit.",
+              "B": "A repair or a replacement.",
+              "C": "A smaller table or a larger one.",
+              "D": "A free chair or a rug."
+            },
+            "answer": "B",
+            "explanation": "수리(repair)를 할 것인지, 새 제품으로 교체(replacement)할 것인지 선택하라고 했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET08",
+        "context_type": "News Report",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "In local business news, the city's largest manufacturing plant, SteelCore Industries, suffered a major setback today when a critical piece of robotic assembly equipment broke down. The breakdown caused a halt in production that lasted for over eight hours. Company representatives stated that a specialized part had to be flown in from Germany to fix the machine. Although the assembly line is now back up and running, SteelCore expects a slight delay in their international shipping schedule this week. To compensate, the plant managers have announced that the facility will operate on weekend shifts until the backlog is cleared.",
+        "questions": [
+          {
+            "id": "LC4-08-92",
+            "question": "What is the news report mainly about?",
+            "options": {
+              "A": "A new product launch.",
+              "B": "A factory equipment breakdown.",
+              "C": "A merger between two companies.",
+              "D": "An environmental regulation."
+            },
+            "answer": "B",
+            "explanation": "주요 조립 로봇 기계 고장과 그 여파에 대한 뉴스입니다."
+          },
+          {
+            "id": "LC4-08-93",
+            "question": "Where did the replacement part come from?",
+            "options": {
+              "A": "Japan.",
+              "B": "The United States.",
+              "C": "Germany.",
+              "D": "China."
+            },
+            "answer": "C",
+            "explanation": "수리를 위한 특수 부품을 독일(Germany)에서 비행기로 공수했다고 했습니다."
+          },
+          {
+            "id": "LC4-08-94",
+            "question": "How will the company clear the backlog?",
+            "options": {
+              "A": "By hiring more staff.",
+              "B": "By outsourcing production.",
+              "C": "By running weekend shifts.",
+              "D": "By canceling small orders."
+            },
+            "answer": "C",
+            "explanation": "밀린 작업을 처리하기 위해 주말 근무(weekend shifts)를 할 것이라고 발표했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET09",
+        "context_type": "Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Attention all attendees of the Annual Leadership Workshop. I have an important announcement regarding our afternoon breakout sessions. Due to an issue with the air conditioning system in Conference Room C, it is currently too warm for comfort. Therefore, we are relocating the 2 P.M. session on 'Effective Conflict Resolution' to the Grand Ballroom on the first floor. All other sessions will remain in their originally scheduled rooms. We apologize for the inconvenience and the short notice. Please grab a complimentary bottle of water from the lobby as you head down to the new room.",
+        "questions": [
+          {
+            "id": "LC4-09-95",
+            "question": "Why is the session being relocated?",
+            "options": {
+              "A": "The room is too small.",
+              "B": "The air conditioning is not working.",
+              "C": "The projector is missing.",
+              "D": "The speaker requested a change."
+            },
+            "answer": "B",
+            "explanation": "에어컨 고장으로 방이 너무 더워서(air conditioning system issue) 장소를 옮긴다고 했습니다."
+          },
+          {
+            "id": "LC4-09-96",
+            "question": "Where will the relocated session be held?",
+            "options": {
+              "A": "In Conference Room C.",
+              "B": "In the lobby.",
+              "C": "In the Grand Ballroom.",
+              "D": "Outdoors."
+            },
+            "answer": "C",
+            "explanation": "2시 세션을 1층의 Grand Ballroom으로 옮긴다고 말했습니다."
+          },
+          {
+            "id": "LC4-09-97",
+            "question": "What can attendees get in the lobby?",
+            "options": {
+              "A": "A new schedule.",
+              "B": "A bottle of water.",
+              "C": "A name tag.",
+              "D": "A free book."
+            },
+            "answer": "B",
+            "explanation": "로비에서 무료 생수(bottle of water)를 가져가라고 안내했습니다."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET10",
+        "context_type": "Meeting Excerpt",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Before we wrap up this meeting, I want to briefly discuss our procedure for handling customer complaints about the new software subscription. Many users are confused by the billing cycle and feel they were overcharged. It's crucial that we do not simply refer them back to the website's FAQ page. Instead, our new policy requires you to walk them through their invoice line by line. If they are still dissatisfied, you now have the authorization to offer a one-month free extension on their subscription. Resolving this on the first call is our top priority this quarter.",
+        "questions": [
+          {
+            "id": "LC4-10-98",
+            "question": "What are customers complaining about?",
+            "options": {
+              "A": "The software is crashing.",
+              "B": "The billing cycle.",
+              "C": "The customer service wait times.",
+              "D": "The lack of new features."
+            },
+            "answer": "B",
+            "explanation": "새 소프트웨어 구독의 결제 주기(billing cycle)에 대해 혼란스러워하며 과다 청구되었다고 느낀다고 했습니다."
+          },
+          {
+            "id": "LC4-10-99",
+            "question": "What are employees instructed NOT to do?",
+            "options": {
+              "A": "Offer a refund.",
+              "B": "Refer customers to the FAQ page.",
+              "C": "Explain the invoice.",
+              "D": "Transfer the call to a manager."
+            },
+            "answer": "B",
+            "explanation": "고객을 단순히 웹사이트의 FAQ 페이지로 돌려보내지 말 것(do not simply refer them back to the FAQ page)을 지시했습니다."
+          },
+          {
+            "id": "LC4-10-100",
+            "question": "What are employees authorized to offer?",
+            "options": {
+              "A": "A full refund.",
+              "B": "A free hardware upgrade.",
+              "C": "A one-month free extension.",
+              "D": "A discount code."
+            },
+            "answer": "C",
+            "explanation": "고객이 여전히 불만족할 경우 구독 기간을 1개월 무료 연장(one-month free extension)해주도록 권한을 부여받았다고 했습니다."
+          }
+        ]
+      }
+    ]
+  },
+  "rc": {
+    "part5": [
+      {
+        "question_number": 101,
+        "question": "Due to the recent factory equipment breakdown, all night shift workers -------- to report to the warehouse instead.",
+        "options": {
+          "A": "are required",
+          "B": "requiring",
+          "C": "requires",
+          "D": "to require"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 102,
+        "question": "The customer service department has received several -------- regarding the delayed shipments this week.",
+        "options": {
+          "A": "complains",
+          "B": "complaints",
+          "C": "complaining",
+          "D": "complained"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 103,
+        "question": "The marketing department is currently seeking a -------- venue for the upcoming seminar.",
+        "options": {
+          "A": "suit",
+          "B": "suitably",
+          "C": "suitable",
+          "D": "suitability"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 104,
+        "question": "Because of the sudden malfunction in the cooling system, production on line 3 will be halted -------- further notice.",
+        "options": {
+          "A": "among",
+          "B": "with",
+          "C": "during",
+          "D": "until"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 105,
+        "question": "We sincerely apologize for the inconvenience and assure you that we are handling your complaint --------.",
+        "options": {
+          "A": "promptly",
+          "B": "prompt",
+          "C": "promptness",
+          "D": "prompted"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 106,
+        "question": "To accommodate our international speakers, the leadership seminar schedule -------- to begin at 10:00 A.M. rather than 8:00 A.M.",
+        "options": {
+          "A": "revise",
+          "B": "has been revised",
+          "C": "revising",
+          "D": "to revise"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 107,
+        "question": "All assembly line workers must wear protective gear while the machinery --------.",
+        "options": {
+          "A": "tests",
+          "B": "tested",
+          "C": "is being tested",
+          "D": "has tested"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 108,
+        "question": "The newly appointed director will personally address the customer -------- raised during the latest survey.",
+        "options": {
+          "A": "concerning",
+          "B": "concern",
+          "C": "concerned",
+          "D": "concerns"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 109,
+        "question": "If you are unable to attend the rescheduled training seminar, please notify your supervisor --------.",
+        "options": {
+          "A": "immediately",
+          "B": "immediate",
+          "C": "immediateness",
+          "D": "immediacies"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 110,
+        "question": "A team of technicians was dispatched to the factory floor to identify the -------- of the engine failure.",
+        "options": {
+          "A": "causing",
+          "B": "cause",
+          "C": "caused",
+          "D": "causes"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 111,
+        "question": "A complimentary gift card was sent to the client to -------- for the defective product they received.",
+        "options": {
+          "A": "apologies",
+          "B": "replacing",
+          "C": "compensate",
+          "D": "refunding"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 112,
+        "question": "The updated itinerary for the annual seminar will be distributed -------- the participants by tomorrow afternoon.",
+        "options": {
+          "A": "by",
+          "B": "from",
+          "C": "against",
+          "D": "among"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 113,
+        "question": "Due to unexpected maintenance, the main conveyor belt is currently --------.",
+        "options": {
+          "A": "unavailable",
+          "B": "unavailably",
+          "C": "unavailability",
+          "D": "unavailabilities"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 114,
+        "question": "Our customer relations team always handles complex product inquiries --------.",
+        "options": {
+          "A": "profession",
+          "B": "professionally",
+          "C": "professional",
+          "D": "professionalism"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 115,
+        "question": "The keynote speaker's flight was delayed, so the opening remarks for the seminar will be delivered --------.",
+        "options": {
+          "A": "soonest",
+          "B": "sooner",
+          "C": "shortly",
+          "D": "short"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 116,
+        "question": "Regular inspections of the factory equipment are crucial to -------- sudden breakdowns.",
+        "options": {
+          "A": "preventing",
+          "B": "prevents",
+          "C": "prevented",
+          "D": "prevent"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 117,
+        "question": "Any client who wishes to file a formal complaint must submit the -------- documentation online.",
+        "options": {
+          "A": "appropriate",
+          "B": "appropriately",
+          "C": "appropriateness",
+          "D": "appropriates"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 118,
+        "question": "The organizing committee sent an email confirming that the venue for the seminar -------- to a larger conference room.",
+        "options": {
+          "A": "to change",
+          "B": "had been changed",
+          "C": "changing",
+          "D": "change"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 119,
+        "question": "Factory supervisors are responsible for ensuring that all safety guidelines are strictly -------- at all times.",
+        "options": {
+          "A": "following",
+          "B": "follow",
+          "C": "followed",
+          "D": "to follow"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 120,
+        "question": "Our dedicated customer support staff handles all returns and exchanges -------- and efficiently.",
+        "options": {
+          "A": "quiet",
+          "B": "quickness",
+          "C": "prompt",
+          "D": "quickly"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 121,
+        "question": "Please be advised that the date of the financial planning seminar is -------- to change without prior notice.",
+        "options": {
+          "A": "subject",
+          "B": "subjective",
+          "C": "subjected",
+          "D": "subjects"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 122,
+        "question": "After the recent malfunction, the factory floor was temporarily closed to allow mechanics to -------- the machinery.",
+        "options": {
+          "A": "investigation",
+          "B": "inspect",
+          "C": "inspecting",
+          "D": "inspected"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 123,
+        "question": "We are pleased to announce that the customer satisfaction rate has -------- increased over the past quarter.",
+        "options": {
+          "A": "significance",
+          "B": "significant",
+          "C": "significantly",
+          "D": "signify"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 124,
+        "question": "Because the guest speaker had an emergency, the seminar -------- will be updated on our website shortly.",
+        "options": {
+          "A": "scheduled",
+          "B": "scheduling",
+          "C": "schedules",
+          "D": "schedule"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 125,
+        "question": "To avoid further equipment failures, the maintenance department has implemented a more -------- inspection protocol.",
+        "options": {
+          "A": "rigorous",
+          "B": "rigorously",
+          "C": "rigorousness",
+          "D": "rigor"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 126,
+        "question": "We deeply value our customers' feedback, as it helps us to better understand their --------.",
+        "options": {
+          "A": "need",
+          "B": "needs",
+          "C": "needed",
+          "D": "needing"
+        },
+        "answer": "B"
+      },
+      {
+        "question_number": 127,
+        "question": "All attendees of the marketing seminar are expected to -------- their registration badges at the front desk.",
+        "options": {
+          "A": "collected",
+          "B": "collecting",
+          "C": "collect",
+          "D": "collects"
+        },
+        "answer": "C"
+      },
+      {
+        "question_number": 128,
+        "question": "The management team agreed that the broken factory equipment should be replaced -------- than repaired.",
+        "options": {
+          "A": "other",
+          "B": "better",
+          "C": "instead",
+          "D": "rather"
+        },
+        "answer": "D"
+      },
+      {
+        "question_number": 129,
+        "question": "The customer service representative resolved the billing error to the client's complete --------.",
+        "options": {
+          "A": "satisfaction",
+          "B": "satisfactory",
+          "C": "satisfy",
+          "D": "satisfied"
+        },
+        "answer": "A"
+      },
+      {
+        "question_number": 130,
+        "question": "The revised schedule for the upcoming training seminar has been posted -------- the bulletin board in the breakroom.",
+        "options": {
+          "A": "to",
+          "B": "in",
+          "C": "on",
+          "D": "at"
+        },
+        "answer": "C"
+      }
+    ],
+    "part6": [
+      {
+        "passage_id": 1,
+        "topic": "공장 설비 고장",
+        "text": "To: All Production Staff\nFrom: Maintenance Department\nDate: July 30\n\nThis is to inform you that Assembly Line B will be closed for the remainder of the week. Yesterday evening, the main conveyor belt experienced a severe mechanical --------. Our engineers have inspected the machinery and ordered the necessary replacement parts. However, the parts will not arrive until Thursday. --------. We expect the repairs to be completed by Friday morning. Supervisors will provide further instructions if there are any -------- in the repair timeline. We apologize for the inconvenience and appreciate your cooperation as we work to resolve this issue --------.",
+        "questions": [
+          {
+            "question_number": 131,
+            "options": {
+              "A": "failure",
+              "B": "failing",
+              "C": "failed",
+              "D": "fails"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 132,
+            "options": {
+              "A": "Production will double next month.",
+              "B": "In the meantime, employees assigned to Line B should report to Line C.",
+              "C": "The new equipment is very expensive.",
+              "D": "Please submit your vacation requests soon."
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 133,
+            "options": {
+              "A": "delay",
+              "B": "delayed",
+              "C": "delays",
+              "D": "delaying"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 134,
+            "options": {
+              "A": "swift",
+              "B": "swiftness",
+              "C": "swifter",
+              "D": "swiftly"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "passage_id": 2,
+        "topic": "세미나 일정 변경",
+        "text": "Dear Registered Attendees,\n\nWe are writing to notify you of an important update regarding the Annual Marketing Seminar. Due to unforeseen scheduling conflicts, the event has been postponed. It will now take place on October 12, rather than the -------- planned date of September 15. The venue remains unchanged, and all current registrations will automatically be transferred to the new date. --------. For those requesting a refund, please submit the cancellation form on our website by September 1. Once processed, the funds will be credited to your account -------- five business days. We sincerely apologize for the change and hope you can still -------- us in October.",
+        "questions": [
+          {
+            "question_number": 135,
+            "options": {
+              "A": "origin",
+              "B": "originally",
+              "C": "original",
+              "D": "originate"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 136,
+            "options": {
+              "A": "The seminar was a great success.",
+              "B": "Please remember to bring a pen.",
+              "C": "If you cannot attend on October 12, a full refund will be issued.",
+              "D": "The registration fee will be increased."
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 137,
+            "options": {
+              "A": "over",
+              "B": "onto",
+              "C": "while",
+              "D": "within"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 138,
+            "options": {
+              "A": "join",
+              "B": "joining",
+              "C": "joined",
+              "D": "joins"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "passage_id": 3,
+        "topic": "고객 불만 처리",
+        "text": "Dear Mr. Harrison,\n\nThank you for contacting Nova Electronics customer support. We -------- apologize that the noise-canceling headphones you ordered arrived in a damaged condition. We strive to provide our customers with top-quality products, and we are disappointed that we fell short in this instance. To resolve this matter, a replacement pair has already been shipped to your address via express delivery. --------. Furthermore, we have included a $20 gift voucher in the package as a token of our -------- for your patience. Please use the enclosed prepaid shipping label to return the -------- item to us at your earliest convenience. If you have any further questions, please do not hesitate to reach out.",
+        "questions": [
+          {
+            "question_number": 139,
+            "options": {
+              "A": "sincere",
+              "B": "sincerity",
+              "C": "sincerely",
+              "D": "sincereness"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 140,
+            "options": {
+              "A": "You will need to pay for the shipping.",
+              "B": "The headphones come in three colors.",
+              "C": "We do not accept returns.",
+              "D": "It should arrive at your doorstep by tomorrow afternoon."
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 141,
+            "options": {
+              "A": "appreciation",
+              "B": "appreciate",
+              "C": "appreciated",
+              "D": "appreciating"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 142,
+            "options": {
+              "A": "defect",
+              "B": "defective",
+              "C": "defects",
+              "D": "defectively"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "passage_id": 4,
+        "topic": "고객 불만 처리 및 세미나 교육 안내",
+        "text": "To: Customer Service Representatives\nFrom: HR Department\nDate: August 5\nSubject: Mandatory Training Workshop\n\nThis is a reminder that there will be a mandatory training session on handling customer complaints next Wednesday at 2:00 P.M. The goal of this workshop is to equip our staff with advanced techniques for dealing with dissatisfied clients --------. During the session, we will review several recent case studies. We will also introduce a new software tool designed to track customer feedback. --------. All representatives must -------- this training, regardless of their current schedule. If you have a conflicting appointment that cannot be moved, please contact your manager directly to arrange an alternative time. Thank you for your continued -------- to excellent service.",
+        "questions": [
+          {
+            "question_number": 143,
+            "options": {
+              "A": "effect",
+              "B": "effective",
+              "C": "effectiveness",
+              "D": "effectively"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 144,
+            "options": {
+              "A": "This system will help us respond to inquiries much faster.",
+              "B": "The lunch menu will be provided.",
+              "C": "Please submit your time off requests.",
+              "D": "Sales dropped by ten percent last quarter."
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 145,
+            "options": {
+              "A": "attending",
+              "B": "attend",
+              "C": "attended",
+              "D": "attendee"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 146,
+            "options": {
+              "A": "commit",
+              "B": "committed",
+              "C": "commitment",
+              "D": "committing"
+            },
+            "answer": "C"
+          }
+        ]
+      }
+    ],
+    "part7": [
+      {
+        "setId": 1,
+        "questionsRange": "147-148",
+        "passages": [
+          {
+            "type": "Notice",
+            "content": "Notice to all marketing staff: The digital marketing seminar originally scheduled for Tuesday at 10 AM has been rescheduled to Thursday at 2 PM due to a speaker's flight delay. The venue remains unchanged (Room B). We apologize for any inconvenience."
+          }
+        ],
+        "questions": [
+          {
+            "number": 147,
+            "text": "What is the main purpose of the notice?",
+            "options": {
+              "A": "To announce a schedule change",
+              "B": "To introduce a new speaker",
+              "C": "To cancel a marketing event",
+              "D": "To advertise a digital seminar"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 148,
+            "text": "When will the seminar take place?",
+            "options": {
+              "A": "On Tuesday",
+              "B": "On Thursday",
+              "C": "On Friday",
+              "D": "On Monday"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 2,
+        "questionsRange": "149-151",
+        "passages": [
+          {
+            "type": "Email",
+            "content": "To: Maintenance Team\nFrom: Factory Manager\nDate: October 12\nSubject: Conveyor Belt 3\n\nThe conveyor belt in section 3 has stopped working. Please send someone immediately to inspect the issue. We cannot meet our daily production quota without it running smoothly."
+          }
+        ],
+        "questions": [
+          {
+            "number": 149,
+            "text": "Who is the email intended for?",
+            "options": {
+              "A": "Factory manager",
+              "B": "Delivery drivers",
+              "C": "Maintenance workers",
+              "D": "Security personnel"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 150,
+            "text": "What is the problem?",
+            "options": {
+              "A": "A shipment is late",
+              "B": "An employee is absent",
+              "C": "A new quota was set",
+              "D": "A piece of equipment is broken"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 151,
+            "text": "What is the consequence of the problem?",
+            "options": {
+              "A": "Production goals may not be met",
+              "B": "The factory will close",
+              "C": "Employees will work overtime",
+              "D": "A new machine will be bought"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "setId": 3,
+        "questionsRange": "152-154",
+        "passages": [
+          {
+            "type": "Letter",
+            "content": "Dear Mr. Smith,\nWe sincerely apologize that the blender you purchased arrived with a cracked pitcher. We strive for perfect quality control, but clearly failed here. We have shipped a replacement part today via express delivery. Please accept the enclosed $20 gift card for your trouble."
+          }
+        ],
+        "questions": [
+          {
+            "number": 152,
+            "text": "Why was the letter written?",
+            "options": {
+              "A": "To promote a product",
+              "B": "To address a customer's issue",
+              "C": "To request a payment",
+              "D": "To invite a customer to an event"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 153,
+            "text": "What was wrong with the product?",
+            "options": {
+              "A": "It was the wrong color",
+              "B": "It did not arrive",
+              "C": "It arrived damaged",
+              "D": "It was too expensive"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 154,
+            "text": "What is included with the letter?",
+            "options": {
+              "A": "A discount coupon",
+              "B": "A refund check",
+              "C": "A warranty form",
+              "D": "A gift card"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "setId": 4,
+        "questionsRange": "155-156",
+        "passages": [
+          {
+            "type": "Text Message Chain",
+            "content": "[09:15] Jim: The stamping press is making a weird noise. Could someone check it?\n[09:18] Sarah: I'll come check it out after I finish fixing the packaging machine in sector B.\n[09:20] Jim: Thanks, let me know when you're on your way."
+          }
+        ],
+        "questions": [
+          {
+            "number": 155,
+            "text": "Where do the speakers most likely work?",
+            "options": {
+              "A": "In a manufacturing plant",
+              "B": "In a software company",
+              "C": "In a retail store",
+              "D": "In a hospital"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 156,
+            "text": "What is Sarah currently doing?",
+            "options": {
+              "A": "Ordering spare parts",
+              "B": "Repairing a machine",
+              "C": "Taking a lunch break",
+              "D": "Calling a supervisor"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 5,
+        "questionsRange": "157-158",
+        "passages": [
+          {
+            "type": "Advertisement",
+            "content": "Join our comprehensive Leadership Seminar! Learn how to manage teams effectively and boost productivity. Next session: November 5 at the Grand Hotel. Register by October 30 to qualify for our early bird discount."
+          }
+        ],
+        "questions": [
+          {
+            "number": 157,
+            "text": "What is being advertised?",
+            "options": {
+              "A": "A new book",
+              "B": "A consulting service",
+              "C": "A professional training course",
+              "D": "A networking event"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 158,
+            "text": "What is required to get a discount?",
+            "options": {
+              "A": "Being a group of five",
+              "B": "Having a membership",
+              "C": "Paying in cash",
+              "D": "Registering before a certain date"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "setId": 6,
+        "questionsRange": "159-162",
+        "passages": [
+          {
+            "type": "Article",
+            "content": "Milton Manufacturing has announced a $5 million upgrade to its main facility. The factory will receive new robotic assembly arms, which will increase production speed by 30%. The installation will take place over the summer, during which the plant will close for two weeks. CEO Jane Doe stated that this is a vital step for the company's future."
+          }
+        ],
+        "questions": [
+          {
+            "number": 159,
+            "text": "What is the article mainly about?",
+            "options": {
+              "A": "A facility upgrade",
+              "B": "A change in management",
+              "C": "A new product launch",
+              "D": "A merger with another company"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 160,
+            "text": "By how much is production expected to increase?",
+            "options": {
+              "A": "10 percent",
+              "B": "30 percent",
+              "C": "50 percent",
+              "D": "100 percent"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 161,
+            "text": "When will the factory temporarily close?",
+            "options": {
+              "A": "In the spring",
+              "B": "In the winter",
+              "C": "In the summer",
+              "D": "In the fall"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 162,
+            "text": "Who is Jane Doe?",
+            "options": {
+              "A": "A factory worker",
+              "B": "A news reporter",
+              "C": "A government official",
+              "D": "A company executive"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "setId": 7,
+        "questionsRange": "163-165",
+        "passages": [
+          {
+            "type": "Online Review",
+            "content": "Rating: 2 stars. I stayed at the Ocean View Hotel last weekend. While the room was surprisingly clean and spacious, the air conditioning was broken. I complained to the front desk immediately, but they didn't send anyone to fix it until the next morning. Very disappointing service."
+          }
+        ],
+        "questions": [
+          {
+            "number": 163,
+            "text": "What type of business is being reviewed?",
+            "options": {
+              "A": "A hotel",
+              "B": "A restaurant",
+              "C": "An airline",
+              "D": "A car rental agency"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 164,
+            "text": "What did the reviewer like?",
+            "options": {
+              "A": "The food quality",
+              "B": "The cleanliness of the room",
+              "C": "The friendly staff",
+              "D": "The location"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 165,
+            "text": "What was the reviewer dissatisfied with?",
+            "options": {
+              "A": "The noise level",
+              "B": "The room size",
+              "C": "The slow response to a problem",
+              "D": "The price"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "setId": 8,
+        "questionsRange": "166-168",
+        "passages": [
+          {
+            "type": "Memo",
+            "content": "To: Customer Service Staff\nFrom: Department Head\nSubject: New Protocol\n\nStarting next week, all complaints regarding software glitches must be forwarded directly to the IT department. Do not attempt to troubleshoot these complex technical issues yourselves, as it increases wait times for other customers."
+          }
+        ],
+        "questions": [
+          {
+            "number": 166,
+            "text": "Who is the memo for?",
+            "options": {
+              "A": "IT technicians",
+              "B": "Sales managers",
+              "C": "Delivery drivers",
+              "D": "Customer service representatives"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 167,
+            "text": "When does the new policy take effect?",
+            "options": {
+              "A": "Next week",
+              "B": "Tomorrow",
+              "C": "Next month",
+              "D": "In two days"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 168,
+            "text": "What should staff do with software complaints?",
+            "options": {
+              "A": "Resolve them immediately",
+              "B": "Send them to a different department",
+              "C": "Ignore them",
+              "D": "Ask the customer to call back"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 9,
+        "questionsRange": "169-172",
+        "passages": [
+          {
+            "type": "Email",
+            "content": "Dear Ms. Lee,\nThank you for registering for the Annual Tech Seminar. Your confirmation number is 8849. Please bring a photo ID to the event for security purposes. A complimentary lunch will be provided to all attendees. If you have any dietary restrictions, please email us by May 10 so we can accommodate you."
+          }
+        ],
+        "questions": [
+          {
+            "number": 169,
+            "text": "What is the purpose of the email?",
+            "options": {
+              "A": "To send an invoice",
+              "B": "To request a speaker",
+              "C": "To confirm a registration",
+              "D": "To cancel a seminar"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 170,
+            "text": "What must Ms. Lee bring to the seminar?",
+            "options": {
+              "A": "A credit card",
+              "B": "A printed ticket",
+              "C": "A resume",
+              "D": "Identification"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 171,
+            "text": "What is offered for free?",
+            "options": {
+              "A": "A meal",
+              "B": "Transportation",
+              "C": "A seminar recording",
+              "D": "A book"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 172,
+            "text": "Why might Ms. Lee need to contact the organizers by May 10?",
+            "options": {
+              "A": "To change her seat",
+              "B": "To specify food preferences",
+              "C": "To cancel the ticket",
+              "D": "To ask for directions"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 10,
+        "questionsRange": "173-175",
+        "passages": [
+          {
+            "type": "Web Page",
+            "content": "Welcome to Industrial Parts Co.\nWe supply top-quality replacement parts for all major brands of factory machinery. Orders placed before 2 PM are shipped the very same day. Expedited shipping is also available for an additional fee at checkout."
+          }
+        ],
+        "questions": [
+          {
+            "number": 173,
+            "text": "What does the company sell?",
+            "options": {
+              "A": "Office supplies",
+              "B": "Software",
+              "C": "Machinery components",
+              "D": "Safety gear"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 174,
+            "text": "What happens if an order is placed at 1 PM?",
+            "options": {
+              "A": "It is canceled",
+              "B": "It is delayed",
+              "C": "It receives a discount",
+              "D": "It is shipped on the same day"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 175,
+            "text": "What can customers pay extra for?",
+            "options": {
+              "A": "Faster delivery",
+              "B": "Extended warranty",
+              "C": "Installation service",
+              "D": "Custom packaging"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "setId": 11,
+        "questionsRange": "176-180",
+        "passages": [
+          {
+            "type": "Notice",
+            "content": "The Financial Planning Seminar scheduled for this Friday has been moved from Room 101 to the Main Auditorium due to unexpectedly high registration numbers. The event time remains 9 AM to 4 PM."
+          },
+          {
+            "type": "Email",
+            "content": "To: Event Organizers\nFrom: Tom Hanks\nSubject: Friday Seminar\n\nI saw the recent notice about the venue change. However, I have a mandatory doctor's appointment at 2 PM on Friday and will need to leave early. Will the afternoon session be recorded and made available online?"
+          }
+        ],
+        "questions": [
+          {
+            "number": 176,
+            "text": "Why was the seminar moved?",
+            "options": {
+              "A": "A speaker requested it",
+              "B": "Many people signed up",
+              "C": "The original room is under repair",
+              "D": "The schedule was changed"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 177,
+            "text": "Where will the seminar be held?",
+            "options": {
+              "A": "Room 101",
+              "B": "Room 202",
+              "C": "In the Main Auditorium",
+              "D": "In the cafeteria"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 178,
+            "text": "What is indicated about Tom Hanks?",
+            "options": {
+              "A": "He is a speaker",
+              "B": "He did not register",
+              "C": "He wants a refund",
+              "D": "He will miss part of the seminar"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 179,
+            "text": "What does Tom Hanks ask about?",
+            "options": {
+              "A": "The availability of a recording",
+              "B": "The cost of the seminar",
+              "C": "The speaker's name",
+              "D": "The parking situation"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 180,
+            "text": "When will Tom Hanks likely leave the seminar?",
+            "options": {
+              "A": "Before 9 AM",
+              "B": "Before 2 PM",
+              "C": "After 4 PM",
+              "D": "After 5 PM"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 12,
+        "questionsRange": "181-185",
+        "passages": [
+          {
+            "type": "Form",
+            "content": "Customer Complaint Form\nCustomer Name: Lisa Wong\nItem: Wireless Headphones (Model X)\nIssue: The left speaker has absolutely no sound after one week of use.\nRequest: I want a full refund."
+          },
+          {
+            "type": "Policy",
+            "content": "Return & Warranty Policy\nOur electronics come with a standard 1-year warranty. We offer free repairs or replacements for any defective items during this period. Please note that monetary refunds are strictly issued only if the item is returned unopened within 14 days of purchase."
+          }
+        ],
+        "questions": [
+          {
+            "number": 181,
+            "text": "What item did Lisa Wong buy?",
+            "options": {
+              "A": "A television",
+              "B": "A smartphone",
+              "C": "Headphones",
+              "D": "A laptop"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 182,
+            "text": "What is the problem with the item?",
+            "options": {
+              "A": "It is the wrong color",
+              "B": "It is too small",
+              "C": "It arrived late",
+              "D": "A part is not functioning"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 183,
+            "text": "What does Lisa Wong want?",
+            "options": {
+              "A": "Her money back",
+              "B": "Store credit",
+              "C": "A discount on a future purchase",
+              "D": "An apology letter"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 184,
+            "text": "According to the policy, when can a customer get a refund?",
+            "options": {
+              "A": "If they have a receipt",
+              "B": "If the product has not been used",
+              "C": "If they are a member",
+              "D": "If the item is defective"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 185,
+            "text": "What will the company most likely offer Lisa Wong?",
+            "options": {
+              "A": "A full refund",
+              "B": "A partial refund",
+              "C": "A repair or replacement",
+              "D": "A free accessory"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "setId": 13,
+        "questionsRange": "186-190",
+        "passages": [
+          {
+            "type": "Email",
+            "content": "To: Repairs Dept\nFrom: Floor Supervisor\nDate: March 2\n\nMachine #4 on the assembly line just stopped working. We suspect the main motor burnt out because of a burning smell. Please fix it ASAP."
+          },
+          {
+            "type": "Memo",
+            "content": "To: Floor Supervisor\nFrom: Repairs Dept\nDate: March 3\n\nWe inspected Machine #4. Your suspicion was correct; the motor needs to be completely replaced. We ordered the part from TechSupplies today. It will arrive on Wednesday, and we will install it immediately."
+          },
+          {
+            "type": "Invoice",
+            "content": "From: TechSupplies\nTo: Repairs Dept\nDate: March 3\n\nItem: Heavy-duty motor (Model 44A)\nPrice: $450\nShipping: $50\nTotal Due: $500"
+          }
+        ],
+        "questions": [
+          {
+            "number": 186,
+            "text": "What is the main purpose of the email?",
+            "options": {
+              "A": "To order new machines",
+              "B": "To request a schedule change",
+              "C": "To complain about a supplier",
+              "D": "To report an equipment breakdown"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 187,
+            "text": "What part needs to be replaced?",
+            "options": {
+              "A": "The motor",
+              "B": "The conveyor belt",
+              "C": "The power cord",
+              "D": "The control panel"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 188,
+            "text": "When will the part arrive?",
+            "options": {
+              "A": "On Monday",
+              "B": "On Wednesday",
+              "C": "On Friday",
+              "D": "On Sunday"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 189,
+            "text": "Who ordered the part?",
+            "options": {
+              "A": "The Floor Supervisor",
+              "B": "The Factory Manager",
+              "C": "The Repairs Dept",
+              "D": "The Delivery Driver"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 190,
+            "text": "How much did the shipping cost?",
+            "options": {
+              "A": "$10",
+              "B": "$20",
+              "C": "$40",
+              "D": "$50"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "setId": 14,
+        "questionsRange": "191-195",
+        "passages": [
+          {
+            "type": "Advertisement",
+            "content": "Marketing Masterclass Series: \nUpgrade your skills this summer!\nSession 1: SEO Basics (June 1)\nSession 2: Social Media Marketing (June 8)\nSession 3: Email Campaigns (June 15)\nEach session is $100."
+          },
+          {
+            "type": "Email",
+            "content": "To: Seminar Registration\nFrom: Alice Green\nDate: May 20\n\nI want to register for the June 8 session on Social Media. My credit card info is attached to this secure email. Please confirm my spot."
+          },
+          {
+            "type": "Review",
+            "content": "By: Alice Green\nRating: 4/5 Stars\nThe session I attended was highly informative and the speaker was excellent. I learned a lot about audience engagement. However, the conference room was a bit too cold, which made it uncomfortable to sit for three hours."
+          }
+        ],
+        "questions": [
+          {
+            "number": 191,
+            "text": "What is the topic of the June 15 session?",
+            "options": {
+              "A": "Email Campaigns",
+              "B": "SEO Basics",
+              "C": "Social Media",
+              "D": "Content Creation"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 192,
+            "text": "Which session did Alice Green attend?",
+            "options": {
+              "A": "Session 1",
+              "B": "Session 2",
+              "C": "Session 3",
+              "D": "Session 4"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 193,
+            "text": "How did Alice Green pay?",
+            "options": {
+              "A": "With cash",
+              "B": "With a check",
+              "C": "With a credit card",
+              "D": "With a gift card"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 194,
+            "text": "What did Alice Green complain about?",
+            "options": {
+              "A": "The length of the session",
+              "B": "The speaker's voice",
+              "C": "The cost",
+              "D": "The room temperature"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 195,
+            "text": "Overall, how did Alice Green feel about the seminar?",
+            "options": {
+              "A": "She found it boring",
+              "B": "She found it educational",
+              "C": "She thought it was too short",
+              "D": "She wanted a refund"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "setId": 15,
+        "questionsRange": "196-200",
+        "passages": [
+          {
+            "type": "Letter",
+            "content": "Dear Store Manager,\nI bought a 'SuperVac' vacuum cleaner on May 1. Unfortunately, it completely lost suction power after just three uses. I filled out the online warranty form two weeks ago but haven't heard back from anyone. I am very frustrated."
+          },
+          {
+            "type": "Form",
+            "content": "Warranty Claim Form Database Entry\nName: John Doe\nProduct: SuperVac V2\nPurchase Date: May 1\nStore location: Downtown Branch\nIssue: No suction."
+          },
+          {
+            "type": "Email",
+            "content": "To: John Doe\nFrom: Customer Service\nDate: June 5\n\nDear Mr. Doe,\nWe apologize for the delay. We found your form in our system. Since you bought the device at our Downtown branch, please bring it there at your earliest convenience. Our in-store technician will perform a free on-site repair."
+          }
+        ],
+        "questions": [
+          {
+            "number": 196,
+            "text": "What product did John Doe purchase?",
+            "options": {
+              "A": "A washing machine",
+              "B": "A refrigerator",
+              "C": "A vacuum cleaner",
+              "D": "A microwave"
+            },
+            "answer": "C"
+          },
+          {
+            "number": 197,
+            "text": "When was the product purchased?",
+            "options": {
+              "A": "May 10",
+              "B": "May 15",
+              "C": "May 20",
+              "D": "May 1"
+            },
+            "answer": "D"
+          },
+          {
+            "number": 198,
+            "text": "What is John Doe's complaint in the letter?",
+            "options": {
+              "A": "The store has not responded to him",
+              "B": "The product is too loud",
+              "C": "The instruction manual is missing",
+              "D": "The price was too high"
+            },
+            "answer": "A"
+          },
+          {
+            "number": 199,
+            "text": "Where did John Doe buy the item?",
+            "options": {
+              "A": "At the Uptown branch",
+              "B": "At the Downtown branch",
+              "C": "Online",
+              "D": "Over the phone"
+            },
+            "answer": "B"
+          },
+          {
+            "number": 200,
+            "text": "What is John Doe asked to do?",
+            "options": {
+              "A": "Fill out another form",
+              "B": "Call the manager",
+              "C": "Mail the item",
+              "D": "Take the item to the store"
+            },
+            "answer": "D"
+          }
+        ]
+      }
+    ]
+  }
+}

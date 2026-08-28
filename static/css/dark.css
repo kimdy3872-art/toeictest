@@ -1,0 +1,84 @@
+/* =========================================================================
+ * 다크 모드 - 시스템(Safari/macOS) 외관 설정 자동 추종
+ *  - prefers-color-scheme: dark 일 때만 적용
+ *  - tailwind.css 이후에 로드되어 동일 특이도에서 우선 적용됨
+ *  - JS가 생성하는 클래스를 그대로 두고 색만 재매핑 (구조 변경 없음)
+ * ========================================================================= */
+@media (prefers-color-scheme: dark) {
+  :root { color-scheme: dark; }
+
+  body { background-color: #0f172a; color: #e2e8f0; }
+
+  /* ---- 표면(surface) ---- */
+  .bg-white     { background-color: #1e293b; }   /* 카드 · 헤더 · 팔레트 패널 */
+  .bg-slate-100 { background-color: #0f172a; }   /* 페이지 · 미방문 타일 */
+  .bg-slate-50  { background-color: #172234; }   /* 오디오/지문 등 옅은 박스 */
+  .bg-slate-900 { background-color: #0b1220; }   /* 번호 뱃지 · 선택된 보기 · 다음 버튼 */
+
+  /* 강조 표면(연한 accent 배경) */
+  .bg-indigo-50 { background-color: rgba(99, 102, 241, 0.18); }
+  .bg-amber-50  { background-color: rgba(245, 158, 11, 0.12); }
+
+  /* ---- 텍스트 ---- */
+  .text-slate-900 { color: #f1f5f9; }
+  .text-slate-800 { color: #e5ebf2; }
+  .text-slate-700 { color: #cdd7e3; }
+  .text-slate-600 { color: #b2bfd0; }
+  .text-slate-500 { color: #93a1b5; }
+  .text-slate-400 { color: #6f7d92; }
+  .text-slate-300 { color: #4a5670; }
+  .text-indigo-600 { color: #a5b4fc; }
+  .text-emerald-600 { color: #34d399; }
+  .text-violet-600 { color: #c4b5fd; }
+  .text-amber-600 { color: #fbbf24; }
+  .text-amber-800 { color: #f5cf9a; }
+  .text-red-500, .text-red-600 { color: #f87171; }
+
+  /* ---- 테두리 ---- */
+  .border-slate-200 { border-color: #2b3a52; }
+  .border-slate-300 { border-color: #3d4d67; }
+  .border-slate-100 { border-color: #223049; }
+  .border-slate-900 { border-color: #0b1220; }
+  .border-white     { border-color: #1e293b; }   /* 타일 위 점 테두리 */
+
+  /* divide (현황 패널 구분선) */
+  .divide-slate-100 > :not([hidden]) ~ :not([hidden]) { border-color: #223049; }
+
+  /* ---- 링(포커스/활성) ---- */
+  .ring-slate-900 { --tw-ring-color: #e2e8f0; }   /* 팔레트 포커스 링: 어두운 배경에서 밝게 */
+  .ring-slate-200 { --tw-ring-color: #334155; }
+
+  /* ---- hover 상태(동일 특이도로 재매핑) ---- */
+  .hover\:bg-slate-50:hover  { background-color: #172234; }
+  .hover\:bg-slate-100:hover { background-color: #0f172a; }
+  .hover\:bg-slate-200:hover { background-color: #334155; }
+  .hover\:text-slate-800:hover { color: #e5ebf2; }
+  .hover\:text-slate-700:hover { color: #cdd7e3; }
+  .hover\:border-slate-400:hover { border-color: #64748b; }
+  .hover\:border-slate-500:hover { border-color: #64748b; }
+
+  /* ---- 스크롤바 ---- */
+  .thin-scroll::-webkit-scrollbar-thumb { background: #475569; }
+
+  /* ===================================================================== */
+  /* 결과 페이지(result) 추가 클래스                                          */
+  /* ===================================================================== */
+  .bg-slate-200   { background-color: #334155; }   /* 진행 바 트랙 · 칩 */
+  .bg-emerald-50  { background-color: rgba(16, 185, 129, 0.12); }
+  .bg-emerald-100 { background-color: rgba(16, 185, 129, 0.18); }
+  .bg-red-50      { background-color: rgba(239, 68, 68, 0.10); }
+  .bg-red-100     { background-color: rgba(239, 68, 68, 0.16); }
+
+  .border-amber-200   { border-color: rgba(245, 158, 11, 0.35); }
+  .border-emerald-200 { border-color: rgba(16, 185, 129, 0.30); }
+  .border-red-200     { border-color: rgba(239, 68, 68, 0.30); }
+  .border-slate-50    { border-color: #223049; }
+
+  .text-amber-700   { color: #fbbf24; }
+  .text-emerald-700 { color: #34d399; }
+  .text-emerald-800 { color: #6ee7b7; }
+  .text-indigo-700  { color: #a5b4fc; }
+  .text-red-700     { color: #f87171; }
+  .text-red-800     { color: #fca5a5; }
+  .text-sky-600     { color: #38bdf8; }
+}

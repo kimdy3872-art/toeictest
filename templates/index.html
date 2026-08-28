@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="/static/css/tailwind.css?v={{ ver }}" />
+  <link rel="stylesheet" href="/static/css/dark.css?v={{ ver }}" />
+  <style>
+    html { scroll-behavior: smooth; }
+    .thin-scroll::-webkit-scrollbar { width: 8px; }
+    .thin-scroll::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
+    /* 문제 영역 스크롤 시 헤더에 가리지 않도록 여백 */
+    .q-anchor { scroll-margin-top: 84px; }
+  </style>
+</head>
+<body data-session="{{ session }}" class="bg-slate-100 text-slate-800">
+
+  <!-- ============ 상단 바 (breadcrumb · Exit · Review and Submit) ============ -->
+  <header class="fixed top-0 inset-x-0 z-40 bg-white border-b border-slate-200 shadow-sm">
+    <div class="h-14 px-4 flex items-center gap-3">
+      <!-- breadcrumb -->
+      <div class="flex items-center gap-2 min-w-0">
+        <span class="text-lg shrink-0">📝</span>
+        <span class="font-bold text-slate-900 truncate">{{ title }}</span>
+        <span class="text-slate-300 shrink-0">›</span>
+        <span id="breadcrumbPart" class="text-slate-500 font-medium truncate">Part 1</span>
+      </div>
+
+      <div class="ml-auto flex items-center gap-2 sm:gap-3">
+        <!-- 모바일용 소형 타이머 (스크롤 중에도 보임) -->
+        <span id="timerMini"
+              class="lg:hidden font-mono text-sm font-bold tabular-nums px-2 py-1 rounded-md bg-slate-900 text-white">
+          02:00:00
+        </span>
+        <!-- 모바일 팔레트 토글 -->
+        <button id="togglePalette"
+                class="lg:hidden text-sm font-medium border border-slate-300 rounded-lg px-3 py-1.5 hover:bg-slate-50">
+          문제 목록
+        </button>
+        <button id="exitBtn"
+                class="text-sm font-medium text-slate-500 underline underline-offset-2 hover:text-slate-800 px-1">
+          Exit
+        </button>
+        <button id="submitBtn"
+                class="inline-flex items-center gap-1.5 text-sm font-semibold bg-indigo-900 text-white rounded-lg px-4 py-2 hover:bg-indigo-800">
+          Review and Submit <span aria-hidden="true">➤</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============ 본문 3분할 ============ -->
+  <main class="pt-14">
+    <div class="flex items-start">
+
+      <!-- 좌: 문제 팔레트 -->
+      <aside id="palettePanel"
+             class="hidden lg:block w-64 shrink-0 sticky top-14 h-[calc(100vh-56px)] overflow-y-auto thin-scroll
+                    bg-white border-r border-slate-200 px-3 py-4">
+        <div id="paletteCard" class="space-y-4">
+          <!-- JS로 채움 -->
+        </div>
+
+        <!-- 범례 -->
+        <div class="mt-5 pt-4 border-t border-slate-100 grid grid-cols-2 gap-1.5 text-[11px] text-slate-500">
+          <span class="flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded bg-emerald-500 inline-block"></span>응답함</span>
+          <span class="flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded bg-violet-500 inline-block"></span>검토 표시</span>
+          <span class="flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded bg-white border border-slate-300 inline-block"></span>미응답</span>
+          <span class="flex items-center gap-1.5"><span class="w-3.5 h-3.5 rounded bg-slate-100 inline-block"></span>미방문</span>
+        </div>
+      </aside>
+
+      <!-- 중앙: 문제 영역 -->
+      <section id="questionArea" class="flex-1 min-w-0 px-4 sm:px-6 py-6 pb-28 space-y-8 max-w-3xl mx-auto lg:mx-0">
+        <div class="text-center text-slate-400 py-20">불러오는 중…</div>
+      </section>
+
+      <!-- 우: 타이머 + 현황 -->
+      <aside class="hidden lg:block w-72 shrink-0 sticky top-14 p-4 space-y-4">
+        <!-- 타이머 카드 -->
+        <div class="bg-white rounded-xl border border-slate-200 shadow-sm p-4">
+          <div id="timer" class="flex items-end justify-center gap-1.5 font-mono tabular-nums text-slate-900">
+            <div class="text-center">
+              <div id="timerH" class="text-3xl font-bold leading-none">02</div>
+              <div class="text-[10px] text-slate-400 mt-1 tracking-wide">Hrs</div>
+            </div>
+            <div class="text-2xl font-bold text-slate-300 pb-3">:</div>
+            <div class="text-center">
+              <div id="timerM" class="text-3xl font-bold leading-none">00</div>
+              <div class="text-[10px] text-slate-400 mt-1 tracking-wide">Min</div>
+            </div>
+            <div class="text-2xl font-bold text-slate-300 pb-3">:</div>
+            <div class="text-center">
+              <div id="timerS" class="text-3xl font-bold leading-none">00</div>
+              <div class="text-[10px] text-slate-400 mt-1 tracking-wide">Sec</div>
+            </div>
+          </div>
+          <div class="mt-4 grid grid-cols-2 gap-2">
+            <button id="sessionChangeBtn"
+                    class="text-sm font-medium text-slate-700 border border-slate-300 rounded-lg py-2 hover:bg-slate-50">
+              회차 변경
+            </button>
+            <button id="instrBtn"
+                    class="inline-flex items-center justify-center gap-1 text-sm font-medium text-slate-700 border border-slate-300 rounded-lg py-2 hover:bg-slate-50">
+              📖 안내
+            </button>
+          </div>
+        </div>
+
+        <!-- 현황(Overview) 패널 -->
+        <div class="bg-white rounded-xl border border-slate-200 shadow-sm p-4">
+          <h2 class="text-sm font-bold text-slate-900 pb-2 mb-1 border-b border-slate-100">현황 (Overview)</h2>
+          <dl class="text-sm divide-y divide-slate-100">
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">총 문항</dt><dd id="ovTotal" class="font-semibold text-slate-900 tabular-nums">0</dd></div>
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">방문</dt><dd id="ovVisited" class="font-semibold text-slate-900 tabular-nums">0</dd></div>
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">미방문</dt><dd id="ovNotVisited" class="font-semibold text-slate-900 tabular-nums">0</dd></div>
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">응답</dt><dd id="ovAnswered" class="font-semibold text-emerald-600 tabular-nums">0</dd></div>
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">미응답</dt><dd id="ovNotAnswered" class="font-semibold text-slate-900 tabular-nums">0</dd></div>
+            <div class="flex justify-between py-1.5"><dt class="text-slate-500">검토 표시</dt><dd id="ovMarked" class="font-semibold text-violet-600 tabular-nums">0</dd></div>
+          </dl>
+        </div>
+      </aside>
+    </div>
+  </main>
+
+  <!-- 모바일 팔레트 오버레이 배경 -->
+  <div id="paletteBackdrop" class="hidden fixed inset-0 bg-black/40 z-30 lg:hidden"></div>
+
+  <!-- ============ 회차 선택 시작 화면 ============ -->
+  <div id="startScreen"
+       class="hidden fixed inset-0 z-50 bg-slate-900/95 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-lg w-full p-6 space-y-5">
+      <div class="text-center">
+        <div class="text-3xl mb-1">📝</div>
+        <h2 class="text-xl font-bold text-slate-900">회차 선택</h2>
+        <p class="text-sm text-slate-500 mt-1">응시할 모의고사 회차를 고르고 시작하세요.</p>
+      </div>
+
+      <!-- 이어하기 배너 -->
+      <div id="resumeBanner"
+           class="hidden flex items-center justify-between gap-3 rounded-xl border border-amber-300 bg-amber-50 px-3 py-2.5">
+        <p id="resumeInfo" class="text-xs text-amber-800 leading-snug">저장된 응시 기록</p>
+        <button id="resumeBtn"
+                class="shrink-0 text-sm font-semibold bg-amber-500 text-white rounded-lg px-4 py-1.5 hover:bg-amber-600">
+          이어하기
+        </button>
+      </div>
+
+      <div id="sessionList"
+           class="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-72 overflow-y-auto">
+        <!-- JS로 채움 -->
+      </div>
+      <div class="flex items-center justify-between gap-2 pt-2 border-t border-slate-100">
+        <p class="text-xs text-slate-400">시작하면 120분 타이머가 작동합니다.</p>
+        <div class="flex gap-2">
+          <button id="startCancelBtn"
+                  class="hidden text-sm font-medium border border-slate-300 rounded-lg px-4 py-2.5 hover:bg-slate-50">
+            취소
+          </button>
+          <button id="startBtn"
+                  class="text-sm bg-indigo-900 text-white font-semibold rounded-lg px-5 py-2.5 hover:bg-indigo-800">
+            시작하기
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ 안내 모달 ============ -->
+  <div id="instrModal"
+       class="hidden fixed inset-0 z-50 bg-slate-900/60 flex items-center justify-center p-4">
+    <div class="bg-white rounded-2xl shadow-2xl max-w-md w-full p-6 space-y-3">
+      <div class="flex items-center justify-between">
+        <h2 class="text-lg font-bold text-slate-900">응시 안내</h2>
+        <button id="instrCloseBtn" class="text-slate-400 hover:text-slate-700 text-xl leading-none">✕</button>
+      </div>
+      <ul class="text-sm text-slate-600 space-y-2 list-disc pl-5">
+        <li>총 <b>120분</b> 타이머가 작동하며, 0이 되면 자동 제출됩니다.</li>
+        <li>왼쪽 <b>문제 목록</b>에서 번호를 눌러 해당 문제로 바로 이동할 수 있습니다.</li>
+        <li>보기를 다시 누르면 응답이 <b>해제</b>됩니다.</li>
+        <li>각 문제의 <b>🔖 검토 표시</b>로 다시 볼 문제를 표시해 두세요(보라색).</li>
+        <li>파트 하단의 <b>다음 · 이전</b> 버튼으로 파트를 이동합니다.</li>
+        <li>응시 내용은 자동 저장되어 <b>이어하기</b>가 가능합니다.</li>
+      </ul>
+      <div class="text-right pt-1">
+        <button id="instrOkBtn"
+                class="text-sm font-semibold bg-indigo-900 text-white rounded-lg px-4 py-2 hover:bg-indigo-800">
+          확인
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/js/app.js?v={{ ver }}"></script>
+</body>
+</html>

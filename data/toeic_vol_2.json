@@ -1,0 +1,2631 @@
+{
+  "exam_metadata": {
+    "session": 2,
+    "title": "TOEIC Full Practice Test - Vol.2",
+    "total_questions": 200
+  },
+  "lc": {
+    "part1": [
+      {
+        "id": "LC1-01",
+        "image_description": "한 남자가 화이트보드 앞에서 프레젠테이션을 하고 있고, 다른 사람들이 앉아서 듣고 있는 회의실 상황",
+        "image_prompt": "A man points at a presentation on a whiteboard while colleagues sit and listen attentively in a modern meeting room.",
+        "audio_script": "(A) A man is typing on a keyboard.\n(B) A man is writing on a whiteboard.\n(C) People are handing out documents.\n(D) A man is pointing at a board.",
+        "options": {
+          "A": "A man is typing on a keyboard.",
+          "B": "A man is writing on a whiteboard.",
+          "C": "People are handing out documents.",
+          "D": "A man is pointing at a board."
+        },
+        "answer": "D",
+        "explanation": "남자가 보드를 가리키고 있는 동작이 정확히 묘사되었습니다. (B)는 쓰고 있는 중이 아니므로 오답입니다."
+      },
+      {
+        "id": "LC1-02",
+        "image_description": "두 여자가 서류를 보며 보안 검색대 근처에서 대화를 나누고 있는 상황",
+        "image_prompt": "Two women standing near a security checkpoint in a corporate lobby, looking at a document together.",
+        "audio_script": "(A) They are walking through a doorway.\n(B) They are examining a document.\n(C) They are taking off their badges.\n(D) They are shaking hands.",
+        "options": {
+          "A": "They are walking through a doorway.",
+          "B": "They are examining a document.",
+          "C": "They are taking off their badges.",
+          "D": "They are shaking hands."
+        },
+        "answer": "B",
+        "explanation": "두 사람이 함께 문서를 살펴보고 있는(examining) 동작이 정답입니다."
+      },
+      {
+        "id": "LC1-03",
+        "image_description": "남자가 노트북을 보며 면접을 진행하는 모습",
+        "image_prompt": "A man sitting at a desk looking intently at his open laptop, with interview papers scattered around.",
+        "audio_script": "(A) The man is adjusting his monitor.\n(B) The man is packing his bag.\n(C) The man is looking at a laptop screen.\n(D) The man is putting away some papers.",
+        "options": {
+          "A": "The man is adjusting his monitor.",
+          "B": "The man is packing his bag.",
+          "C": "The man is looking at a laptop screen.",
+          "D": "The man is putting away some papers."
+        },
+        "answer": "C",
+        "explanation": "노트북 화면을 쳐다보고 있는 동작이 가장 잘 묘사되었습니다."
+      },
+      {
+        "id": "LC1-04",
+        "image_description": "직원들이 건설 현장에서 해외 지사 도면을 확인하는 모습",
+        "image_prompt": "Workers in hard hats looking at architectural blueprints at a construction site for a new overseas branch.",
+        "audio_script": "(A) They are unrolling a blueprint.\n(B) They are putting on their safety helmets.\n(C) They are operating heavy machinery.\n(D) They are reviewing some plans.",
+        "options": {
+          "A": "They are unrolling a blueprint.",
+          "B": "They are putting on their safety helmets.",
+          "C": "They are operating heavy machinery.",
+          "D": "They are reviewing some plans."
+        },
+        "answer": "D",
+        "explanation": "도면(plans)을 검토하고 있는 모습이므로 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-05",
+        "image_description": "로비의 새 보안 게이트를 통과하는 직원",
+        "image_prompt": "An employee scanning an ID badge to pass through a newly installed security gate in a corporate lobby.",
+        "audio_script": "(A) A person is scanning an identification card.\n(B) A person is repairing a gate.\n(C) A person is carrying a heavy box.\n(D) A person is taking a photograph.",
+        "options": {
+          "A": "A person is scanning an identification card.",
+          "B": "A person is repairing a gate.",
+          "C": "A person is carrying a heavy box.",
+          "D": "A person is taking a photograph."
+        },
+        "answer": "A",
+        "explanation": "신분증을 스캔하는 상황에 부합하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-06",
+        "image_description": "빈 사무실에 책상과 의자가 정렬되어 있는 모습",
+        "image_prompt": "An empty modern office space with rows of clean desks, ergonomic chairs, and large windows.",
+        "audio_script": "(A) Some chairs have been stacked in a corner.\n(B) Desks have been arranged in rows.\n(C) A rug is being vacuumed.\n(D) Some plants are being watered.",
+        "options": {
+          "A": "Some chairs have been stacked in a corner.",
+          "B": "Desks have been arranged in rows.",
+          "C": "A rug is being vacuumed.",
+          "D": "Some plants are being watered."
+        },
+        "answer": "B",
+        "explanation": "사물이 나열된 상태를 나타내는 수동태 완료형 문장인 (B)가 정답입니다."
+      }
+    ],
+    "part2": [
+      {
+        "id": "LC2-07",
+        "audio_script": "When will the new security policy take effect?\n(A) In the main lobby.\n(B) Starting next Monday.\n(C) Yes, I have my ID card.",
+        "options": {
+          "A": "In the main lobby.",
+          "B": "Starting next Monday.",
+          "C": "Yes, I have my ID card."
+        },
+        "answer": "B",
+        "explanation": "When 질문이므로 시점을 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-08",
+        "audio_script": "Who is interviewing the candidates for the Tokyo branch?\n(A) Mr. Tanaka from HR.\n(B) It's a great opportunity.\n(C) About three years of experience.",
+        "options": {
+          "A": "Mr. Tanaka from HR.",
+          "B": "It's a great opportunity.",
+          "C": "About three years of experience."
+        },
+        "answer": "A",
+        "explanation": "Who 질문이므로 사람 이름과 부서를 명시한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-09",
+        "audio_script": "Did you submit the budget proposal for the overseas expansion?\n(A) A successful marketing campaign.\n(B) No, the deadline was extended.\n(C) It's on the third floor.",
+        "options": {
+          "A": "A successful marketing campaign.",
+          "B": "No, the deadline was extended.",
+          "C": "It's on the third floor."
+        },
+        "answer": "B",
+        "explanation": "제출 여부를 묻는 질문에 대한 부정 응답과 이유를 설명한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-10",
+        "audio_script": "Where should I leave these applicant resumes?\n(A) Only for the management positions.\n(B) Please leave them on my desk.\n(C) At 2 o'clock this afternoon.",
+        "options": {
+          "A": "Only for the management positions.",
+          "B": "Please leave them on my desk.",
+          "C": "At 2 o'clock this afternoon."
+        },
+        "answer": "B",
+        "explanation": "Where 질문이므로 장소를 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-11",
+        "audio_script": "How long will the new employee orientation last?\n(A) Almost fifty people.\n(B) In the large conference room.\n(C) It should take about two hours.",
+        "options": {
+          "A": "Almost fifty people.",
+          "B": "In the large conference room.",
+          "C": "It should take about two hours."
+        },
+        "answer": "C",
+        "explanation": "How long으로 기간을 물었으므로 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-12",
+        "audio_script": "Why is the network connection so slow today?\n(A) The IT team is updating the security system.\n(B) A new software program.\n(C) I think he's in a meeting.",
+        "options": {
+          "A": "The IT team is updating the security system.",
+          "B": "A new software program.",
+          "C": "I think he's in a meeting."
+        },
+        "answer": "A",
+        "explanation": "Why 질문에 대한 이유를 설명하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-13",
+        "audio_script": "You haven't forgotten to change your password, have you?\n(A) No, I did it yesterday.\n(B) A different password.\n(C) He forgot his keys.",
+        "options": {
+          "A": "No, I did it yesterday.",
+          "B": "A different password.",
+          "C": "He forgot his keys."
+        },
+        "answer": "A",
+        "explanation": "비밀번호 변경 여부를 확인하는 부가 의문문에 대해 이미 완료했다고 답하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-14",
+        "audio_script": "Should we hire an external consultant or use our internal team?\n(A) Yes, they are highly qualified.\n(B) Our internal team can handle it.\n(C) A consultation fee.",
+        "options": {
+          "A": "Yes, they are highly qualified.",
+          "B": "Our internal team can handle it.",
+          "C": "A consultation fee."
+        },
+        "answer": "B",
+        "explanation": "선택 의문문이므로 둘 중 하나를 선택한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-15",
+        "audio_script": "Is the new branch office opening in Paris or Berlin?\n(A) It opens at 9 A.M.\n(B) We decided on Berlin.\n(C) I bought two tickets.",
+        "options": {
+          "A": "It opens at 9 A.M.",
+          "B": "We decided on Berlin.",
+          "C": "I bought two tickets."
+        },
+        "answer": "B",
+        "explanation": "Paris와 Berlin 중 하나를 선택하는 의문문에서 베를린으로 결정되었다고 답하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-16",
+        "audio_script": "Could you help me review the interview questions?\n(A) Sure, send them over.\n(B) She has a great interview.\n(C) A review of the financial report.",
+        "options": {
+          "A": "Sure, send them over.",
+          "B": "She has a great interview.",
+          "C": "A review of the financial report."
+        },
+        "answer": "A",
+        "explanation": "요청에 대해 수락하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-17",
+        "audio_script": "What time is the meeting about the overseas branch?\n(A) At the main headquarters.\n(B) It starts at 3 P.M.\n(C) Yes, I have the agenda.",
+        "options": {
+          "A": "At the main headquarters.",
+          "B": "It starts at 3 P.M.",
+          "C": "Yes, I have the agenda."
+        },
+        "answer": "B",
+        "explanation": "What time 질문이므로 시각을 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-18",
+        "audio_script": "Have the security badges been issued yet?\n(A) A secure building.\n(B) No, they'll be ready tomorrow.\n(C) I issued a receipt.",
+        "options": {
+          "A": "A secure building.",
+          "B": "No, they'll be ready tomorrow.",
+          "C": "I issued a receipt."
+        },
+        "answer": "B",
+        "explanation": "발급 여부를 묻는 질문에 대해 아직 안 되었다고 답하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-19",
+        "audio_script": "Who will lead the training session for the new hires?\n(A) The HR manager.\n(B) By taking the train.\n(C) A training manual.",
+        "options": {
+          "A": "The HR manager.",
+          "B": "By taking the train.",
+          "C": "A training manual."
+        },
+        "answer": "A",
+        "explanation": "Who 질문이므로 사람을 지칭하는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-20",
+        "audio_script": "When do you plan to visit the London branch?\n(A) Sometime next month.\n(B) To review the sales data.\n(C) From the London office.",
+        "options": {
+          "A": "Sometime next month.",
+          "B": "To review the sales data.",
+          "C": "From the London office."
+        },
+        "answer": "A",
+        "explanation": "When 질문이므로 시기를 나타내는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-21",
+        "audio_script": "Why don't we schedule the interview for Friday morning?\n(A) Yes, I like Friday.\n(B) A printed schedule.\n(C) That works perfectly for me.",
+        "options": {
+          "A": "Yes, I like Friday.",
+          "B": "A printed schedule.",
+          "C": "That works perfectly for me."
+        },
+        "answer": "C",
+        "explanation": "제안(Why don't we)에 대해 동의하는 (C)가 정답입니다."
+      },
+      {
+        "id": "LC2-22",
+        "audio_script": "The new security regulations are quite strict, aren't they?\n(A) They were very strict.\n(B) Yes, to protect client data.\n(C) I regulated the temperature.",
+        "options": {
+          "A": "They were very strict.",
+          "B": "Yes, to protect client data.",
+          "C": "I regulated the temperature."
+        },
+        "answer": "B",
+        "explanation": "평서문에 대한 부가 의문문으로, 동의와 그 이유를 밝힌 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-23",
+        "audio_script": "Can we finalize the hiring decision today?\n(A) We still have one more candidate to interview.\n(B) A final decision.\n(C) He decided to stay.",
+        "options": {
+          "A": "We still have one more candidate to interview.",
+          "B": "A final decision.",
+          "C": "He decided to stay."
+        },
+        "answer": "A",
+        "explanation": "오늘 결정할 수 있는지 묻는 질문에 한 명 더 남았다고 답하며 미루는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-24",
+        "audio_script": "Which department is relocating to the overseas office?\n(A) The marketing team.\n(B) Next to the elevator.\n(C) Yes, they relocated.",
+        "options": {
+          "A": "The marketing team.",
+          "B": "Next to the elevator.",
+          "C": "Yes, they relocated."
+        },
+        "answer": "A",
+        "explanation": "Which department 질문이므로 부서명인 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-25",
+        "audio_script": "How do I access the secure employee portal?\n(A) You need to enter the access code.\n(B) Through the main entrance.\n(C) A secure connection.",
+        "options": {
+          "A": "You need to enter the access code.",
+          "B": "Through the main entrance.",
+          "C": "A secure connection."
+        },
+        "answer": "A",
+        "explanation": "방법을 묻는 How 질문에 접속 코드가 필요하다고 알려주는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-26",
+        "audio_script": "Will you be attending the seminar on international business law?\n(A) A law firm.\n(B) No, I have a scheduling conflict.\n(C) It was very informative.",
+        "options": {
+          "A": "A law firm.",
+          "B": "No, I have a scheduling conflict.",
+          "C": "It was very informative."
+        },
+        "answer": "B",
+        "explanation": "참석 여부를 묻는 조동사 의문문에 일정 겹침을 이유로 불참을 알리는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-27",
+        "audio_script": "Who is responsible for updating the security software?\n(A) An updated version.\n(B) That would be the IT director.\n(C) Software installation.",
+        "options": {
+          "A": "An updated version.",
+          "B": "That would be the IT director.",
+          "C": "Software installation."
+        },
+        "answer": "B",
+        "explanation": "Who 질문에 대한 답변으로 적절한 직책을 언급한 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-28",
+        "audio_script": "Let's review the resumes before the interview.\n(A) A review committee.\n(B) I've already printed them out.\n(C) An impressive resume.",
+        "options": {
+          "A": "A review committee.",
+          "B": "I've already printed them out.",
+          "C": "An impressive resume."
+        },
+        "answer": "B",
+        "explanation": "제안하는 평서문에 대해 이미 준비를 마쳤다고 답하는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC2-29",
+        "audio_script": "Where is the orientation for the new branch employees?\n(A) In conference room B.\n(B) He is a new employee.\n(C) To learn about the company.",
+        "options": {
+          "A": "In conference room B.",
+          "B": "He is a new employee.",
+          "C": "To learn about the company."
+        },
+        "answer": "A",
+        "explanation": "Where 질문이므로 장소를 나타내는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-30",
+        "audio_script": "Didn't they hire a new security guard for the night shift?\n(A) Yes, he starts tomorrow.\n(B) A night shift schedule.\n(C) To secure the building.",
+        "options": {
+          "A": "Yes, he starts tomorrow.",
+          "B": "A night shift schedule.",
+          "C": "To secure the building."
+        },
+        "answer": "A",
+        "explanation": "부정 의문문에 대해 채용 사실을 확인해주는 (A)가 정답입니다."
+      },
+      {
+        "id": "LC2-31",
+        "audio_script": "How much will the expansion into Singapore cost?\n(A) It expands very quickly.\n(B) We're still finalizing the estimates.\n(C) The cost of living.",
+        "options": {
+          "A": "It expands very quickly.",
+          "B": "We're still finalizing the estimates.",
+          "C": "The cost of living."
+        },
+        "answer": "B",
+        "explanation": "비용을 묻는 질문에 아직 추산 중이라고 답하는 (B)가 정답입니다."
+      }
+    ],
+    "part3": [
+      {
+        "passage_id": "P3-01",
+        "audio_script": "(W) Hi, David. I was wondering if you've had a chance to look at the candidate profiles for the new branch manager position in Sydney. We really need to finalize our decision this week.\n(M) Yes, I reviewed them yesterday. I was particularly impressed with Ms. Carter. She has extensive experience in the Asian-Pacific market, which aligns perfectly with our expansion goals.\n(W) I agree. Let's schedule her for a final round interview on Thursday. Could you contact human resources to set up the video call?\n(M) Absolutely. I'll email them right away and ask for available time slots.",
+        "questions": [
+          {
+            "id": "LC3-32",
+            "question": "What are the speakers mainly discussing?",
+            "options": {
+              "A": "A new marketing campaign",
+              "B": "A candidate for a job opening",
+              "C": "Travel arrangements for a business trip",
+              "D": "A recent company merger"
+            },
+            "answer": "B",
+            "explanation": "시드니 지점장 후보자(candidate profiles)에 대해 논의하고 있으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-33",
+            "question": "What did the man do yesterday?",
+            "options": {
+              "A": "He reviewed some documents.",
+              "B": "He conducted an interview.",
+              "C": "He visited a branch office.",
+              "D": "He updated his resume."
+            },
+            "answer": "A",
+            "explanation": "남자가 어제 후보자 프로필을 검토했다고(reviewed them yesterday) 했으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-34",
+            "question": "What will the man probably do next?",
+            "options": {
+              "A": "Book a flight to Sydney",
+              "B": "Sign a contract",
+              "C": "Contact the human resources department",
+              "D": "Write a performance review"
+            },
+            "answer": "C",
+            "explanation": "여자의 요청에 따라 인사부(human resources)에 연락하겠다고 했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-02",
+        "audio_script": "(M) Excuse me, I received an email saying our internal security regulations are being updated starting next Monday. Do I need to get a new ID badge?\n(W) Yes, all employees will be issued new smart badges that grant access to specific zones based on clearance levels. It's part of the new data protection initiative.\n(M) I see. Where should I go to pick up my new badge?\n(W) The security office on the ground floor will distribute them. Just make sure to bring your current ID for verification.",
+        "questions": [
+          {
+            "id": "LC3-35",
+            "question": "What change is taking place next Monday?",
+            "options": {
+              "A": "A new cafeteria will open.",
+              "B": "Security regulations will be updated.",
+              "C": "A software system will be replaced.",
+              "D": "Working hours will change."
+            },
+            "answer": "B",
+            "explanation": "다음 주 월요일부터 내부 보안 규정(security regulations)이 업데이트된다고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-36",
+            "question": "What will employees receive?",
+            "options": {
+              "A": "A new parking permit",
+              "B": "A training manual",
+              "C": "An updated computer",
+              "D": "A smart ID badge"
+            },
+            "answer": "D",
+            "explanation": "직원들은 새로운 스마트 배지(new smart badges)를 발급받을 것이므로 정답은 D입니다."
+          },
+          {
+            "id": "LC3-37",
+            "question": "What does the woman remind the man to bring?",
+            "options": {
+              "A": "His current identification",
+              "B": "A signed form",
+              "C": "His supervisor's approval",
+              "D": "A passport"
+            },
+            "answer": "A",
+            "explanation": "현재 신분증(current ID)을 지참하라고 당부했으므로 정답은 A입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-03",
+        "audio_script": "(M1) Have you seen the financial projections for establishing the new branch in Toronto? The initial setup costs are higher than anticipated.\n(M2) Yes, I noticed that too. A large portion of the budget is allocated for upgrading the cybersecurity infrastructure to meet international standards.\n(M1) That makes sense. We can't compromise on data security, especially with client information. Should we present these updated figures to the board of directors tomorrow?\n(M2) Definitely. I'll prepare some slides highlighting the necessity of the security investments to justify the extra costs.",
+        "questions": [
+          {
+            "id": "LC3-38",
+            "question": "What are the speakers discussing?",
+            "options": {
+              "A": "A delay in a product launch",
+              "B": "Financial costs for a new branch",
+              "C": "Hiring a new financial director",
+              "D": "A marketing budget"
+            },
+            "answer": "B",
+            "explanation": "토론토 새 지점 설립에 대한 재무 예상치(financial projections)와 초기 비용에 대해 이야기하고 있으므로 B가 정답입니다."
+          },
+          {
+            "id": "LC3-39",
+            "question": "According to the speakers, what is a major expense?",
+            "options": {
+              "A": "Cybersecurity infrastructure",
+              "B": "Employee training",
+              "C": "Office furniture",
+              "D": "Advertising campaigns"
+            },
+            "answer": "A",
+            "explanation": "예산의 큰 부분이 사이버 보안 인프라 업그레이드(upgrading the cybersecurity infrastructure)에 할당되었다고 했으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-40",
+            "question": "What will one of the men prepare for tomorrow's meeting?",
+            "options": {
+              "A": "A revised budget proposal",
+              "B": "A list of candidates",
+              "C": "Presentation slides",
+              "D": "A security manual"
+            },
+            "answer": "C",
+            "explanation": "내일 이사회 발표를 위해 슬라이드(prepare some slides)를 준비하겠다고 했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-04",
+        "audio_script": "(W) Welcome to our headquarters. You must be Mr. Gomez, here for the senior analyst interview.\n(M) Yes, that's right. Thank you for inviting me. I've heard great things about your company's recent expansion into the European market.\n(W) We're very excited about it. In fact, if you join us, you'll be working closely with the team in our new Frankfurt office. Shall we proceed to the meeting room? Mr. Evans is waiting for us.\n(M) Lead the way. I have my portfolio and references ready.",
+        "questions": [
+          {
+            "id": "LC3-41",
+            "question": "Why is the man visiting the headquarters?",
+            "options": {
+              "A": "To sign a lease agreement",
+              "B": "To attend a job interview",
+              "C": "To deliver a package",
+              "D": "To repair some equipment"
+            },
+            "answer": "B",
+            "explanation": "남자가 선임 분석가 면접(senior analyst interview)을 위해 방문했으므로 B가 정답입니다."
+          },
+          {
+            "id": "LC3-42",
+            "question": "What is mentioned about the company?",
+            "options": {
+              "A": "It recently relocated its headquarters.",
+              "B": "It is launching a new product.",
+              "C": "It recently expanded into Europe.",
+              "D": "It won an industry award."
+            },
+            "answer": "C",
+            "explanation": "회사의 최근 유럽 시장 진출(expansion into the European market)에 대해 언급했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-43",
+            "question": "Who is waiting in the meeting room?",
+            "options": {
+              "A": "Mr. Evans",
+              "B": "A client",
+              "C": "A security guard",
+              "D": "The branch manager"
+            },
+            "answer": "A",
+            "explanation": "회의실에서 Mr. Evans가 기다리고 있다고 했으므로 정답은 A입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-05",
+        "audio_script": "(W) Mark, have the candidates for the network engineer position completed their technical assessments?\n(M) Three of them have, but we are still waiting on one person. He had some issues logging into the secure testing portal yesterday.\n(W) That's concerning, given that our new security protocols require strict authentication. Let's give him until noon today. If he doesn't complete it by then, we'll have to move forward with the other three.\n(M) Understood. I'll send him a quick email to check if he resolved the login issue.",
+        "questions": [
+          {
+            "id": "LC3-44",
+            "question": "What position are the candidates applying for?",
+            "options": {
+              "A": "Security guard",
+              "B": "Network engineer",
+              "C": "Software developer",
+              "D": "Branch manager"
+            },
+            "answer": "B",
+            "explanation": "네트워크 엔지니어 포지션(network engineer position)의 후보자들에 대해 묻고 있으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-45",
+            "question": "What problem did one candidate experience?",
+            "options": {
+              "A": "He missed the interview.",
+              "B": "He could not find the building.",
+              "C": "He had trouble logging into a portal.",
+              "D": "He submitted the wrong document."
+            },
+            "answer": "C",
+            "explanation": "보안 테스트 포털에 로그인하는 데 문제(issues logging into the secure testing portal)가 있었다고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-46",
+            "question": "What does the man offer to do?",
+            "options": {
+              "A": "Call the IT department",
+              "B": "Send an email to a candidate",
+              "C": "Schedule another interview",
+              "D": "Extend the deadline"
+            },
+            "answer": "B",
+            "explanation": "후보자에게 로그인 문제가 해결되었는지 확인하기 위해 이메일을 보내겠다(send him a quick email)고 했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-06",
+        "audio_script": "(M) Good morning. I'm calling from the property management office. We received your request to upgrade the physical security at your new overseas branch in Dubai.\n(W) Yes, thank you for returning my call. We need to install biometric scanners at all main entrances to comply with our updated corporate security regulations.\n(M) That shouldn't be a problem. We work with several vendors who specialize in biometric systems. Would you like me to send you some price estimates and timelines?\n(W) Yes, please do. We are hoping to have everything installed before our grand opening next month.",
+        "questions": [
+          {
+            "id": "LC3-47",
+            "question": "Who is the man most likely?",
+            "options": {
+              "A": "A security guard",
+              "B": "A property manager",
+              "C": "A software engineer",
+              "D": "An overseas investor"
+            },
+            "answer": "B",
+            "explanation": "자신이 부동산 관리 사무소(property management office)에서 전화했다고 밝혔으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-48",
+            "question": "What does the woman want to install?",
+            "options": {
+              "A": "New security cameras",
+              "B": "A fire alarm system",
+              "C": "Biometric scanners",
+              "D": "Elevators"
+            },
+            "answer": "C",
+            "explanation": "생체 인식 스캐너(biometric scanners)를 설치해야 한다고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-49",
+            "question": "When is the grand opening scheduled?",
+            "options": {
+              "A": "Next week",
+              "B": "Next month",
+              "C": "In two months",
+              "D": "Next year"
+            },
+            "answer": "B",
+            "explanation": "다음 달(next month) 그랜드 오프닝 전에 설치되기를 바란다고 했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-07",
+        "audio_script": "(W1) I just reviewed the lease agreement for the new office in Singapore. Everything looks good, except for the clause regarding network installations.\n(W2) What's the issue? We specifically requested fiber-optic cables to support our new secure data transmission protocols.\n(W1) The landlord states we need to use their approved contractor, which might delay our setup by a week.\n(W2) We can't afford a delay. Our new hires start orientation soon. Let's set up a conference call with the landlord today to negotiate this point.",
+        "questions": [
+          {
+            "id": "LC3-50",
+            "question": "Where is the new office located?",
+            "options": {
+              "A": "In Tokyo",
+              "B": "In Singapore",
+              "C": "In Sydney",
+              "D": "In London"
+            },
+            "answer": "B",
+            "explanation": "싱가포르(Singapore)에 있는 새 사무실에 대해 언급했으므로 B가 정답입니다."
+          },
+          {
+            "id": "LC3-51",
+            "question": "What is the problem with the lease agreement?",
+            "options": {
+              "A": "The rent is too high.",
+              "B": "It restricts who can do network installations.",
+              "C": "It does not allow pets in the building.",
+              "D": "The move-in date was changed."
+            },
+            "answer": "B",
+            "explanation": "건물주가 승인한 계약업체만 사용해야 한다는 조항(need to use their approved contractor) 때문에 문제가 생겼으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-52",
+            "question": "What does the second woman suggest doing today?",
+            "options": {
+              "A": "Canceling the lease",
+              "B": "Hiring a lawyer",
+              "C": "Setting up a conference call",
+              "D": "Finding a new contractor"
+            },
+            "answer": "C",
+            "explanation": "건물주와 전화 회의(conference call)를 잡아 협상하자고 제안했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-08",
+        "audio_script": "(M) Sarah, have you prepared the welcome packets for the applicants coming in for the final interviews tomorrow? \n(W) Yes, they include the company brochure, an itinerary for the day, and a guest badge. However, because of the strengthened security regulations, I also had to include a non-disclosure agreement.\n(M) Good thinking. Since they'll be touring the research and development floor, they must sign it before entering.\n(W) Exactly. I'll have the receptionist collect the signed forms as soon as they arrive in the morning.",
+        "questions": [
+          {
+            "id": "LC3-53",
+            "question": "Who are the welcome packets for?",
+            "options": {
+              "A": "New clients",
+              "B": "Board members",
+              "C": "Job applicants",
+              "D": "Security personnel"
+            },
+            "answer": "C",
+            "explanation": "내일 최종 면접을 보러 오는 지원자들(applicants)을 위한 패킷이므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-54",
+            "question": "What was added to the packets due to security regulations?",
+            "options": {
+              "A": "A non-disclosure agreement",
+              "B": "A floor plan",
+              "C": "A health questionnaire",
+              "D": "A parking pass"
+            },
+            "answer": "A",
+            "explanation": "강화된 보안 규정 때문에 기밀 유지 협약서(non-disclosure agreement)를 포함했다고 했으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-55",
+            "question": "What will the receptionist do in the morning?",
+            "options": {
+              "A": "Conduct a tour",
+              "B": "Collect signed forms",
+              "C": "Serve refreshments",
+              "D": "Issue permanent ID cards"
+            },
+            "answer": "B",
+            "explanation": "접수원이 도착하자마자 서명된 양식을 수거할 것(collect the signed forms)이므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-09",
+        "audio_script": "(W) Before we conclude this meeting, I want to update you on our expansion into South America. The new Sao Paulo branch will officially open in three months.\n(M) That's fantastic news. Have we started the hiring process for the local sales team yet?\n(W) Yes, we've received hundreds of applications. In fact, I'll be flying there next week to conduct in-person interviews with the shortlisted candidates.\n(M) Make sure your laptop has the latest VPN software installed. The IT department rolled out a mandatory security patch yesterday for anyone traveling internationally.",
+        "questions": [
+          {
+            "id": "LC3-56",
+            "question": "What is the company planning to do in three months?",
+            "options": {
+              "A": "Launch a new software product",
+              "B": "Open a branch in South America",
+              "C": "Host an international conference",
+              "D": "Relocate its headquarters"
+            },
+            "answer": "B",
+            "explanation": "남미에 있는 상파울루 지점이 3개월 후에 공식적으로 문을 열 것(new Sao Paulo branch will officially open)이므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-57",
+            "question": "Why will the woman travel next week?",
+            "options": {
+              "A": "To sign a contract",
+              "B": "To meet with investors",
+              "C": "To conduct interviews",
+              "D": "To inspect a facility"
+            },
+            "answer": "C",
+            "explanation": "후보자들과 대면 면접을 진행하기 위해(conduct in-person interviews) 비행기를 탈 것이라고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-58",
+            "question": "What does the man advise the woman to do?",
+            "options": {
+              "A": "Book her flight early",
+              "B": "Install a security patch",
+              "C": "Learn some Portuguese",
+              "D": "Contact the IT department"
+            },
+            "answer": "B",
+            "explanation": "노트북에 최신 VPN 소프트웨어 보안 패치가 설치되어 있는지 확인하라고 조언했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-10",
+        "audio_script": "(M1) Did you read the memo about the updated security policies? We now have to change our passwords every 30 days instead of 90.\n(M2) I saw that. It's a bit inconvenient, but understandable given the recent expansion of our cloud database.\n(M1) True. Speaking of expansion, how did your interviews for the database manager role go?\n(M2) Very well. I found a great candidate who has experience setting up secure networks for international branch offices. I'm drafting the offer letter now.",
+        "questions": [
+          {
+            "id": "LC3-59",
+            "question": "What policy change is mentioned?",
+            "options": {
+              "A": "Working hours are extended.",
+              "B": "Passwords must be changed more frequently.",
+              "C": "A dress code has been implemented.",
+              "D": "Travel budgets are reduced."
+            },
+            "answer": "B",
+            "explanation": "비밀번호를 90일이 아닌 30일마다 변경해야 한다는 규정(change our passwords every 30 days)이 언급되었으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-60",
+            "question": "Why does the second man think the policy is understandable?",
+            "options": {
+              "A": "Due to a recent database expansion",
+              "B": "Because of a past security breach",
+              "C": "To comply with government laws",
+              "D": "To reduce operating costs"
+            },
+            "answer": "A",
+            "explanation": "클라우드 데이터베이스의 최근 확장(expansion of our cloud database) 때문에 이해할 만하다고 했으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-61",
+            "question": "What is the second man currently doing?",
+            "options": {
+              "A": "Conducting an interview",
+              "B": "Updating a database",
+              "C": "Drafting an offer letter",
+              "D": "Resetting his password"
+            },
+            "answer": "C",
+            "explanation": "훌륭한 후보자를 찾아 제안서(offer letter)를 작성 중이라고 했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-11",
+        "audio_script": "(W) Hello, I'm calling about the shipment of office furniture for our new branch in Mexico City. The tracking system says it's delayed at customs.\n(M) Yes, I apologize for the inconvenience. The customs office recently enforced stricter security checks on large commercial imports. \n(W) We have new employees starting their orientation next Wednesday. Will the desks and chairs arrive by then?\n(M) Yes, they cleared inspection this morning. I will expedite the shipping so it reaches your office by Monday afternoon.",
+        "questions": [
+          {
+            "id": "LC3-62",
+            "question": "Why is the woman calling?",
+            "options": {
+              "A": "To place an order",
+              "B": "To inquire about a delayed shipment",
+              "C": "To schedule a job interview",
+              "D": "To report a damaged item"
+            },
+            "answer": "B",
+            "explanation": "멕시코시티 새 지점으로 가는 사무 가구 배송이 세관에서 지연(delayed at customs)되고 있는 것에 대해 전화했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-63",
+            "question": "What caused the problem?",
+            "options": {
+              "A": "Stricter security checks",
+              "B": "A storm",
+              "C": "A missing document",
+              "D": "A labor strike"
+            },
+            "answer": "A",
+            "explanation": "세관의 더 엄격한 보안 검사(stricter security checks) 때문이라고 했으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-64",
+            "question": "What does the man promise to do?",
+            "options": {
+              "A": "Issue a full refund",
+              "B": "Send a replacement order",
+              "C": "Expedite the shipping",
+              "D": "Contact the customs office"
+            },
+            "answer": "C",
+            "explanation": "월요일 오후까지 도착하도록 배송을 촉진하겠다(expedite the shipping)고 약속했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-12",
+        "audio_script": "(M) Thanks for coming in for the interview today. I see here that you have five years of experience in corporate security management.\n(W) Yes, that's correct. At my previous job, I successfully implemented a two-factor authentication system for over a thousand employees.\n(M) That's exactly the kind of expertise we need. We're opening two new branches overseas this year and need to ensure our internal networks are secure across borders.\n(W) I am very familiar with international data compliance laws, which I believe would be beneficial for your expansion plans.",
+        "questions": [
+          {
+            "id": "LC3-65",
+            "question": "Where is the conversation most likely taking place?",
+            "options": {
+              "A": "At an orientation session",
+              "B": "At a job interview",
+              "C": "At an overseas branch",
+              "D": "At a security conference"
+            },
+            "answer": "B",
+            "explanation": "남자가 오늘 면접(interview)에 와주어서 감사하다고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-66",
+            "question": "What did the woman do at her previous job?",
+            "options": {
+              "A": "She managed an overseas branch.",
+              "B": "She trained new employees.",
+              "C": "She implemented an authentication system.",
+              "D": "She sold software."
+            },
+            "answer": "C",
+            "explanation": "이전 직장에서 이중 인증 시스템을 성공적으로 구현했다(implemented a two-factor authentication system)고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-67",
+            "question": "What is the company planning to do this year?",
+            "options": {
+              "A": "Launch a marketing campaign",
+              "B": "Open two new overseas branches",
+              "C": "Relocate its headquarters",
+              "D": "Merge with a competitor"
+            },
+            "answer": "B",
+            "explanation": "올해 해외에 두 개의 새로운 지점을 열 예정(opening two new branches overseas)이라고 했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P3-13",
+        "audio_script": "(W) Excuse me, I'm a new hire here in the marketing department, and I'm having trouble printing these confidential reports. The printer requires a PIN code.\n(M) Oh, welcome to the team! Yes, under the new security protocol, all printers require a personal PIN to release documents. Have you set yours up on the employee intranet yet?\n(W) No, I haven't. My orientation isn't until tomorrow, so I'm not fully familiar with the system.\n(M) Let me walk you through it. If you log in to your account, you can create a PIN under the 'Security Settings' tab. It only takes a minute.",
+        "questions": [
+          {
+            "id": "LC3-68",
+            "question": "Who is the woman?",
+            "options": {
+              "A": "A client",
+              "B": "A new employee",
+              "C": "An IT technician",
+              "D": "A job candidate"
+            },
+            "answer": "B",
+            "explanation": "여자가 자신을 마케팅 부서의 신입 사원(new hire)이라고 소개했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-69",
+            "question": "What problem is the woman experiencing?",
+            "options": {
+              "A": "She lost her ID badge.",
+              "B": "She cannot access a building.",
+              "C": "She needs a code to use a printer.",
+              "D": "Her computer won't turn on."
+            },
+            "answer": "C",
+            "explanation": "프린터에서 기밀 문서를 인쇄하려는데 PIN 코드가 필요하다(printer requires a PIN code)며 문제를 겪고 있으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-70",
+            "question": "What does the man offer to do?",
+            "options": {
+              "A": "Print the documents for her",
+              "B": "Show her how to set up a PIN",
+              "C": "Call the support desk",
+              "D": "Give her a tour of the office"
+            },
+            "answer": "B",
+            "explanation": "남자가 PIN 설정 방법을 안내해주겠다(walk you through it)고 제안했으므로 정답은 B입니다."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "passage_id": "P4-01",
+        "audio_script": "Attention all staff. As we prepare for the opening of our new overseas branch in Madrid, management has decided to update our internal security regulations. Starting next month, all employees must complete a mandatory online training module on data privacy. This is especially important for those of you who will be traveling to Spain or handling international client accounts. The HR department will send a link to the training video this afternoon. Please ensure you complete it by Friday, as a completion certificate is now required before you can access the updated corporate database.",
+        "questions": [
+          {
+            "id": "LC3-71",
+            "question": "What event is the company preparing for?",
+            "options": {
+              "A": "A company anniversary",
+              "B": "An overseas branch opening",
+              "C": "A holiday party",
+              "D": "A software launch"
+            },
+            "answer": "B",
+            "explanation": "마드리드의 새로운 해외 지점 개설(opening of our new overseas branch in Madrid)을 준비 중이라고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-72",
+            "question": "What are employees required to do?",
+            "options": {
+              "A": "Submit a travel request",
+              "B": "Attend a meeting",
+              "C": "Complete an online training module",
+              "D": "Sign a new contract"
+            },
+            "answer": "C",
+            "explanation": "모든 직원이 데이터 프라이버시에 관한 필수 온라인 교육 모듈을 완료해야 한다(complete a mandatory online training module)고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-73",
+            "question": "When is the deadline to complete the task?",
+            "options": {
+              "A": "Today",
+              "B": "Tomorrow",
+              "C": "On Friday",
+              "D": "Next month"
+            },
+            "answer": "C",
+            "explanation": "금요일까지 완료해달라(complete it by Friday)고 당부했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-02",
+        "audio_script": "Hello, this message is for Mr. Tanaka. This is Clara from the HR department at Vertex Solutions. I'm calling to follow up on your interview yesterday for the logistics manager position at our new Shanghai branch. The hiring committee was very impressed with your background in international shipping and supply chain management. We'd like to invite you for a second and final round of interviews with the regional director next Tuesday at 10 A.M. Since it will be a virtual interview, we will email you a secure link along with a one-time password to access our encrypted meeting platform. Please call me back to confirm your availability.",
+        "questions": [
+          {
+            "id": "LC3-74",
+            "question": "What is the purpose of the message?",
+            "options": {
+              "A": "To offer a job position",
+              "B": "To invite a candidate for a second interview",
+              "C": "To schedule a performance review",
+              "D": "To cancel a meeting"
+            },
+            "answer": "B",
+            "explanation": "다음 주 화요일에 두 번째이자 최종 면접에 초대하기 위해(invite you for a second and final round of interviews) 전화했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-75",
+            "question": "What department does the caller work in?",
+            "options": {
+              "A": "Logistics",
+              "B": "Marketing",
+              "C": "Human Resources",
+              "D": "IT Security"
+            },
+            "answer": "C",
+            "explanation": "인사부(HR department)의 클라라라고 자신을 소개했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-76",
+            "question": "What will the caller send in an email?",
+            "options": {
+              "A": "A secure link and password",
+              "B": "A flight ticket",
+              "C": "An employee handbook",
+              "D": "A map of the building"
+            },
+            "answer": "A",
+            "explanation": "암호화된 회의 플랫폼에 접속하기 위한 보안 링크와 일회용 비밀번호(secure link along with a one-time password)를 이메일로 보내겠다고 했으므로 정답은 A입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-03",
+        "audio_script": "Good morning, everyone, and welcome to your first day at Global Tech. We are thrilled to have such talented individuals joining us during this exciting time as we establish our presence in the European market. Before we begin the facility tour, I need to cover some important changes to our internal security policies. As you know, data protection is our top priority. Effective immediately, you must wear your ID badges visibly at all times while in the building. Furthermore, access to the server rooms on the third floor is strictly restricted to authorized IT personnel. If you have any questions about these protocols, please speak with me after the tour.",
+        "questions": [
+          {
+            "id": "LC3-77",
+            "question": "Who most likely are the listeners?",
+            "options": {
+              "A": "IT technicians",
+              "B": "New hires",
+              "C": "Board of directors",
+              "D": "Security guards"
+            },
+            "answer": "B",
+            "explanation": "글로벌 테크에서의 첫날을 환영한다(welcome to your first day)고 했으므로 신입 사원인 B가 정답입니다."
+          },
+          {
+            "id": "LC3-78",
+            "question": "What topic is the speaker mainly discussing?",
+            "options": {
+              "A": "Internal security policies",
+              "B": "European travel itineraries",
+              "C": "Employee benefits",
+              "D": "Software updates"
+            },
+            "answer": "A",
+            "explanation": "내부 보안 정책의 중요한 변경 사항(changes to our internal security policies)을 다루고 있으므로 정답은 A입니다."
+          },
+          {
+            "id": "LC3-79",
+            "question": "What must the listeners do at all times?",
+            "options": {
+              "A": "Lock their computers",
+              "B": "Wear their ID badges visibly",
+              "C": "Stay on the ground floor",
+              "D": "Use a VPN"
+            },
+            "answer": "B",
+            "explanation": "건물 내에서는 항상 신분증 배지를 눈에 띄게 착용해야 한다(wear your ID badges visibly at all times)고 했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-04",
+        "audio_script": "Welcome to this month's department head meeting. The main item on our agenda today is the status of our overseas branch establishment in Tokyo. I'm pleased to report that the office space has been secured, and renovations are currently underway. However, to comply with both local regulations and our own strengthened internal security guidelines, we've had to increase the budget for the IT infrastructure. We'll be installing advanced firewall systems and biometric access controls. I've prepared a detailed breakdown of these new expenses. Please take a look at the handouts being passed around now, and let's open the floor for any questions.",
+        "questions": [
+          {
+            "id": "LC3-80",
+            "question": "What is the main topic of the meeting?",
+            "options": {
+              "A": "A new marketing strategy",
+              "B": "The status of an overseas branch",
+              "C": "A company merger",
+              "D": "Employee recruitment"
+            },
+            "answer": "B",
+            "explanation": "도쿄의 해외 지점 설립 현황(status of our overseas branch establishment)이 주요 안건이라고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-81",
+            "question": "Why was the budget increased?",
+            "options": {
+              "A": "To hire more staff",
+              "B": "To cover travel expenses",
+              "C": "To upgrade IT infrastructure",
+              "D": "To rent a larger office"
+            },
+            "answer": "C",
+            "explanation": "강화된 내부 보안 가이드라인 준수를 위해 IT 인프라(IT infrastructure) 예산을 늘려야 했다고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-82",
+            "question": "What does the speaker ask the listeners to do?",
+            "options": {
+              "A": "Sign a document",
+              "B": "Review a handout",
+              "C": "Vote on a proposal",
+              "D": "Schedule another meeting"
+            },
+            "answer": "B",
+            "explanation": "지금 배포되는 유인물을 살펴봐 달라(take a look at the handouts)고 요청했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-05",
+        "audio_script": "This is a public announcement for all passengers on Flight 402 to Berlin. We are currently experiencing a slight delay in boarding due to an enhanced security inspection at Gate 12. As many of you know, new international aviation security regulations were implemented this week, requiring extra screening for electronic devices. We ask that you please have your laptops and tablets out of their cases and ready for inspection. We understand that many of you are traveling for business, perhaps to our city's expanding tech hub, and we apologize for any inconvenience. Boarding will commence in approximately 20 minutes.",
+        "questions": [
+          {
+            "id": "LC3-83",
+            "question": "Where is the announcement being made?",
+            "options": {
+              "A": "At a train station",
+              "B": "At an airport",
+              "C": "At a corporate office",
+              "D": "At a technology conference"
+            },
+            "answer": "B",
+            "explanation": "베를린행 비행기 402편 승객들(passengers on Flight 402)을 위한 방송이므로 공항(airport)인 B가 정답입니다."
+          },
+          {
+            "id": "LC3-84",
+            "question": "What is causing the delay?",
+            "options": {
+              "A": "Bad weather",
+              "B": "A mechanical issue",
+              "C": "Enhanced security inspections",
+              "D": "A missing crew member"
+            },
+            "answer": "C",
+            "explanation": "12번 게이트에서의 강화된 보안 검사(enhanced security inspection) 때문에 탑승이 지연되고 있다고 했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-85",
+            "question": "What are passengers asked to do?",
+            "options": {
+              "A": "Present their passports",
+              "B": "Take out electronic devices",
+              "C": "Wait at a different gate",
+              "D": "Board the plane immediately"
+            },
+            "answer": "B",
+            "explanation": "노트북과 태블릿을 케이스에서 꺼내어 검사받을 준비를 해달라(have your laptops and tablets out of their cases)고 요청했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-06",
+        "audio_script": "Welcome back to the 'Global Business Trends' podcast. In today's episode, we're focusing on the challenges of overseas expansion, specifically regarding talent acquisition. Many corporations struggle with conducting effective remote interviews when setting up a new international branch. My guest today is Elena Rostova, HR Director at NovaTech, who recently oversaw the hiring of 50 new employees for their Sydney office. She'll discuss how implementing strict security protocols during the interview process—such as identity verification software—actually helped streamline their hiring. After a short commercial break, Elena will share her top three tips for international recruitment.",
+        "questions": [
+          {
+            "id": "LC3-86",
+            "question": "What is the podcast mainly about?",
+            "options": {
+              "A": "Marketing strategies",
+              "B": "Challenges of overseas expansion",
+              "C": "New software development",
+              "D": "Investment banking"
+            },
+            "answer": "B",
+            "explanation": "오늘 에피소드에서는 해외 진출의 과제(challenges of overseas expansion)에 초점을 맞추고 있다고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-87",
+            "question": "Who is the guest speaker?",
+            "options": {
+              "A": "A branch manager",
+              "B": "A software developer",
+              "C": "An HR Director",
+              "D": "A financial advisor"
+            },
+            "answer": "C",
+            "explanation": "게스트는 NovaTech의 인사 디렉터(HR Director)인 엘레나 로스토바라고 소개했으므로 정답은 C입니다."
+          },
+          {
+            "id": "LC3-88",
+            "question": "What will happen next?",
+            "options": {
+              "A": "A commercial break",
+              "B": "A Q&A session",
+              "C": "A music performance",
+              "D": "A news report"
+            },
+            "answer": "A",
+            "explanation": "짧은 광고(commercial break) 후에 게스트가 팁을 공유할 것이라고 했으므로 정답은 A입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-07",
+        "audio_script": "Hello, IT team. I've called this quick huddle to address a critical update. As you know, we are in the middle of interviewing candidates for the new London branch. Unfortunately, yesterday, there was a minor breach attempt on our applicant tracking system. Thankfully, our firewall blocked it, but management has decided to immediately strengthen our internal security regulations. By the end of the day, I need you all to implement multi-factor authentication across all HR portals. I know this is sudden, but protecting applicant data is paramount. I've emailed everyone the technical specifications. Let's get to work.",
+        "questions": [
+          {
+            "id": "LC3-89",
+            "question": "Who is the speaker most likely addressing?",
+            "options": {
+              "A": "HR managers",
+              "B": "Job applicants",
+              "C": "IT team members",
+              "D": "London branch staff"
+            },
+            "answer": "C",
+            "explanation": "인사말로 \"Hello, IT team\"이라고 했으므로 IT 팀원들(IT team members)이 청자인 C가 정답입니다."
+          },
+          {
+            "id": "LC3-90",
+            "question": "What happened yesterday?",
+            "options": {
+              "A": "A new branch opened.",
+              "B": "A security breach attempt occurred.",
+              "C": "A server crashed.",
+              "D": "A software update failed."
+            },
+            "answer": "B",
+            "explanation": "어제 지원자 추적 시스템에 사소한 보안 침해 시도(minor breach attempt)가 있었다고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-91",
+            "question": "What does the speaker ask the listeners to do by the end of the day?",
+            "options": {
+              "A": "Implement multi-factor authentication",
+              "B": "Interview candidates",
+              "C": "Change their passwords",
+              "D": "Send an email"
+            },
+            "answer": "A",
+            "explanation": "오늘 끝날 때까지 모든 HR 포털에 다중 인증을 구현(implement multi-factor authentication)하라고 지시했으므로 정답은 A입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-08",
+        "audio_script": "Thank you all for joining this virtual press conference. I am the CEO of OmniFinance. Today, I am proud to announce our strategic plan to establish a new overseas branch in Singapore next spring. This move will allow us to better serve our growing client base in Asia. As part of this expansion, we will be hiring over 100 new employees locally. I want to assure our investors that despite this rapid growth, we are simultaneously strengthening our internal security regulations. We have partnered with a leading cybersecurity firm to ensure that all cross-border financial transactions remain secure. For more details, our press kit is available for download on our website.",
+        "questions": [
+          {
+            "id": "LC3-92",
+            "question": "What is the speaker announcing?",
+            "options": {
+              "A": "A new CEO appointment",
+              "B": "A merger with a cybersecurity firm",
+              "C": "The establishment of an overseas branch",
+              "D": "A quarterly financial report"
+            },
+            "answer": "C",
+            "explanation": "내년 봄에 싱가포르에 새로운 해외 지점을 설립(establish a new overseas branch)한다는 전략적 계획을 발표하고 있으므로 C가 정답입니다."
+          },
+          {
+            "id": "LC3-93",
+            "question": "What does the speaker assure investors about?",
+            "options": {
+              "A": "Profits will double.",
+              "B": "Security regulations are being strengthened.",
+              "C": "The Singapore office will open early.",
+              "D": "Dividends will be paid next month."
+            },
+            "answer": "B",
+            "explanation": "빠른 성장에도 불구하고 내부 보안 규정을 강화하고 있다(strengthening our internal security regulations)고 투자자들을 안심시켰으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-94",
+            "question": "How can the listeners get more details?",
+            "options": {
+              "A": "By calling the company",
+              "B": "By emailing the CEO",
+              "C": "By visiting a website",
+              "D": "By attending a meeting"
+            },
+            "answer": "C",
+            "explanation": "자세한 내용은 웹사이트에서 프레스 키트를 다운로드(download on our website)할 수 있다고 했으므로 정답은 C입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-09",
+        "audio_script": "Hi, this is a voicemail for Ms. Lee. It's David from facilities management. I'm calling regarding the new hire interviews taking place in conference room A tomorrow. I know you requested the room to remain unlocked during the day for the candidates' convenience. However, due to the newly strengthened corporate security regulations, all doors on the executive floor must remain locked at all times. Instead, I will assign a temporary receptionist to stand by the door and let the candidates in as they arrive. Please let me know if this works for you. You can reach me at extension 402.",
+        "questions": [
+          {
+            "id": "LC3-95",
+            "question": "What is the main purpose of the message?",
+            "options": {
+              "A": "To reschedule an interview",
+              "B": "To explain a change in room access",
+              "C": "To request a room reservation",
+              "D": "To introduce a new employee"
+            },
+            "answer": "B",
+            "explanation": "강화된 보안 규정 때문에 면접실 문을 열어둘 수 없게 된 변경 사항(explain a change in room access)을 설명하기 위한 전화이므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-96",
+            "question": "What is scheduled for tomorrow?",
+            "options": {
+              "A": "A facilities inspection",
+              "B": "New hire interviews",
+              "C": "A board meeting",
+              "D": "A security training"
+            },
+            "answer": "B",
+            "explanation": "내일 A 회의실에서 신규 채용 면접(new hire interviews)이 예정되어 있다고 언급했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-97",
+            "question": "What does the caller offer to do?",
+            "options": {
+              "A": "Unlock the door himself",
+              "B": "Assign a temporary receptionist",
+              "C": "Change the interview location",
+              "D": "Issue temporary badges"
+            },
+            "answer": "B",
+            "explanation": "대신 문 옆에 대기할 임시 접수원을 배치하겠다(assign a temporary receptionist)고 제안했으므로 정답은 B입니다."
+          }
+        ]
+      },
+      {
+        "passage_id": "P4-10",
+        "audio_script": "Welcome to the orientation for our new internal auditors. Before we dive into the financial training modules, I want to briefly go over the updated IT policies. Since your role involves auditing the finances for our new overseas branches, you will be handling highly sensitive data. Therefore, our security regulations have been tightened. You are now strictly prohibited from transferring company data to personal USB drives. Additionally, you must use the company-approved VPN whenever accessing the network remotely. We take this very seriously, and any violation could result in termination. Now, please turn to page four in your manuals to review the password guidelines.",
+        "questions": [
+          {
+            "id": "LC3-98",
+            "question": "Who is the speaker addressing?",
+            "options": {
+              "A": "IT technicians",
+              "B": "New internal auditors",
+              "C": "Branch managers",
+              "D": "Sales representatives"
+            },
+            "answer": "B",
+            "explanation": "신임 내부 감사원들을 위한 오리엔테이션(orientation for our new internal auditors)이라고 환영했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-99",
+            "question": "What are the listeners prohibited from doing?",
+            "options": {
+              "A": "Working remotely",
+              "B": "Using personal USB drives",
+              "C": "Traveling overseas",
+              "D": "Printing documents"
+            },
+            "answer": "B",
+            "explanation": "회사 데이터를 개인 USB 드라이브로 전송하는 것이 엄격히 금지된다(prohibited from transferring company data to personal USB drives)고 했으므로 정답은 B입니다."
+          },
+          {
+            "id": "LC3-100",
+            "question": "What does the speaker ask the listeners to do next?",
+            "options": {
+              "A": "Turn to a specific page",
+              "B": "Sign a contract",
+              "C": "Introduce themselves",
+              "D": "Log into a computer"
+            },
+            "answer": "A",
+            "explanation": "이제 매뉴얼 4페이지를 펴서 비밀번호 가이드라인을 검토해 달라(turn to page four in your manuals)고 했으므로 정답은 A입니다."
+          }
+        ]
+      }
+    ]
+  },
+  "rc": {
+    "part5": [
+      {
+        "no": 101,
+        "question": "The board of directors approved the proposal to establish a new branch -------- in Berlin.",
+        "choices": {
+          "A": "overseas",
+          "B": "oversea",
+          "C": "overseas'",
+          "D": "overseeing"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 102,
+        "question": "All job applicants must submit their resumes and cover letters -------- Friday at 5 PM.",
+        "choices": {
+          "A": "in",
+          "B": "by",
+          "C": "on",
+          "D": "at"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 103,
+        "question": "To enhance internal security, the IT department has -------- a strict password policy.",
+        "choices": {
+          "A": "implementation",
+          "B": "implements",
+          "C": "implemented",
+          "D": "implementing"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 104,
+        "question": "The -------- of the new international office will create at least 200 new jobs.",
+        "choices": {
+          "A": "open",
+          "B": "opened",
+          "C": "openly",
+          "D": "opening"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 105,
+        "question": "Mr. Davis was chosen for the managerial position because he is highly -------- in corporate finance.",
+        "choices": {
+          "A": "experienced",
+          "B": "experience",
+          "C": "experiences",
+          "D": "experiencing"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 106,
+        "question": "Employees are required to wear their ID badges -------- they are on company premises.",
+        "choices": {
+          "A": "whichever",
+          "B": "whenever",
+          "C": "whatever",
+          "D": "whoever"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 107,
+        "question": "Setting up the regional headquarters in Singapore was a -------- decision for our expansion in Asia.",
+        "choices": {
+          "A": "strategy",
+          "B": "strategist",
+          "C": "strategic",
+          "D": "strategically"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 108,
+        "question": "The human resources director will conduct the second round of -------- next week.",
+        "choices": {
+          "A": "interview",
+          "B": "interviewed",
+          "C": "interviewing",
+          "D": "interviews"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 109,
+        "question": "Under the new security regulations, guests are -------- from entering the server room.",
+        "choices": {
+          "A": "prohibited",
+          "B": "prohibiting",
+          "C": "prohibition",
+          "D": "prohibitive"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 110,
+        "question": "The committee has -------- considered all locations before selecting Madrid for the new branch.",
+        "choices": {
+          "A": "carefulness",
+          "B": "carefully",
+          "C": "careful",
+          "D": "care"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 111,
+        "question": "During the interview, candidates will be asked to demonstrate their problem-solving --------.",
+        "choices": {
+          "A": "capable",
+          "B": "capably",
+          "C": "capabilities",
+          "D": "capability"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 112,
+        "question": "-------- updating the antivirus software is essential to protect company data.",
+        "choices": {
+          "A": "Regular",
+          "B": "Regularity",
+          "C": "Regulate",
+          "D": "Regularly"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 113,
+        "question": "The CEO expects the new branch to become -------- within its first year of operation.",
+        "choices": {
+          "A": "profitable",
+          "B": "profit",
+          "C": "profitably",
+          "D": "profited"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 114,
+        "question": "After reviewing dozens of applications, the recruiter -------- three candidates for the final interview.",
+        "choices": {
+          "A": "selection",
+          "B": "selected",
+          "C": "selects",
+          "D": "selecting"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 115,
+        "question": "To ensure compliance with the new policy, security guards will monitor the building more --------.",
+        "choices": {
+          "A": "close",
+          "B": "closeness",
+          "C": "closely",
+          "D": "closer"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 116,
+        "question": "The regional manager -------- a team of specialists to oversee the branch's construction.",
+        "choices": {
+          "A": "assembly",
+          "B": "assembled",
+          "C": "assembling",
+          "D": "assembles"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 117,
+        "question": "During the hiring process, the panel evaluates applicants based on their -------- and experience.",
+        "choices": {
+          "A": "qualifications",
+          "B": "qualify",
+          "C": "qualified",
+          "D": "qualifying"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 118,
+        "question": "A reminder has been sent to all staff regarding the -------- of keeping client information confidential.",
+        "choices": {
+          "A": "important",
+          "B": "importance",
+          "C": "importantly",
+          "D": "import"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 119,
+        "question": "The executives will travel to London tomorrow to -------- the lease for the new office space.",
+        "choices": {
+          "A": "final",
+          "B": "finally",
+          "C": "finalize",
+          "D": "finality"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 120,
+        "question": "The hiring manager was impressed by Ms. Kim's -------- to learn new skills.",
+        "choices": {
+          "A": "willing",
+          "B": "willingly",
+          "C": "willed",
+          "D": "willingness"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 121,
+        "question": "Access to the executive floor is restricted to personnel with the proper --------.",
+        "choices": {
+          "A": "authorization",
+          "B": "authorize",
+          "C": "authorized",
+          "D": "authoritatively"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 122,
+        "question": "Please ensure that all sensitive documents are -------- shredded before disposal.",
+        "choices": {
+          "A": "proper",
+          "B": "properly",
+          "C": "property",
+          "D": "properties"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 123,
+        "question": "To prepare for the branch opening, a comprehensive market analysis was -------- last month.",
+        "choices": {
+          "A": "conduct",
+          "B": "conducts",
+          "C": "conducted",
+          "D": "conducting"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 124,
+        "question": "The successful candidate will report -------- to the vice president of sales.",
+        "choices": {
+          "A": "directness",
+          "B": "directs",
+          "C": "direct",
+          "D": "directly"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 125,
+        "question": "Only employees who have completed the security training are -------- for remote network access.",
+        "choices": {
+          "A": "eligible",
+          "B": "eligibility",
+          "C": "eligibly",
+          "D": "eligibleness"
+        },
+        "answer": "A"
+      },
+      {
+        "no": 126,
+        "question": "Our company is expanding -------- by opening two more offices in South America.",
+        "choices": {
+          "A": "globe",
+          "B": "globally",
+          "C": "global",
+          "D": "globalization"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 127,
+        "question": "During the final interview, the president asked the applicant about her long-term career --------.",
+        "choices": {
+          "A": "object",
+          "B": "objectively",
+          "C": "objectives",
+          "D": "objected"
+        },
+        "answer": "C"
+      },
+      {
+        "no": 128,
+        "question": "Effective next Monday, the new security protocols will be strictly -------- across all departments.",
+        "choices": {
+          "A": "force",
+          "B": "forces",
+          "C": "forcing",
+          "D": "enforced"
+        },
+        "answer": "D"
+      },
+      {
+        "no": 129,
+        "question": "The project manager is -------- for coordinating the logistics of the overseas expansion.",
+        "choices": {
+          "A": "responsibility",
+          "B": "responsible",
+          "C": "responsibly",
+          "D": "responses"
+        },
+        "answer": "B"
+      },
+      {
+        "no": 130,
+        "question": "As part of the interview, you will be required to give a brief -------- on a marketing strategy.",
+        "choices": {
+          "A": "present",
+          "B": "presently",
+          "C": "presentation",
+          "D": "presented"
+        },
+        "answer": "C"
+      }
+    ],
+    "part6": [
+      {
+        "title": "Passage 1",
+        "text": "To: All Staff\nFrom: Management\nSubject: New Office in Paris\n\nWe are thrilled to announce that our company will be opening a new branch in Paris next month. This expansion represents a significant step in our --------. The new office -------- in the central business district, making it easily accessible for our clients. Our VP of Operations, Mr. Laurent, will move to France to oversee the initial setup. --------, he will be recruiting local talent. We believe this new venture will bring us closer to our European partners. --------.",
+        "questions": [
+          {
+            "no": 131,
+            "choices": {
+              "A": "growth",
+              "B": "growing",
+              "C": "grown",
+              "D": "grows"
+            },
+            "answer": "A"
+          },
+          {
+            "no": 132,
+            "choices": {
+              "A": "locating",
+              "B": "will be located",
+              "C": "was located",
+              "D": "locate"
+            },
+            "answer": "B"
+          },
+          {
+            "no": 133,
+            "choices": {
+              "A": "However",
+              "B": "Therefore",
+              "C": "In addition",
+              "D": "For instance"
+            },
+            "answer": "C"
+          },
+          {
+            "no": 134,
+            "choices": {
+              "A": "We plan to close the London office soon.",
+              "B": "Our products are not available in Europe.",
+              "C": "The training session will take place tomorrow.",
+              "D": "We appreciate your support during this transition period."
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "title": "Passage 2",
+        "text": "Dear Ms. Bennett,\n\nThank you for your application for the Senior Analyst position. We were very impressed with your background and --------. We would like to invite you for an in-person interview -------- Wednesday, October 14. The interview will take approximately one hour. --------. If you are unable to make this date, please let us know as soon as possible so we can reschedule. --------.",
+        "questions": [
+          {
+            "no": 135,
+            "choices": {
+              "A": "qualify",
+              "B": "qualifications",
+              "C": "qualifying",
+              "D": "qualified"
+            },
+            "answer": "B"
+          },
+          {
+            "no": 136,
+            "choices": {
+              "A": "to",
+              "B": "at",
+              "C": "on",
+              "D": "in"
+            },
+            "answer": "C"
+          },
+          {
+            "no": 137,
+            "choices": {
+              "A": "Please bring your own lunch.",
+              "B": "The office will be closed on Friday.",
+              "C": "The position has been filled.",
+              "D": "You will meet with the department head and HR manager."
+            },
+            "answer": "D"
+          },
+          {
+            "no": 138,
+            "choices": {
+              "A": "We look forward to speaking with you.",
+              "B": "Please review the attached menu.",
+              "C": "Your flight has been confirmed.",
+              "D": "We are currently not hiring."
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "title": "Passage 3",
+        "text": "Notice to All Employees\nSubject: Updated Security Protocols\n\nEffective immediately, the IT department is implementing stricter security measures. These changes are necessary to -------- sensitive company data. All employees must change their network passwords by the end of the week. -------- must contain at least 12 characters, including numbers and symbols. --------, access to the server room will now require a special biometric scan. Failure to comply with these rules may result in restricted access to company files. --------.",
+        "questions": [
+          {
+            "no": 139,
+            "choices": {
+              "A": "protective",
+              "B": "protection",
+              "C": "protect",
+              "D": "protects"
+            },
+            "answer": "C"
+          },
+          {
+            "no": 140,
+            "choices": {
+              "A": "Password",
+              "B": "Password's",
+              "C": "Passwords",
+              "D": "New passwords"
+            },
+            "answer": "D"
+          },
+          {
+            "no": 141,
+            "choices": {
+              "A": "Furthermore",
+              "B": "Instead",
+              "C": "Otherwise",
+              "D": "However"
+            },
+            "answer": "A"
+          },
+          {
+            "no": 142,
+            "choices": {
+              "A": "We offer competitive salaries.",
+              "B": "Please contact the IT help desk if you have questions.",
+              "C": "The cafeteria is on the first floor.",
+              "D": "Your vacation request was approved."
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "title": "Passage 4",
+        "text": "To: Department Managers\nFrom: Human Resources\nDate: May 12\nRe: Upcoming Interview Schedule\n\nNext week, we will begin the interview process for the newly created roles at our overseas branches. As a manager, your -------- is crucial to selecting the right candidates. Please review the attached schedule and confirm your availability. We have -------- back-to-back sessions for the first two days. During the interviews, please remember to adhere to our standard evaluation guidelines. --------. After the interviews, submit your feedback forms directly to the HR portal. Your prompt response is highly --------.",
+        "questions": [
+          {
+            "no": 143,
+            "choices": {
+              "A": "participate",
+              "B": "participated",
+              "C": "participating",
+              "D": "participation"
+            },
+            "answer": "D"
+          },
+          {
+            "no": 144,
+            "choices": {
+              "A": "scheduled",
+              "B": "schedules",
+              "C": "schedule",
+              "D": "scheduling"
+            },
+            "answer": "A"
+          },
+          {
+            "no": 145,
+            "choices": {
+              "A": "Candidates must sign a non-disclosure agreement.",
+              "B": "This ensures all applicants are assessed fairly.",
+              "C": "The branch in Berlin opens next year.",
+              "D": "We have ordered new laptops for the team."
+            },
+            "answer": "B"
+          },
+          {
+            "no": 146,
+            "choices": {
+              "A": "appreciate",
+              "B": "appreciating",
+              "C": "appreciated",
+              "D": "appreciates"
+            },
+            "answer": "C"
+          }
+        ]
+      }
+    ],
+    "part7": [
+      {
+        "set_number": 1,
+        "questions_range": "147-148",
+        "passage_type": "Single Passage",
+        "topic": "Overseas branch establishment",
+        "passages": [
+          "To: All Employees\nFrom: Management\nDate: March 1\nSubject: New Branch\n\nWe are pleased to announce that our new branch in Berlin will open on April 15. This expansion will help us better serve our European clients and broaden our international presence."
+        ],
+        "questions": [
+          {
+            "question_number": 147,
+            "question": "Why was the email written?",
+            "options": {
+              "A": "To announce a new branch opening",
+              "B": "To introduce a new employee",
+              "C": "To schedule a meeting",
+              "D": "To request a report"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 148,
+            "question": "Where will the new branch be located?",
+            "options": {
+              "A": "In Paris",
+              "B": "In Berlin",
+              "C": "In London",
+              "D": "In Madrid"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 2,
+        "questions_range": "149-150",
+        "passage_type": "Single Passage",
+        "topic": "New hire interviews",
+        "passages": [
+          "To: Hiring Managers\nFrom: HR Department\nDate: May 10\nSubject: Interview Schedules\n\nPlease submit all interview schedules for the upcoming week by Friday at 5 PM. We need to finalize the interview rooms and notify the candidates in advance."
+        ],
+        "questions": [
+          {
+            "question_number": 149,
+            "question": "Who is the memo for?",
+            "options": {
+              "A": "Candidates",
+              "B": "IT staff",
+              "C": "Hiring managers",
+              "D": "The CEO"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 150,
+            "question": "What should be submitted by Friday?",
+            "options": {
+              "A": "Expense reports",
+              "B": "Financial summaries",
+              "C": "Travel itineraries",
+              "D": "Interview schedules"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 3,
+        "questions_range": "151-152",
+        "passage_type": "Single Passage",
+        "topic": "Strengthening internal security regulations",
+        "passages": [
+          "NOTICE\n\nA new security policy will take effect next week. All employees must wear their ID badges at all times while on company premises. This is to ensure that only authorized personnel have access to restricted areas."
+        ],
+        "questions": [
+          {
+            "question_number": 151,
+            "question": "What is the purpose of the notice?",
+            "options": {
+              "A": "To explain a new security policy",
+              "B": "To announce a company holiday",
+              "C": "To promote a health initiative",
+              "D": "To introduce a dress code"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 152,
+            "question": "What must employees wear at all times?",
+            "options": {
+              "A": "Uniforms",
+              "B": "Safety goggles",
+              "C": "ID badges",
+              "D": "Hard hats"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 4,
+        "questions_range": "153-154",
+        "passage_type": "Single Passage",
+        "topic": "Overseas branch establishment",
+        "passages": [
+          "Business Daily\n\nZenith Tech is aggressively expanding its global operations. Next year, a new branch in Tokyo will open to cater to the growing Asian market, marking a significant milestone for the firm."
+        ],
+        "questions": [
+          {
+            "question_number": 153,
+            "question": "What company is mentioned in the article?",
+            "options": {
+              "A": "Apex Corp",
+              "B": "Zenith Tech",
+              "C": "Global Solutions",
+              "D": "Prime Industries"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 154,
+            "question": "What is expected to happen next year?",
+            "options": {
+              "A": "A product launch",
+              "B": "A merger",
+              "C": "A leadership change",
+              "D": "A branch in Tokyo will open"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 5,
+        "questions_range": "155-157",
+        "passage_type": "Single Passage",
+        "topic": "New hire interviews",
+        "passages": [
+          "Dear Mr. Smith,\n\nWe would like to invite you for an interview for the Marketing Director position. Please reply with your availability for next week so we can schedule a convenient time."
+        ],
+        "questions": [
+          {
+            "question_number": 155,
+            "question": "Why was the email sent?",
+            "options": {
+              "A": "To invite a candidate for an interview",
+              "B": "To offer a job",
+              "C": "To reject an application",
+              "D": "To request references"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 156,
+            "question": "What is requested of the recipient?",
+            "options": {
+              "A": "To submit a portfolio",
+              "B": "To reply with availability",
+              "C": "To call the office",
+              "D": "To complete a test"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 157,
+            "question": "What position is available?",
+            "options": {
+              "A": "Sales Manager",
+              "B": "Financial Analyst",
+              "C": "Marketing Director",
+              "D": "HR Specialist"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 6,
+        "questions_range": "158-160",
+        "passage_type": "Single Passage",
+        "topic": "Strengthening internal security regulations",
+        "passages": [
+          "To: All Staff\nFrom: IT Security\n\nTo improve our network security, new password requirements are being implemented immediately. Passwords must be changed every 60 days. Please contact IT Support if you encounter any issues."
+        ],
+        "questions": [
+          {
+            "question_number": 158,
+            "question": "What change is being implemented?",
+            "options": {
+              "A": "A new software installation",
+              "B": "Flexible working hours",
+              "C": "Updated email clients",
+              "D": "New password requirements"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 159,
+            "question": "How often must passwords be changed?",
+            "options": {
+              "A": "Every 60 days",
+              "B": "Every 30 days",
+              "C": "Every 90 days",
+              "D": "Once a year"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 160,
+            "question": "Who should be contacted for issues?",
+            "options": {
+              "A": "Human Resources",
+              "B": "IT Support",
+              "C": "The Front Desk",
+              "D": "Building Maintenance"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 7,
+        "questions_range": "161-163",
+        "passage_type": "Single Passage",
+        "topic": "Overseas branch establishment",
+        "passages": [
+          "We are currently organizing the relocation of several staff members to our newly established London office. The move will take place in September. The company will generously cover all housing expenses for the first year of the assignment."
+        ],
+        "questions": [
+          {
+            "question_number": 161,
+            "question": "What is the notice about?",
+            "options": {
+              "A": "A summer retreat",
+              "B": "A training workshop",
+              "C": "Relocation of staff to London",
+              "D": "Office renovations"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 162,
+            "question": "When will the move take place?",
+            "options": {
+              "A": "In June",
+              "B": "In July",
+              "C": "In August",
+              "D": "In September"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 163,
+            "question": "What expenses will be covered?",
+            "options": {
+              "A": "Housing",
+              "B": "Travel",
+              "C": "Meals",
+              "D": "Transportation"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 8,
+        "questions_range": "164-167",
+        "passage_type": "Single Passage",
+        "topic": "New hire interviews",
+        "passages": [
+          "Welcome to our career page. Here are some interview tips for prospective candidates. Candidates should bring a printed resume to their scheduled session. Interviews are held on the third floor. The department head conducts the second round of evaluations."
+        ],
+        "questions": [
+          {
+            "question_number": 164,
+            "question": "What is the purpose of the web page?",
+            "options": {
+              "A": "To advertise a product",
+              "B": "To provide interview tips",
+              "C": "To sell company merchandise",
+              "D": "To post employee reviews"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 165,
+            "question": "What should candidates bring?",
+            "options": {
+              "A": "A laptop",
+              "B": "A reference letter",
+              "C": "A printed resume",
+              "D": "A portfolio"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 166,
+            "question": "Where are the interviews held?",
+            "options": {
+              "A": "In the lobby",
+              "B": "On the first floor",
+              "C": "In the basement",
+              "D": "On the third floor"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 167,
+            "question": "Who is conducting the second round?",
+            "options": {
+              "A": "The department head",
+              "B": "The HR manager",
+              "C": "The CEO",
+              "D": "A recruiter"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 9,
+        "questions_range": "168-171",
+        "passage_type": "Single Passage",
+        "topic": "Strengthening internal security regulations",
+        "passages": [
+          "Employee Handbook Excerpt\n\nVisitor access policy: All visitors must sign the guestbook upon arrival at the main reception. The facility manager can authorize overnight guests. Furthermore, temporary badges must be returned before leaving the building."
+        ],
+        "questions": [
+          {
+            "question_number": 168,
+            "question": "What does the policy cover?",
+            "options": {
+              "A": "Parking rules",
+              "B": "Visitor access",
+              "C": "Vacation time",
+              "D": "Dress codes"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 169,
+            "question": "What must visitors do upon arrival?",
+            "options": {
+              "A": "Show an ID",
+              "B": "Wait in the lobby",
+              "C": "Sign the guestbook",
+              "D": "Call their host"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 170,
+            "question": "Who can authorize overnight guests?",
+            "options": {
+              "A": "The receptionist",
+              "B": "The security guard",
+              "C": "The CEO",
+              "D": "The facility manager"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 171,
+            "question": "What is stated about temporary badges?",
+            "options": {
+              "A": "They must be returned",
+              "B": "They cost $10",
+              "C": "They are valid for a week",
+              "D": "They must be worn on the left side"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 10,
+        "questions_range": "172-175",
+        "passage_type": "Single Passage",
+        "topic": "Overseas branch establishment",
+        "passages": [
+          "Press Release\n\nOmniCorp announces a joint venture in Brazil to expand its South American footprint. Mr. Silva has been appointed as the new regional director. One goal of this expansion is to reach new markets. The office will officially open on May 1."
+        ],
+        "questions": [
+          {
+            "question_number": 172,
+            "question": "What is announced in the press release?",
+            "options": {
+              "A": "A new product line",
+              "B": "A joint venture in Brazil",
+              "C": "A company rebranding",
+              "D": "A stock split"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 173,
+            "question": "Who is Mr. Silva?",
+            "options": {
+              "A": "The CEO",
+              "B": "A major investor",
+              "C": "The new regional director",
+              "D": "A local politician"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 174,
+            "question": "What is one goal of the expansion?",
+            "options": {
+              "A": "To reduce costs",
+              "B": "To hire more engineers",
+              "C": "To close old branches",
+              "D": "To reach new markets"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 175,
+            "question": "What will happen on May 1?",
+            "options": {
+              "A": "The office will officially open",
+              "B": "A press conference will be held",
+              "C": "The CEO will visit",
+              "D": "Hiring will begin"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 11,
+        "questions_range": "176-180",
+        "passage_type": "Double Passage",
+        "topic": "New hire interviews",
+        "passages": [
+          "Job Advertisement\n\nWe are hiring a Senior Accountant. The ideal candidate will handle financial reporting and audits. A minimum of 5 years of experience is a strict requirement for this role.",
+          "Email\n\nTo: HR\nFrom: Jane Doe\n\nI am scheduled for an interview this Tuesday. Unfortunately, I have a family emergency. I would like to ask to reschedule my interview for later in the week."
+        ],
+        "questions": [
+          {
+            "question_number": 176,
+            "question": "What position is advertised?",
+            "options": {
+              "A": "Junior Analyst",
+              "B": "Senior Accountant",
+              "C": "Tax Consultant",
+              "D": "Financial Director"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 177,
+            "question": "What is a requirement for the job?",
+            "options": {
+              "A": "A CPA license",
+              "B": "Bilingual skills",
+              "C": "5 years of experience",
+              "D": "Willingness to travel"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 178,
+            "question": "In the email, what does Jane ask?",
+            "options": {
+              "A": "To cancel her application",
+              "B": "To submit more documents",
+              "C": "To change the location",
+              "D": "To reschedule her interview"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 179,
+            "question": "What date was Jane originally scheduled for?",
+            "options": {
+              "A": "Tuesday",
+              "B": "Wednesday",
+              "C": "Thursday",
+              "D": "Friday"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 180,
+            "question": "What does the HR manager likely do next?",
+            "options": {
+              "A": "Reject her application",
+              "B": "Confirm a new time",
+              "C": "Call her references",
+              "D": "Send a test link"
+            },
+            "answer": "B"
+          }
+        ]
+      },
+      {
+        "set_number": 12,
+        "questions_range": "181-185",
+        "passage_type": "Double Passage",
+        "topic": "Strengthening internal security regulations",
+        "passages": [
+          "Email\n\nTo: All Employees\nFrom: IT Security\nSubject: Security Incident\n\nWe experienced a recent security breach last night. As a precaution, our main servers were temporarily shut down to prevent data loss.",
+          "Memo\n\nFrom: Chief Information Officer\n\nTo further protect our data, a new rule is introduced: No USB drives allowed on company computers. Violators will face disciplinary action."
+        ],
+        "questions": [
+          {
+            "question_number": 181,
+            "question": "What is the subject of the email?",
+            "options": {
+              "A": "A software update",
+              "B": "A new hire",
+              "C": "A recent security breach",
+              "D": "A lost password"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 182,
+            "question": "According to the email, what action was taken?",
+            "options": {
+              "A": "Passwords were reset",
+              "B": "Employees were sent home",
+              "C": "Antivirus software was updated",
+              "D": "Servers were temporarily shut down"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 183,
+            "question": "In the memo, what new rule is introduced?",
+            "options": {
+              "A": "No USB drives allowed",
+              "B": "Remote work is canceled",
+              "C": "Badges must be scanned twice",
+              "D": "Emails will be monitored"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 184,
+            "question": "Who signed the memo?",
+            "options": {
+              "A": "The CEO",
+              "B": "The Chief Information Officer",
+              "C": "The HR Director",
+              "D": "The Security Guard"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 185,
+            "question": "What will happen to violators?",
+            "options": {
+              "A": "They will be fined",
+              "B": "They will be fired immediately",
+              "C": "They will face disciplinary action",
+              "D": "They will have to take a test"
+            },
+            "answer": "C"
+          }
+        ]
+      },
+      {
+        "set_number": 13,
+        "questions_range": "186-190",
+        "passage_type": "Triple Passage",
+        "topic": "Overseas branch establishment",
+        "passages": [
+          "Business News\n\nNova Corp has finalized its expansion into Asia. The company plans to open multiple branches, starting with its flagship office in Singapore to capture the growing tech market.",
+          "Email\n\nTo: Travel Agency\nFrom: Mr. Lee\n\nPlease arrange my flights. I need travel arrangements for my upcoming trip to oversee the new branches. I will be going to Singapore first on Sunday.",
+          "Schedule\n\nSunday: Arrival in Singapore.\nMonday: A ribbon-cutting ceremony.\nFriday: Review of high initial sales figures reported by the local team."
+        ],
+        "questions": [
+          {
+            "question_number": 186,
+            "question": "What is the article about?",
+            "options": {
+              "A": "A company merger",
+              "B": "A new CEO appointment",
+              "C": "A stock market crash",
+              "D": "A company's expansion into Asia"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 187,
+            "question": "In the email, what does Mr. Lee request?",
+            "options": {
+              "A": "Travel arrangements",
+              "B": "Hotel recommendations",
+              "C": "A budget report",
+              "D": "A meeting schedule"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 188,
+            "question": "Where is Mr. Lee going first?",
+            "options": {
+              "A": "Tokyo",
+              "B": "Singapore",
+              "C": "Seoul",
+              "D": "Beijing"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 189,
+            "question": "According to the schedule, what happens on Monday?",
+            "options": {
+              "A": "A board meeting",
+              "B": "A training session",
+              "C": "A ribbon-cutting ceremony",
+              "D": "A flight back"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 190,
+            "question": "What indicates that the expansion is successful?",
+            "options": {
+              "A": "Positive news coverage",
+              "B": "Many new hires",
+              "C": "Government grants",
+              "D": "High initial sales figures"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "set_number": 14,
+        "questions_range": "191-195",
+        "passage_type": "Triple Passage",
+        "topic": "New hire interviews",
+        "passages": [
+          "Job Posting\n\nLooking for an experienced Project Leader. A master's degree in business or related fields is required. Candidates must have excellent communication skills.",
+          "Resume: Alex Johnson\n\nEducation: Master's in Business Administration.\nExperience: Highlighted extensive project management duties at Nexus Corp, leading a team of 20.",
+          "Email\n\nTo: HR\nFrom: Interview Panel\n\nAlex Johnson performed well during the panel interview. He meets all requirements. We have decided to offer the job to him."
+        ],
+        "questions": [
+          {
+            "question_number": 191,
+            "question": "What is required in the job posting?",
+            "options": {
+              "A": "A master's degree",
+              "B": "A driver's license",
+              "C": "10 years of experience",
+              "D": "Coding skills"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 192,
+            "question": "What experience does the resume highlight?",
+            "options": {
+              "A": "Customer service",
+              "B": "Project management",
+              "C": "Data analysis",
+              "D": "Graphic design"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 193,
+            "question": "Where did the applicant previously work?",
+            "options": {
+              "A": "Apex Inc.",
+              "B": "Zenith Tech",
+              "C": "Nexus Corp",
+              "D": "Omni Group"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 194,
+            "question": "In the email, what feedback is given?",
+            "options": {
+              "A": "The candidate lacked experience",
+              "B": "The candidate was late",
+              "C": "The candidate asked good questions",
+              "D": "The candidate performed well"
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 195,
+            "question": "What is the final decision?",
+            "options": {
+              "A": "To offer the job",
+              "B": "To conduct another interview",
+              "C": "To reject the candidate",
+              "D": "To check references"
+            },
+            "answer": "A"
+          }
+        ]
+      },
+      {
+        "set_number": 15,
+        "questions_range": "196-200",
+        "passage_type": "Triple Passage",
+        "topic": "Strengthening internal security regulations",
+        "passages": [
+          "Security Policy Document\n\nSection 4: Server Room Access. To maximize security, biometric access is required for the server room. All personnel must register their fingerprints with IT.",
+          "Email\n\nTo: IT Maintenance\nFrom: Server Admin\n\nI am writing to report a malfunctioning scanner at the server room entrance. It rejects valid fingerprints.",
+          "Invoice\n\nFrom: SecureTech Inc.\nTo: IT Department\nService: Repaired biometric scanner.\nDate Completed: October 12.\nTotal Cost: $450."
+        ],
+        "questions": [
+          {
+            "question_number": 196,
+            "question": "What does the policy require for the server room?",
+            "options": {
+              "A": "A keycard",
+              "B": "A passcode",
+              "C": "Biometric access",
+              "D": "A security guard"
+            },
+            "answer": "C"
+          },
+          {
+            "question_number": 197,
+            "question": "Why was the email sent?",
+            "options": {
+              "A": "To order new equipment",
+              "B": "To report a malfunctioning scanner",
+              "C": "To request a password reset",
+              "D": "To complain about a colleague"
+            },
+            "answer": "B"
+          },
+          {
+            "question_number": 198,
+            "question": "Who repaired the scanner?",
+            "options": {
+              "A": "The IT Maintenance team",
+              "B": "The Server Admin",
+              "C": "The building manager",
+              "D": "SecureTech Inc."
+            },
+            "answer": "D"
+          },
+          {
+            "question_number": 199,
+            "question": "When was the repair completed?",
+            "options": {
+              "A": "October 12",
+              "B": "October 15",
+              "C": "November 1",
+              "D": "December 10"
+            },
+            "answer": "A"
+          },
+          {
+            "question_number": 200,
+            "question": "How much did the repair cost?",
+            "options": {
+              "A": "$200",
+              "B": "$350",
+              "C": "$450",
+              "D": "$500"
+            },
+            "answer": "C"
+          }
+        ]
+      }
+    ]
+  }
+}

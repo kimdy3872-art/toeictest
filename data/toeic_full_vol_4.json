@@ -1,0 +1,2854 @@
+{
+  "exam_metadata": {
+    "session": 4,
+    "title": "TOEIC Full Practice Test - Vol.4",
+    "total_questions": 200
+  },
+  "lc": {
+    "part1": [
+      {
+        "id": "LC1-01",
+        "image_description": "여성이 신용카드를 들고 모니터를 바라보는 상황",
+        "image_prompt": "A woman is looking at a computer screen while holding a credit card in her hand, sitting at a desk.",
+        "audio_script": "(A) She is making an online payment. (B) She is withdrawing cash from a machine. (C) She is putting away her wallet. (D) She is fixing a broken monitor.",
+        "options": {
+          "A": "She is making an online payment.",
+          "B": "She is withdrawing cash from a machine.",
+          "C": "She is putting away her wallet.",
+          "D": "She is fixing a broken monitor."
+        },
+        "answer": "A",
+        "explanation": "여성이 카드를 들고 온라인 결제를 하는 모습을 묘사한 (A)가 정답입니다."
+      },
+      {
+        "id": "LC1-02",
+        "image_description": "사무실에서 직원들이 상자를 나르는 상황",
+        "image_prompt": "Workers in casual clothes are carrying heavy cardboard boxes in an office space.",
+        "audio_script": "(A) They are opening packages. (B) They are assembling a new desk. (C) They are hanging up a poster. (D) They are carrying some boxes.",
+        "options": {
+          "A": "They are opening packages.",
+          "B": "They are assembling a new desk.",
+          "C": "They are hanging up a poster.",
+          "D": "They are carrying some boxes."
+        },
+        "answer": "D",
+        "explanation": "직원들이 상자를 나르는 동작을 정확히 묘사한 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-03",
+        "image_description": "연회장에서 대형 케이크를 두고 박수 치는 사람들",
+        "image_prompt": "A group of formally dressed people clapping in a banquet hall around a large celebration cake.",
+        "audio_script": "(A) They are serving food to guests. (B) They are playing musical instruments. (C) They are hanging a celebration banner. (D) They are applauding at an event.",
+        "options": {
+          "A": "They are serving food to guests.",
+          "B": "They are playing musical instruments.",
+          "C": "They are hanging a celebration banner.",
+          "D": "They are applauding at an event."
+        },
+        "answer": "D",
+        "explanation": "사람들이 모여 박수를 치는(applauding) 상황이므로 (D)가 정답입니다."
+      },
+      {
+        "id": "LC1-04",
+        "image_description": "모니터의 결제 오류 창을 가리키는 남성",
+        "image_prompt": "A man in an office is pointing his finger at an error message on his computer monitor.",
+        "audio_script": "(A) He is plugging in a computer cable. (B) He is pointing at a screen. (C) He is typing quickly on a keyboard. (D) He is paying at a cash register.",
+        "options": {
+          "A": "He is plugging in a computer cable.",
+          "B": "He is pointing at a screen.",
+          "C": "He is typing quickly on a keyboard.",
+          "D": "He is paying at a cash register."
+        },
+        "answer": "B",
+        "explanation": "남성이 손가락으로 화면을 가리키는 상태를 나타내는 (B)가 정답입니다."
+      },
+      {
+        "id": "LC1-05",
+        "image_description": "비닐로 포장된 사무실 책상들",
+        "image_prompt": "Office desks are wrapped securely in clear plastic for moving, with boxes stacked nearby.",
+        "audio_script": "(A) The floor is being mopped by a cleaner. (B) The desks are currently occupied by workers. (C) The furniture is wrapped in plastic. (D) The windows are being cleaned.",
+        "options": {
+          "A": "The floor is being mopped by a cleaner.",
+          "B": "The desks are currently occupied by workers.",
+          "C": "The furniture is wrapped in plastic.",
+          "D": "The windows are being cleaned."
+        },
+        "answer": "C",
+        "explanation": "이사 등을 위해 가구가 비닐로 포장되어 있는 모습을 묘사한 (C)가 정답입니다."
+      },
+      {
+        "id": "LC1-06",
+        "image_description": "창립 기념 행사에서 건배하는 임직원들",
+        "image_prompt": "Colleagues in business attire are raising their glasses for a toast at a corporate anniversary party.",
+        "audio_script": "(A) They are pouring drinks into cups. (B) They are washing glasses in a sink. (C) They are leaving the party venue. (D) They are making a toast.",
+        "options": {
+          "A": "They are pouring drinks into cups.",
+          "B": "They are washing glasses in a sink.",
+          "C": "They are leaving the party venue.",
+          "D": "They are making a toast."
+        },
+        "answer": "D",
+        "explanation": "잔을 들고 건배(toast)하는 모습을 묘사한 (D)가 정답입니다."
+      }
+    ],
+    "part2": [
+      {
+        "id": "LC2-07",
+        "audio_script": "Where is the new branch office located? (A) On the fifth floor. (B) Yes, it's completely new. (C) By next week.",
+        "options": {
+          "A": "On the fifth floor.",
+          "B": "Yes, it's completely new.",
+          "C": "By next week."
+        },
+        "answer": "A",
+        "explanation": "장소를 묻는 Where 의문문에 층수로 답한 (A) 정답."
+      },
+      {
+        "id": "LC2-08",
+        "audio_script": "Why was the customer's credit card declined? (A) I bought two tickets. (B) The payment system is down. (C) To the local store.",
+        "options": {
+          "A": "I bought two tickets.",
+          "B": "The payment system is down.",
+          "C": "To the local store."
+        },
+        "answer": "B",
+        "explanation": "이유를 묻는 Why 의문문에 시스템 오류를 원인으로 든 (B) 정답."
+      },
+      {
+        "id": "LC2-09",
+        "audio_script": "Are you going to the company's anniversary dinner? (A) A ten-year warranty. (B) The food was delicious. (C) I wouldn't miss it.",
+        "options": {
+          "A": "A ten-year warranty.",
+          "B": "The food was delicious.",
+          "C": "I wouldn't miss it."
+        },
+        "answer": "C",
+        "explanation": "참석 여부를 묻는 질문에 절대 빠질 수 없다고 수락한 (C) 정답."
+      },
+      {
+        "id": "LC2-10",
+        "audio_script": "Who is leading the office relocation project? (A) The operations manager. (B) In about three days. (C) It is a very heavy box.",
+        "options": {
+          "A": "The operations manager.",
+          "B": "In about three days.",
+          "C": "It is a very heavy box."
+        },
+        "answer": "A",
+        "explanation": "주체를 묻는 Who 의문문에 직책으로 답한 (A) 정답."
+      },
+      {
+        "id": "LC2-11",
+        "audio_script": "How can I fix this checkout error on the website? (A) A new pair of shoes. (B) Try refreshing the web page. (C) At the supermarket.",
+        "options": {
+          "A": "A new pair of shoes.",
+          "B": "Try refreshing the web page.",
+          "C": "At the supermarket."
+        },
+        "answer": "B",
+        "explanation": "해결 방법을 묻는 How 의문문에 구체적인 조치를 제안한 (B) 정답."
+      },
+      {
+        "id": "LC2-12",
+        "audio_script": "The banquet hall was already booked, wasn't it? (A) I like reading books. (B) Around fifty guests. (C) Yes, I confirmed it today.",
+        "options": {
+          "A": "I like reading books.",
+          "B": "Around fifty guests.",
+          "C": "Yes, I confirmed it today."
+        },
+        "answer": "C",
+        "explanation": "예약 여부를 확인하는 부가 의문문에 확인 완료를 답한 (C) 정답."
+      },
+      {
+        "id": "LC2-13",
+        "audio_script": "When does the moving truck arrive? (A) First thing tomorrow morning. (B) Some tape and extra boxes. (C) She is moving to a new house.",
+        "options": {
+          "A": "First thing tomorrow morning.",
+          "B": "Some tape and extra boxes.",
+          "C": "She is moving to a new house."
+        },
+        "answer": "A",
+        "explanation": "시기를 묻는 When 의문문에 내일 아침이라고 답한 (A) 정답."
+      },
+      {
+        "id": "LC2-14",
+        "audio_script": "Which department handles online payment issues? (A) I have no issues with it. (B) The finance team does. (C) On the third floor.",
+        "options": {
+          "A": "I have no issues with it.",
+          "B": "The finance team does.",
+          "C": "On the third floor."
+        },
+        "answer": "B",
+        "explanation": "담당 부서를 묻는 Which 의문문에 재무팀으로 답한 (B) 정답."
+      },
+      {
+        "id": "LC2-15",
+        "audio_script": "Haven't we sent out the anniversary invitations yet? (A) A lovely birthday card. (B) He didn't go to the event. (C) No, the guest list isn't finalized.",
+        "options": {
+          "A": "A lovely birthday card.",
+          "B": "He didn't go to the event.",
+          "C": "No, the guest list isn't finalized."
+        },
+        "answer": "C",
+        "explanation": "초대장 발송 여부를 묻는 부정 의문문에 아직 명단이 확정 안 됐다고 답한 (C) 정답."
+      },
+      {
+        "id": "LC2-16",
+        "audio_script": "Can you help me pack these client files? (A) Sure, hand me an empty box. (B) It is a very heavy package. (C) I packed a healthy lunch.",
+        "options": {
+          "A": "Sure, hand me an empty box.",
+          "B": "It is a very heavy package.",
+          "C": "I packed a healthy lunch."
+        },
+        "answer": "A",
+        "explanation": "도움을 요청하는 의문문에 수락하며 상자를 달라는 (A) 정답."
+      },
+      {
+        "id": "LC2-17",
+        "audio_script": "What time is the CEO's keynote address? (A) A brand new email address. (B) Right after the lunch break. (C) To the main conference room.",
+        "options": {
+          "A": "A brand new email address.",
+          "B": "Right after the lunch break.",
+          "C": "To the main conference room."
+        },
+        "answer": "B",
+        "explanation": "연설 시각을 묻는 질문에 점심 식사 직후라고 답한 (B) 정답."
+      },
+      {
+        "id": "LC2-18",
+        "audio_script": "Do you prefer the new office layout or the old one? (A) I laid the reports on the desk. (B) A comfortable chair. (C) The new one is much more spacious.",
+        "options": {
+          "A": "I laid the reports on the desk.",
+          "B": "A comfortable chair.",
+          "C": "The new one is much more spacious."
+        },
+        "answer": "C",
+        "explanation": "선택 의문문에 새 사무실이 더 넓다며 선택한 (C) 정답."
+      },
+      {
+        "id": "LC2-19",
+        "audio_script": "Whose credit card was used to pay for the software? (A) I used the corporate card. (B) It will be expiring very soon. (C) The digital shopping cart.",
+        "options": {
+          "A": "I used the corporate card.",
+          "B": "It will be expiring very soon.",
+          "C": "The digital shopping cart."
+        },
+        "answer": "A",
+        "explanation": "소유주를 묻는 Whose 의문문에 법인 카드를 썼다고 한 (A) 정답."
+      },
+      {
+        "id": "LC2-20",
+        "audio_script": "Let's hire a professional caterer for the company's 10th anniversary. (A) It happened ten years ago. (B) I know a great local chef. (C) The company's new logo.",
+        "options": {
+          "A": "It happened ten years ago.",
+          "B": "I know a great local chef.",
+          "C": "The company's new logo."
+        },
+        "answer": "B",
+        "explanation": "제안하는 평서문에 아는 셰프가 있다며 호응한 (B) 정답."
+      },
+      {
+        "id": "LC2-21",
+        "audio_script": "Why did the server crash during the online sale? (A) The jacket was on sale. (B) Yes, I bought it yesterday. (C) Due to unexpected heavy web traffic.",
+        "options": {
+          "A": "The jacket was on sale.",
+          "B": "Yes, I bought it yesterday.",
+          "C": "Due to unexpected heavy web traffic."
+        },
+        "answer": "C",
+        "explanation": "서버 다운 원인을 묻는 Why 의문문에 트래픽 몰림을 언급한 (C) 정답."
+      },
+      {
+        "id": "LC2-22",
+        "audio_script": "Is the president going to speak at the celebration event? (A) Yes, she's on the schedule. (B) I couldn't hear him well. (C) A new event center downtown.",
+        "options": {
+          "A": "Yes, she's on the schedule.",
+          "B": "I couldn't hear him well.",
+          "C": "A new event center downtown."
+        },
+        "answer": "A",
+        "explanation": "연설 여부를 묻는 일반 의문문에 일정에 있다고 확인해 준 (A) 정답."
+      },
+      {
+        "id": "LC2-23",
+        "audio_script": "How many moving boxes will we need for the archives? (A) They are very heavy. (B) At least fifty, I think. (C) By the window in the back.",
+        "options": {
+          "A": "They are very heavy.",
+          "B": "At least fifty, I think.",
+          "C": "By the window in the back."
+        },
+        "answer": "B",
+        "explanation": "수량을 묻는 How many 의문문에 50개라고 답한 (B) 정답."
+      },
+      {
+        "id": "LC2-24",
+        "audio_script": "We should upgrade the checkout system to prevent errors. (A) I am checking out of the hotel now. (B) It received a very high grade. (C) The IT team is planning that for next month.",
+        "options": {
+          "A": "I am checking out of the hotel now.",
+          "B": "It received a very high grade.",
+          "C": "The IT team is planning that for next month."
+        },
+        "answer": "C",
+        "explanation": "제안하는 평서문에 IT팀이 이미 계획 중이라며 답한 (C) 정답."
+      },
+      {
+        "id": "LC2-25",
+        "audio_script": "Has the venue for the celebration been decided? (A) Yes, we booked the Grand Hotel. (B) We celebrated it last weekend. (C) It was a decisive victory.",
+        "options": {
+          "A": "Yes, we booked the Grand Hotel.",
+          "B": "We celebrated it last weekend.",
+          "C": "It was a decisive victory."
+        },
+        "answer": "A",
+        "explanation": "장소 결정 여부를 묻는 의문문에 호텔을 예약했다고 한 (A) 정답."
+      },
+      {
+        "id": "LC2-26",
+        "audio_script": "Who designed the new anniversary logo? (A) It is a completely new design. (B) Sarah from the marketing department. (C) The exact anniversary date.",
+        "options": {
+          "A": "It is a completely new design.",
+          "B": "Sarah from the marketing department.",
+          "C": "The exact anniversary date."
+        },
+        "answer": "B",
+        "explanation": "디자이너를 묻는 Who 의문문에 사람 이름과 부서로 답한 (B) 정답."
+      },
+      {
+        "id": "LC2-27",
+        "audio_script": "Where can I find the floor plan for the new office? (A) On the second floor. (B) It sounds like a solid plan. (C) I will email the document to you.",
+        "options": {
+          "A": "On the second floor.",
+          "B": "It sounds like a solid plan.",
+          "C": "I will email the document to you."
+        },
+        "answer": "C",
+        "explanation": "도면 위치를 묻는 Where 의문문에 이메일로 보내주겠다고 한 우회적 응답 (C) 정답."
+      },
+      {
+        "id": "LC2-28",
+        "audio_script": "Why is the payment button not working? (A) There's a temporary coding error. (B) I lost a button on my jacket. (C) The repair work is completely finished.",
+        "options": {
+          "A": "There's a temporary coding error.",
+          "B": "I lost a button on my jacket.",
+          "C": "The repair work is completely finished."
+        },
+        "answer": "A",
+        "explanation": "작동 불능 원인을 묻는 Why 의문문에 코딩 오류를 원인으로 든 (A) 정답."
+      },
+      {
+        "id": "LC2-29",
+        "audio_script": "Would you like a piece of the commemorative cake? (A) I prefer peace and quiet. (B) I'm too full, but thank you. (C) There is a baker's shop nearby.",
+        "options": {
+          "A": "I prefer peace and quiet.",
+          "B": "I'm too full, but thank you.",
+          "C": "There is a baker's shop nearby."
+        },
+        "answer": "B",
+        "explanation": "권유 의문문에 배가 부르다며 정중히 거절한 (B) 정답."
+      },
+      {
+        "id": "LC2-30",
+        "audio_script": "How far is the new headquarters from the train station? (A) We need a new station manager. (B) He walks very fast. (C) It's about a twenty-minute drive.",
+        "options": {
+          "A": "We need a new station manager.",
+          "B": "He walks very fast.",
+          "C": "It's about a twenty-minute drive."
+        },
+        "answer": "C",
+        "explanation": "거리를 묻는 How far 의문문에 소요 시간으로 답한 (C) 정답."
+      },
+      {
+        "id": "LC2-31",
+        "audio_script": "Didn't you already pay the moving vendor? (A) Yes, I sent the bank transfer yesterday. (B) The vending machine is broken. (C) I paid close attention to the details.",
+        "options": {
+          "A": "Yes, I sent the bank transfer yesterday.",
+          "B": "The vending machine is broken.",
+          "C": "I paid close attention to the details."
+        },
+        "answer": "A",
+        "explanation": "비용 지불 여부를 묻는 부정 의문문에 어제 송금했다고 확인해 준 (A) 정답."
+      }
+    ],
+    "part3": [
+      {
+        "set_id": "LC3-SET01",
+        "context_type": "Retail Customer Service",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W: I'm trying to buy a laptop on your site, but I keep getting a checkout error. M: I'm sorry. We're updating our payment gateway right now. It should be fully functional in ten minutes. W: Okay. I want to use my 15% discount code, though. Will it still work? M: Yes, absolutely. Just enter it at the new checkout screen.",
+        "questions": [
+          {
+            "id": "LC3-32",
+            "question": "What problem is the woman reporting?",
+            "options": {
+              "A": "A broken laptop screen",
+              "B": "A lost discount code",
+              "C": "A late package delivery",
+              "D": "A website checkout error"
+            },
+            "answer": "D",
+            "explanation": "결제 오류를 겪고 있다는 내용에서 (D) 정답."
+          },
+          {
+            "id": "LC3-33",
+            "question": "What does the man say is happening?",
+            "options": {
+              "A": "A system update",
+              "B": "A store closure",
+              "C": "A sudden price drop",
+              "D": "A regional power outage"
+            },
+            "answer": "A",
+            "explanation": "payment gateway를 업데이트 중이라는 내용에서 (A) 정답."
+          },
+          {
+            "id": "LC3-34",
+            "question": "What does the woman want to use?",
+            "options": {
+              "A": "A new credit card",
+              "B": "A discount code",
+              "C": "A different account",
+              "D": "A digital gift receipt"
+            },
+            "answer": "B",
+            "explanation": "15% 할인 코드를 사용하고 싶다는 내용에서 (B) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET02",
+        "context_type": "Office Relocation Planning",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Have the moving boxes arrived yet? We need to pack the archives by Friday. W: Not yet. The supplier called and said there was a traffic delay. They should be here by 3 PM. M: Alright. Let's start organizing the files in the meantime. We can discard any documents older than five years. W: Good idea. I'll get the shredder ready.",
+        "questions": [
+          {
+            "id": "LC3-35",
+            "question": "What are the speakers preparing for?",
+            "options": {
+              "A": "A client meeting",
+              "B": "A software launch",
+              "C": "An office relocation",
+              "D": "A staff training"
+            },
+            "answer": "C",
+            "explanation": "짐을 싸고 있다는 맥락에서 이사 준비임을 알 수 있어 (C) 정답."
+          },
+          {
+            "id": "LC3-36",
+            "question": "Why are the supplies delayed?",
+            "options": {
+              "A": "A billing error",
+              "B": "A factory strike",
+              "C": "A wrong address",
+              "D": "A traffic jam"
+            },
+            "answer": "D",
+            "explanation": "교통 체증(traffic delay) 때문에 늦는다고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-37",
+            "question": "What will the woman do next?",
+            "options": {
+              "A": "Prepare a shredder",
+              "B": "Call the supplier",
+              "C": "Print some labels",
+              "D": "Buy more boxes"
+            },
+            "answer": "A",
+            "explanation": "문서를 버리기 위해 파쇄기를 준비하겠다고 했으므로 (A) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET03",
+        "context_type": "Event Planning",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W: The venue for the company's 20th-anniversary party just confirmed our reservation. M: That's great news. Did you choose the catering menu as well? W: Yes, I selected the seafood buffet. But I still need to find a local band to perform live music. M: I have a friend in a jazz band. Let me give you his contact number.",
+        "questions": [
+          {
+            "id": "LC3-38",
+            "question": "What did the woman just receive?",
+            "options": {
+              "A": "A financial report",
+              "B": "A venue confirmation",
+              "C": "A promotion letter",
+              "D": "A music contract"
+            },
+            "answer": "B",
+            "explanation": "행사장 예약 확인을 받았다고 언급했으므로 (B) 정답."
+          },
+          {
+            "id": "LC3-39",
+            "question": "What type of food was selected?",
+            "options": {
+              "A": "Italian pasta",
+              "B": "Vegetarian dishes",
+              "C": "A seafood buffet",
+              "D": "Grilled steaks"
+            },
+            "answer": "C",
+            "explanation": "해산물 뷔페(seafood buffet)를 골랐다고 했으므로 (C) 정답."
+          },
+          {
+            "id": "LC3-40",
+            "question": "What does the man offer to do?",
+            "options": {
+              "A": "Cook the food",
+              "B": "Drive the van",
+              "C": "Decorate the hall",
+              "D": "Provide contact information"
+            },
+            "answer": "D",
+            "explanation": "밴드를 아는 친구의 연락처를 주겠다고 제안했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET04",
+        "context_type": "IT Support",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "M: Several customers are complaining that their credit cards are being rejected at checkout. W: I noticed that too. It seems our third-party payment processor is undergoing maintenance. M: We should put a notification banner on the homepage to warn shoppers. W: Agreed. I will draft the message and send it to the web design team immediately.",
+        "questions": [
+          {
+            "id": "LC3-41",
+            "question": "What are customers complaining about?",
+            "options": {
+              "A": "High shipping fees",
+              "B": "Out of stock items",
+              "C": "Slow website speed",
+              "D": "Card rejections"
+            },
+            "answer": "D",
+            "explanation": "신용카드 결제가 거부되고 있다는 불만 내용에서 (D) 정답."
+          },
+          {
+            "id": "LC3-42",
+            "question": "What is the cause of the problem?",
+            "options": {
+              "A": "System maintenance",
+              "B": "Expired passwords",
+              "C": "Hacked accounts",
+              "D": "Invalid coupons"
+            },
+            "answer": "A",
+            "explanation": "결제 프로세서가 점검(maintenance) 중이라 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC3-43",
+            "question": "What will the woman do next?",
+            "options": {
+              "A": "Refund a customer",
+              "B": "Call the bank",
+              "C": "Draft a notification",
+              "D": "Restart the server"
+            },
+            "answer": "C",
+            "explanation": "홈페이지에 띄울 안내문을 작성하겠다고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET05",
+        "context_type": "Facilities Management",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W: The moving trucks are scheduled for Saturday. Have you sent the floor plan for the new headquarters to the movers? M: Not yet. The architects just sent over the finalized blueprint this morning. W: Make sure you highlight where the server room is. The IT equipment needs to be unloaded first. M: I'll mark it right now and email the file.",
+        "questions": [
+          {
+            "id": "LC3-44",
+            "question": "When is the move scheduled?",
+            "options": {
+              "A": "Thursday",
+              "B": "Saturday",
+              "C": "Sunday",
+              "D": "Monday"
+            },
+            "answer": "B",
+            "explanation": "토요일에 이사 트럭이 예약되어 있다고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC3-45",
+            "question": "What does the woman emphasize?",
+            "options": {
+              "A": "Paying the deposit",
+              "B": "Cleaning the carpets",
+              "C": "Checking the weather",
+              "D": "Highlighting a specific room"
+            },
+            "answer": "D",
+            "explanation": "서버실 위치를 강조 표시해 달라고 당부했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-46",
+            "question": "What will the man send via email?",
+            "options": {
+              "A": "A floor plan",
+              "B": "An invoice",
+              "C": "A staff list",
+              "D": "A menu"
+            },
+            "answer": "A",
+            "explanation": "도면(blueprint/floor plan)을 표시해서 이메일로 보내겠다고 했으므로 (A) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET06",
+        "context_type": "Corporate Communication",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "UK"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "M: Did you review the speech draft for the anniversary gala? W: Yes, it looks great, but I think the CEO should mention our recent expansion into Europe. M: Good point. That's a major milestone for our 15th year. W: Exactly. I'll add a short paragraph about the European branch before finalizing it.",
+        "questions": [
+          {
+            "id": "LC3-47",
+            "question": "What are the speakers discussing?",
+            "options": {
+              "A": "A budget proposal",
+              "B": "A marketing brochure",
+              "C": "A speech draft",
+              "D": "An employee handbook"
+            },
+            "answer": "C",
+            "explanation": "기념행사 연설문 초안(speech draft)에 대해 논의 중이므로 (C) 정답."
+          },
+          {
+            "id": "LC3-48",
+            "question": "What does the woman suggest including?",
+            "options": {
+              "A": "A list of sponsors",
+              "B": "A new logo design",
+              "C": "Sales figures",
+              "D": "An expansion milestone"
+            },
+            "answer": "D",
+            "explanation": "최근 유럽 확장(expansion)을 언급해야 한다고 제안했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-49",
+            "question": "What anniversary is the company celebrating?",
+            "options": {
+              "A": "10th",
+              "B": "15th",
+              "C": "20th",
+              "D": "25th"
+            },
+            "answer": "B",
+            "explanation": "창립 15주년(15th year)이라고 언급했으므로 (B) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET07",
+        "context_type": "Online Retail Sales",
+        "speakers": [
+          {
+            "name": "Woman 1",
+            "gender": "Female",
+            "accent": "AU"
+          },
+          {
+            "name": "Woman 2",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "W1: Our weekend flash sale was a success, but a lot of shoppers abandoned their carts. W2: I investigated the analytics. Users dropped off at the final payment step. The page load time was too slow. W1: We need to optimize our payment server immediately. Let's schedule a meeting with the cloud hosting provider. W2: I'll check their availability for tomorrow.",
+        "questions": [
+          {
+            "id": "LC3-50",
+            "question": "What was successful recently?",
+            "options": {
+              "A": "A flash sale",
+              "B": "A store opening",
+              "C": "A recruitment campaign",
+              "D": "A product design"
+            },
+            "answer": "A",
+            "explanation": "주말 플래시 세일(flash sale)이 성공적이었다고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC3-51",
+            "question": "Why did shoppers abandon their carts?",
+            "options": {
+              "A": "High shipping costs",
+              "B": "Outdated products",
+              "C": "Slow loading times",
+              "D": "Complicated forms"
+            },
+            "answer": "C",
+            "explanation": "결제 단계에서 페이지 로딩이 너무 느렸다(slow)고 했으므로 (C) 정답."
+          },
+          {
+            "id": "LC3-52",
+            "question": "Who will the speakers meet with?",
+            "options": {
+              "A": "A graphic designer",
+              "B": "A legal advisor",
+              "C": "A delivery driver",
+              "D": "A hosting provider"
+            },
+            "answer": "D",
+            "explanation": "서버 개선을 위해 클라우드 호스팅 업체(hosting provider)와 회의를 잡기로 했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET08",
+        "context_type": "Logistics Planning",
+        "speakers": [
+          {
+            "name": "Man 1",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Man 2",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "M1: The lease for this building ends on the 31st. We have to finish the move before then. M2: I've assigned team leaders to supervise the packing in each department. M1: Excellent. Also, notify everyone that they need to empty their personal lockers by Friday. M2: I will put up flyers in the breakroom today.",
+        "questions": [
+          {
+            "id": "LC3-53",
+            "question": "When does the building lease end?",
+            "options": {
+              "A": "On the 1st",
+              "B": "On the 15th",
+              "C": "On the 30th",
+              "D": "On the 31st"
+            },
+            "answer": "D",
+            "explanation": "임대 계약이 31일에 끝난다고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-54",
+            "question": "What did the second man assign?",
+            "options": {
+              "A": "New parking spots",
+              "B": "Team leaders",
+              "C": "Security badges",
+              "D": "Lunch schedules"
+            },
+            "answer": "B",
+            "explanation": "부서별 짐 싸기를 감독할 팀장(team leaders)들을 배정했다고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC3-55",
+            "question": "What must employees do by Friday?",
+            "options": {
+              "A": "Submit expense reports",
+              "B": "Return office keys",
+              "C": "Empty their lockers",
+              "D": "Update passwords"
+            },
+            "answer": "C",
+            "explanation": "직원들에게 금요일까지 개인 사물함을 비우라(empty lockers)고 공지하라고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET09",
+        "context_type": "Marketing Meeting",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W: To celebrate our 5th anniversary, we are giving away promotional tote bags. M: That's a nice touch. Have they been delivered from the printer yet? W: Not all of them. Half the shipment arrived, but the rest will be here tomorrow. M: I'll help you stuff them with our latest product catalogs once they arrive.",
+        "questions": [
+          {
+            "id": "LC3-56",
+            "question": "What is the company giving away?",
+            "options": {
+              "A": "Tote bags",
+              "B": "Coffee mugs",
+              "C": "Gift cards",
+              "D": "Umbrellas"
+            },
+            "answer": "A",
+            "explanation": "기념품으로 토트백(tote bags)을 나눠준다고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC3-57",
+            "question": "What is the status of the shipment?",
+            "options": {
+              "A": "It is fully delivered",
+              "B": "It is cancelled",
+              "C": "It is lost in transit",
+              "D": "It is partially delivered"
+            },
+            "answer": "D",
+            "explanation": "절반만 도착했고 나머지는 내일 온다며 부분 배송(partially delivered) 상태이므로 (D) 정답."
+          },
+          {
+            "id": "LC3-58",
+            "question": "What will the man put inside the items?",
+            "options": {
+              "A": "Business cards",
+              "B": "Discount coupons",
+              "C": "Product catalogs",
+              "D": "Pens and notebooks"
+            },
+            "answer": "C",
+            "explanation": "가방 안에 최신 제품 카탈로그(catalogs)를 넣는 것을 돕겠다고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET10",
+        "context_type": "Technical Support",
+        "speakers": [
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          },
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "M: Hi, I tried to purchase a subscription, but my screen froze when I hit the 'pay' button. W: I apologize. We deployed a new security patch that caused some glitches. M: Did my payment go through? I don't want to be charged twice. W: Let me check your account. No, it didn't process. I can process it manually for you right now over the phone.",
+        "questions": [
+          {
+            "id": "LC3-59",
+            "question": "What issue did the man experience?",
+            "options": {
+              "A": "He forgot his password",
+              "B": "His screen froze",
+              "C": "He lost his receipt",
+              "D": "His card expired"
+            },
+            "answer": "B",
+            "explanation": "결제 버튼을 눌렀을 때 화면이 멈췄다(screen froze)고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC3-60",
+            "question": "What caused the glitch?",
+            "options": {
+              "A": "A security patch",
+              "B": "A power failure",
+              "C": "A network upgrade",
+              "D": "A hardware failure"
+            },
+            "answer": "A",
+            "explanation": "새로운 보안 패치(security patch) 배포로 인한 문제라고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC3-61",
+            "question": "What does the woman offer to do?",
+            "options": {
+              "A": "Send a replacement",
+              "B": "Cancel a membership",
+              "C": "Issue a full refund",
+              "D": "Process the payment manually"
+            },
+            "answer": "D",
+            "explanation": "전화상으로 수동 결제 처리(process manually)를 해주겠다고 제안했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET11",
+        "context_type": "Human Resources",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "UK"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "W: Because of the upcoming relocation, we need to update our address in the payroll system. M: Right. We also need to notify the health insurance provider. W: I almost forgot. Could you draft an email to the staff reminding them about the commute changes? M: Sure, I'll include the maps of the new parking garage as well.",
+        "questions": [
+          {
+            "id": "LC3-62",
+            "question": "What needs to be updated?",
+            "options": {
+              "A": "The company website",
+              "B": "The employee handbook",
+              "C": "The vacation policy",
+              "D": "The payroll system"
+            },
+            "answer": "D",
+            "explanation": "급여 시스템(payroll system)의 주소를 업데이트해야 한다고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-63",
+            "question": "Who else must be notified?",
+            "options": {
+              "A": "The building security",
+              "B": "The internet provider",
+              "C": "The health insurance provider",
+              "D": "The local government"
+            },
+            "answer": "C",
+            "explanation": "건강 보험사(health insurance provider)에게도 알려야 한다고 했으므로 (C) 정답."
+          },
+          {
+            "id": "LC3-64",
+            "question": "What will the man include in his email?",
+            "options": {
+              "A": "Lunch menus",
+              "B": "Parking maps",
+              "C": "Tax forms",
+              "D": "Meeting minutes"
+            },
+            "answer": "B",
+            "explanation": "새 주차장 지도(parking maps)를 이메일에 포함하겠다고 했으므로 (B) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET12",
+        "context_type": "Executive Committee",
+        "speakers": [
+          {
+            "name": "Man 1",
+            "gender": "Male",
+            "accent": "AU"
+          },
+          {
+            "name": "Man 2",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "M1: For our 50th-anniversary milestone, we should invite our retired founders. M2: I agree. It would be an honor to have them speak at the ceremony. M1: The challenge is reaching them. They moved abroad a few years ago. M2: I have their current mailing addresses. I can send formal invitations via express courier.",
+        "questions": [
+          {
+            "id": "LC3-65",
+            "question": "Who are the speakers planning to invite?",
+            "options": {
+              "A": "Local politicians",
+              "B": "New investors",
+              "C": "Top customers",
+              "D": "Retired founders"
+            },
+            "answer": "D",
+            "explanation": "창립 기념일에 은퇴한 설립자(retired founders)들을 초대하자고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-66",
+            "question": "What milestone is being celebrated?",
+            "options": {
+              "A": "10th",
+              "B": "25th",
+              "C": "50th",
+              "D": "100th"
+            },
+            "answer": "C",
+            "explanation": "50주년(50th-anniversary)이라고 언급했으므로 (C) 정답."
+          },
+          {
+            "id": "LC3-67",
+            "question": "How will the invitations be sent?",
+            "options": {
+              "A": "By email",
+              "B": "By text message",
+              "C": "By fax",
+              "D": "By express courier"
+            },
+            "answer": "D",
+            "explanation": "급행 택배(express courier)로 공식 초대장을 보내겠다고 했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC3-SET13",
+        "context_type": "Software Development",
+        "speakers": [
+          {
+            "name": "Woman",
+            "gender": "Female",
+            "accent": "US"
+          },
+          {
+            "name": "Man",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "W: Have we fixed the bug that causes the checkout error during high traffic? M: We found the root cause. It's a database lock issue. We are writing a patch now. W: We must deploy it before the holiday sale starts on Friday. M: We will run the final stress tests tonight. It will be ready by Thursday morning.",
+        "questions": [
+          {
+            "id": "LC3-68",
+            "question": "What technical issue was found?",
+            "options": {
+              "A": "A broken link",
+              "B": "A database lock",
+              "C": "A missing font",
+              "D": "A lost file"
+            },
+            "answer": "B",
+            "explanation": "결제 오류의 근본 원인이 데이터베이스 잠금(database lock) 문제라고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC3-69",
+            "question": "When does the holiday sale start?",
+            "options": {
+              "A": "Monday",
+              "B": "Tuesday",
+              "C": "Thursday",
+              "D": "Friday"
+            },
+            "answer": "D",
+            "explanation": "휴일 세일이 금요일(Friday)에 시작된다고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC3-70",
+            "question": "What will happen tonight?",
+            "options": {
+              "A": "Stress tests",
+              "B": "A staff party",
+              "C": "A client meeting",
+              "D": "A system shutdown"
+            },
+            "answer": "A",
+            "explanation": "오늘 밤 최종 스트레스 테스트(stress tests)를 진행한다고 했으므로 (A) 정답."
+          }
+        ]
+      }
+    ],
+    "part4": [
+      {
+        "set_id": "LC4-SET01",
+        "context_type": "Internal Announcement",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Attention all staff. As you know, our office relocation is scheduled for the end of this month. To ensure a smooth transition, we have hired a professional moving service. They will drop off moving crates in the lobby tomorrow morning. Please pick up three crates per person and pack your desk items by next Wednesday. Label them clearly with your name and new desk number. If you need special packaging for fragile items, contact facilities.",
+        "questions": [
+          {
+            "id": "LC4-71",
+            "question": "What is the purpose of the announcement?",
+            "options": {
+              "A": "To explain relocation procedures",
+              "B": "To introduce new staff",
+              "C": "To announce a promotion",
+              "D": "To discuss a budget cut"
+            },
+            "answer": "A",
+            "explanation": "사무실 이사 절차(relocation procedures)를 안내하고 있으므로 (A) 정답."
+          },
+          {
+            "id": "LC4-72",
+            "question": "When will crates be dropped off?",
+            "options": {
+              "A": "Today",
+              "B": "Tomorrow morning",
+              "C": "Next Monday",
+              "D": "Next Wednesday"
+            },
+            "answer": "B",
+            "explanation": "내일 아침(tomorrow morning) 이사 상자를 두고 갈 것이라 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-73",
+            "question": "What should employees do if they have fragile items?",
+            "options": {
+              "A": "Leave them behind",
+              "B": "Take them home",
+              "C": "Contact the facilities department",
+              "D": "Pack them in paper"
+            },
+            "answer": "C",
+            "explanation": "깨지기 쉬운 물건이 있다면 시설부(facilities)에 연락하라고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET02",
+        "context_type": "Public Speech",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Welcome everyone to our 30th-anniversary gala. Looking around this room, I am deeply moved by how much we have grown. Thirty years ago, we started in a small garage with just four employees. Today, we have offices worldwide. None of this would be possible without your dedication. Tonight, after dinner, we will present special awards to employees who have been with us for over twenty years. Please enjoy the evening and the live entertainment.",
+        "questions": [
+          {
+            "id": "LC4-74",
+            "question": "What occasion is being celebrated?",
+            "options": {
+              "A": "A retirement",
+              "B": "A merger",
+              "C": "A product launch",
+              "D": "A company anniversary"
+            },
+            "answer": "D",
+            "explanation": "30주년 기념 행사(anniversary)에서 하는 연설이므로 (D) 정답."
+          },
+          {
+            "id": "LC4-75",
+            "question": "Where did the company originally start?",
+            "options": {
+              "A": "In a garage",
+              "B": "In an office building",
+              "C": "In a warehouse",
+              "D": "In a basement"
+            },
+            "answer": "A",
+            "explanation": "30년 전 작은 차고(garage)에서 시작했다고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC4-76",
+            "question": "What will happen after dinner?",
+            "options": {
+              "A": "A video presentation",
+              "B": "An awards ceremony",
+              "C": "A charity auction",
+              "D": "A dance competition"
+            },
+            "answer": "B",
+            "explanation": "저녁 식사 후에 장기 근속자에게 특별상(awards)을 수여한다고 했으므로 (B) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET03",
+        "context_type": "Voicemail Message",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Hello, this is technical support returning your call. You left a message regarding an error message during the checkout process on our web store. We have identified the issue. It was caused by an expired security certificate on our payment server. The certificate has been renewed, and the system is fully operational again. To apologize for the inconvenience, I have emailed you a coupon code for free shipping on your next order.",
+        "questions": [
+          {
+            "id": "LC4-77",
+            "question": "Who is the speaker?",
+            "options": {
+              "A": "A delivery driver",
+              "B": "A bank teller",
+              "C": "A tech support representative",
+              "D": "A store manager"
+            },
+            "answer": "C",
+            "explanation": "자신을 기술 지원(technical support) 부서라고 소개했으므로 (C) 정답."
+          },
+          {
+            "id": "LC4-78",
+            "question": "What caused the web store error?",
+            "options": {
+              "A": "A wrong password",
+              "B": "A missing item",
+              "C": "A bad connection",
+              "D": "An expired certificate"
+            },
+            "answer": "D",
+            "explanation": "보안 인증서 만료(expired security certificate) 때문이라고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC4-79",
+            "question": "What did the speaker email to the listener?",
+            "options": {
+              "A": "A free shipping coupon",
+              "B": "An invoice",
+              "C": "A new password",
+              "D": "A tracking number"
+            },
+            "answer": "A",
+            "explanation": "불편 사과 명목으로 무료 배송 쿠폰(free shipping coupon)을 보냈으므로 (A) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET04",
+        "context_type": "Recorded Message",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Thank you for calling Harrison Consulting. Please note that our office is currently closed because we are in the process of relocating to our new headquarters in the downtown financial district. Our phone lines and email servers will be offline until Monday, October 12th. If you have an urgent inquiry regarding a current project, please contact your account manager directly on their mobile phone. Thank you for your patience.",
+        "questions": [
+          {
+            "id": "LC4-80",
+            "question": "Why is the office currently closed?",
+            "options": {
+              "A": "It is a national holiday",
+              "B": "The company is relocating",
+              "C": "There is a power outage",
+              "D": "The building is being cleaned"
+            },
+            "answer": "B",
+            "explanation": "다운타운으로 사무실을 이전(relocating)하는 중이라서 문을 닫았으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-81",
+            "question": "When will the office reopen?",
+            "options": {
+              "A": "On Friday",
+              "B": "On Saturday",
+              "C": "On Monday",
+              "D": "On Tuesday"
+            },
+            "answer": "C",
+            "explanation": "월요일(Monday)까지 오프라인 상태라고 했으므로 월요일 재개장을 알 수 있어 (C) 정답."
+          },
+          {
+            "id": "LC4-82",
+            "question": "How can a caller get help with an urgent inquiry?",
+            "options": {
+              "A": "Leave a voice message",
+              "B": "Send an email",
+              "C": "Visit the new office",
+              "D": "Call a mobile phone"
+            },
+            "answer": "D",
+            "explanation": "긴급한 용건은 담당자의 휴대전화(mobile phone)로 연락하라고 했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET05",
+        "context_type": "Radio Broadcast",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Next up in local business news, the popular clothing brand 'Velvet Threads' is throwing a massive street festival this Saturday to celebrate their 10th anniversary. The event will take place on Main Street, which will be closed to vehicle traffic all day. Attendees can enjoy food trucks, live fashion shows, and special pop-up shops offering exclusive discounts. The mayor will also give a brief speech at noon to congratulate the founders.",
+        "questions": [
+          {
+            "id": "LC4-83",
+            "question": "What is being celebrated this Saturday?",
+            "options": {
+              "A": "A brand's anniversary",
+              "B": "A city holiday",
+              "C": "A store grand opening",
+              "D": "A fashion week"
+            },
+            "answer": "A",
+            "explanation": "의류 브랜드의 10주년(anniversary)을 축하하는 행사라고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC4-84",
+            "question": "Where will the event be held?",
+            "options": {
+              "A": "In a park",
+              "B": "On Main Street",
+              "C": "At a stadium",
+              "D": "Inside a mall"
+            },
+            "answer": "B",
+            "explanation": "행사가 Main Street에서 열린다고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-85",
+            "question": "Who is scheduled to speak at noon?",
+            "options": {
+              "A": "A fashion designer",
+              "B": "The company CEO",
+              "C": "The local mayor",
+              "D": "A famous musician"
+            },
+            "answer": "C",
+            "explanation": "정오에 시장(mayor)이 축사를 할 예정이라고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET06",
+        "context_type": "Excerpts from a Meeting",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Before we wrap up, I need to discuss the checkout error we experienced during Black Friday. Our shopping cart software completely failed under the high traffic, costing us thousands in lost sales. Moving forward, we are migrating to a more robust, cloud-based e-commerce platform. The transition will happen next month. I want the engineering team to prioritize thorough stress testing so this never happens again.",
+        "questions": [
+          {
+            "id": "LC4-86",
+            "question": "What problem occurred during Black Friday?",
+            "options": {
+              "A": "Items were mispriced",
+              "B": "Shipping was delayed",
+              "C": "A warehouse flooded",
+              "D": "Software failed"
+            },
+            "answer": "D",
+            "explanation": "트래픽 폭주로 장바구니 소프트웨어가 고장났다(software failed)고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC4-87",
+            "question": "What is the company doing next month?",
+            "options": {
+              "A": "Migrating to a new platform",
+              "B": "Opening a new store",
+              "C": "Hiring new staff",
+              "D": "Launching a product"
+            },
+            "answer": "A",
+            "explanation": "다음 달에 클라우드 기반 새 플랫폼으로 이전(migrating)한다고 했으므로 (A) 정답."
+          },
+          {
+            "id": "LC4-88",
+            "question": "What does the speaker ask the engineers to do?",
+            "options": {
+              "A": "Fix old computers",
+              "B": "Perform stress testing",
+              "C": "Write a manual",
+              "D": "Work overtime"
+            },
+            "answer": "B",
+            "explanation": "엔지니어 팀에게 철저한 스트레스 테스트(stress testing)를 우선시하라고 지시했으므로 (B) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET07",
+        "context_type": "Tour Guide Talk",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "Welcome to our new corporate campus. As you can see, our relocation allowed us to design a much greener workspace. Over here on your left is the employee cafeteria, which features entirely organic ingredients sourced locally. Upstairs, we have open-plan workstations to encourage collaboration. Please stay close to the group, as certain areas are still restricted for final construction work. Now, let's head over to the fitness center.",
+        "questions": [
+          {
+            "id": "LC4-89",
+            "question": "Where is the talk taking place?",
+            "options": {
+              "A": "At a construction site",
+              "B": "At a farm",
+              "C": "At a new corporate campus",
+              "D": "At a restaurant"
+            },
+            "answer": "C",
+            "explanation": "새 기업 캠퍼스(corporate campus)에 오신 것을 환영한다는 인사에서 (C) 정답."
+          },
+          {
+            "id": "LC4-90",
+            "question": "Why is the speaker asking the group to stay close?",
+            "options": {
+              "A": "It is very crowded",
+              "B": "It is easy to get lost",
+              "C": "The doors lock automatically",
+              "D": "Some areas are under construction"
+            },
+            "answer": "D",
+            "explanation": "일부 구역에서 아직 마무리 공사(construction work)가 진행 중이라 출입이 제한되므로 뭉쳐 다니라고 했으므로 (D) 정답."
+          },
+          {
+            "id": "LC4-91",
+            "question": "Where will the group go next?",
+            "options": {
+              "A": "To a fitness center",
+              "B": "To a meeting room",
+              "C": "To the cafeteria",
+              "D": "To the lobby"
+            },
+            "answer": "A",
+            "explanation": "마지막에 피트니스 센터(fitness center)로 가자고 제안했으므로 (A) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET08",
+        "context_type": "Telephone Message",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "US"
+          }
+        ],
+        "audio_script": "Hi Sarah, it's David. I'm reviewing the guest list for the firm's anniversary banquet. I noticed we haven't received RSVPs from the board of directors yet. Could you call their assistants this afternoon to confirm their attendance? We need the final headcount for the caterer by Friday morning at the latest. Also, let me know if anyone requires a vegetarian meal. Thanks.",
+        "questions": [
+          {
+            "id": "LC4-92",
+            "question": "What is David reviewing?",
+            "options": {
+              "A": "A catering menu",
+              "B": "A guest list",
+              "C": "A financial spreadsheet",
+              "D": "A seating chart"
+            },
+            "answer": "B",
+            "explanation": "기념 연회의 하객 명단(guest list)을 검토 중이라고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-93",
+            "question": "What does David ask Sarah to do?",
+            "options": {
+              "A": "Book a venue",
+              "B": "Pay an invoice",
+              "C": "Contact some assistants",
+              "D": "Order decorations"
+            },
+            "answer": "C",
+            "explanation": "이사회의 비서들(assistants)에게 전화해서 참석 여부를 확인해 달라고 했으므로 (C) 정답."
+          },
+          {
+            "id": "LC4-94",
+            "question": "What specific requirement does David mention?",
+            "options": {
+              "A": "Allergies",
+              "B": "Wheelchair access",
+              "C": "Parking passes",
+              "D": "Vegetarian meals"
+            },
+            "answer": "D",
+            "explanation": "채식(vegetarian meal)이 필요한 사람이 있는지 알려달라고 했으므로 (D) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET09",
+        "context_type": "Instructional Talk",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Female",
+            "accent": "AU"
+          }
+        ],
+        "audio_script": "Let's review the new troubleshooting protocol for online checkout errors. If a customer calls about a frozen payment screen, first, ask them to clear their browser cache. If that fails, log into our administrative dashboard and manually check their payment status. It is crucial to verify if the charge was processed before you attempt a manual retry. We want to avoid charging customers twice at all costs.",
+        "questions": [
+          {
+            "id": "LC4-95",
+            "question": "Who is the intended audience?",
+            "options": {
+              "A": "Customer service agents",
+              "B": "Software developers",
+              "C": "Store cashiers",
+              "D": "Accountants"
+            },
+            "answer": "A",
+            "explanation": "고객이 전화했을 때 응대하는 절차를 설명하므로 상담원(Customer service agents) 대상임을 알 수 있어 (A) 정답."
+          },
+          {
+            "id": "LC4-96",
+            "question": "What is the first step recommended?",
+            "options": {
+              "A": "Restarting a computer",
+              "B": "Clearing the browser cache",
+              "C": "Refreshing the page",
+              "D": "Checking the network"
+            },
+            "answer": "B",
+            "explanation": "첫 번째로 고객에게 브라우저 캐시 삭제(clear browser cache)를 요청하라고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-97",
+            "question": "What must the listener verify in the administrative dashboard?",
+            "options": {
+              "A": "The shipping address",
+              "B": "The inventory level",
+              "C": "The payment status",
+              "D": "The discount code"
+            },
+            "answer": "C",
+            "explanation": "관리자 대시보드에서 수동으로 결제 상태(payment status)를 확인하라고 했으므로 (C) 정답."
+          }
+        ]
+      },
+      {
+        "set_id": "LC4-SET10",
+        "context_type": "News Report",
+        "speakers": [
+          {
+            "name": "Speaker 1",
+            "gender": "Male",
+            "accent": "UK"
+          }
+        ],
+        "audio_script": "In local tech news, software giant DataCore successfully completed its office relocation to the silicon district over the weekend. The massive move involved transporting hundreds of highly sensitive data servers. A specialized logistics firm was hired to handle the fragile equipment. DataCore's CEO stated that the new facility will allow them to hire two hundred additional engineers. Operations resume normally starting tomorrow morning.",
+        "questions": [
+          {
+            "id": "LC4-98",
+            "question": "What did DataCore do over the weekend?",
+            "options": {
+              "A": "Launched a new app",
+              "B": "Acquired a startup",
+              "C": "Hosted a seminar",
+              "D": "Relocated its office"
+            },
+            "answer": "D",
+            "explanation": "주말 동안 사무실 이전(office relocation)을 성공적으로 마쳤다고 보도했으므로 (D) 정답."
+          },
+          {
+            "id": "LC4-99",
+            "question": "What was transported during the move?",
+            "options": {
+              "A": "Office furniture",
+              "B": "Data servers",
+              "C": "Paper archives",
+              "D": "Vehicles"
+            },
+            "answer": "B",
+            "explanation": "매우 민감한 데이터 서버(data servers) 수백 대를 운송했다고 했으므로 (B) 정답."
+          },
+          {
+            "id": "LC4-100",
+            "question": "What will the new facility enable the company to do?",
+            "options": {
+              "A": "Lower product prices",
+              "B": "Save electricity",
+              "C": "Produce hardware",
+              "D": "Hire more engineers"
+            },
+            "answer": "D",
+            "explanation": "새 시설 덕분에 200명의 엔지니어를 추가 고용(hire more engineers)할 수 있게 되었다고 했으므로 (D) 정답."
+          }
+        ]
+      }
+    ]
+  },
+  "rc": {
+    "part5": [
+      {
+        "questionNumber": 101,
+        "question": "The recent updates to the employee handbook are -------- to all staff members.",
+        "options": {
+          "A": "applicable",
+          "B": "apply",
+          "C": "applying",
+          "D": "applied"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 102,
+        "question": "Customers who experience any -------- during the online payment process should contact our support team.",
+        "options": {
+          "A": "to disrupt",
+          "B": "disruptions",
+          "C": "disrupted",
+          "D": "disruptive"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 103,
+        "question": "The company's 10th anniversary gala will be held -------- May 15 at the Grand Hotel.",
+        "options": {
+          "A": "in",
+          "B": "at",
+          "C": "on",
+          "D": "from"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 104,
+        "question": "All personal belongings must be packed in the provided boxes -------- the office relocation.",
+        "options": {
+          "A": "before to",
+          "B": "ahead",
+          "C": "prior",
+          "D": "prior to"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 105,
+        "question": "We apologize for the recent -------- with our online checkout system and appreciate your patience.",
+        "options": {
+          "A": "glitch",
+          "B": "glitched",
+          "C": "glitches",
+          "D": "glitching"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 106,
+        "question": "The planning committee is -------- finalizing the guest list for the upcoming anniversary celebration.",
+        "options": {
+          "A": "current",
+          "B": "currently",
+          "C": "currency",
+          "D": "currents"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 107,
+        "question": "The new office building is located just -------- the street from the subway station.",
+        "options": {
+          "A": "along",
+          "B": "over",
+          "C": "across",
+          "D": "through"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 108,
+        "question": "Please ensure that all your payment information is entered -------- to avoid any processing delays.",
+        "options": {
+          "A": "correct",
+          "B": "corrected",
+          "C": "correction",
+          "D": "correctly"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 109,
+        "question": "The CEO -------- gave a speech during the company's annual founding anniversary event.",
+        "options": {
+          "A": "himself",
+          "B": "his",
+          "C": "him",
+          "D": "he"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 110,
+        "question": "Employees are reminded to label their moving boxes -------- the end of the week.",
+        "options": {
+          "A": "since",
+          "B": "by",
+          "C": "until",
+          "D": "as"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 111,
+        "question": "The IT department has successfully -------- the issue that was causing the website to crash.",
+        "options": {
+          "A": "resolvedly",
+          "B": "resolve",
+          "C": "resolved",
+          "D": "resolution"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 112,
+        "question": "A detailed map of the new office layout -------- to all departments next Monday.",
+        "options": {
+          "A": "will distribute",
+          "B": "distributed",
+          "C": "to be distributed",
+          "D": "will be distributed"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 113,
+        "question": "The catered lunch for the anniversary event was -------- better than last year's meal.",
+        "options": {
+          "A": "significantly",
+          "B": "significant",
+          "C": "significance",
+          "D": "signify"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 114,
+        "question": "Shoppers who encountered the payment error will receive a 15% discount on their -------- purchase.",
+        "options": {
+          "A": "later",
+          "B": "next",
+          "C": "soon",
+          "D": "following to"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 115,
+        "question": "The relocation team will be working -------- the weekend to ensure everything is ready for Monday morning.",
+        "options": {
+          "A": "among",
+          "B": "between",
+          "C": "throughout",
+          "D": "alongside"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 116,
+        "question": "Our technical support agents are trained to handle customer complaints -------- and professionally.",
+        "options": {
+          "A": "efficient",
+          "B": "efficiency",
+          "C": "efficiencies",
+          "D": "efficiently"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 117,
+        "question": "The organizing committee has chosen a very -------- venue for the company's 20th anniversary.",
+        "options": {
+          "A": "elegant",
+          "B": "elegantly",
+          "C": "elegance",
+          "D": "more elegance"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 118,
+        "question": "Anyone -------- help packing their office equipment should submit a request form online.",
+        "options": {
+          "A": "need",
+          "B": "needing",
+          "C": "needs",
+          "D": "needed"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 119,
+        "question": "We experienced a temporary system failure, -------- no sensitive customer data was compromised.",
+        "options": {
+          "A": "despite",
+          "B": "instead",
+          "C": "but",
+          "D": "or"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 120,
+        "question": "The company's recent move to a larger facility will allow for further -------- in the coming years.",
+        "options": {
+          "A": "expand",
+          "B": "expanded",
+          "C": "expandable",
+          "D": "expansion"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 121,
+        "question": "Please keep your receipt as -------- of your online purchase in case you need a refund.",
+        "options": {
+          "A": "proof",
+          "B": "prove",
+          "C": "proving",
+          "D": "proved"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 122,
+        "question": "The managing director expressed her -------- to all employees who helped organize the anniversary banquet.",
+        "options": {
+          "A": "grateful",
+          "B": "gratitude",
+          "C": "gratefully",
+          "D": "gratified"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 123,
+        "question": "Office furniture that is no longer needed will be -------- to a local charity.",
+        "options": {
+          "A": "donate",
+          "B": "donating",
+          "C": "donated",
+          "D": "donation"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 124,
+        "question": "Users who are still experiencing payment difficulties should clear their browser's cache and try --------.",
+        "options": {
+          "A": "ever",
+          "B": "yet",
+          "C": "finally",
+          "D": "again"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 125,
+        "question": "The celebration will feature live music, prize giveaways, and a -------- speech by the founder.",
+        "options": {
+          "A": "keynote",
+          "B": "keynotes",
+          "C": "keynoted",
+          "D": "keynoting"
+        },
+        "answer": "A"
+      },
+      {
+        "questionNumber": 126,
+        "question": "-------- the recent office move, some employees have reported issues with their internet connection.",
+        "options": {
+          "A": "Due",
+          "B": "Following",
+          "C": "Because",
+          "D": "Resulting"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 127,
+        "question": "We highly recommend that you update your billing details to prevent future -------- errors.",
+        "options": {
+          "A": "transacts",
+          "B": "transact",
+          "C": "transaction",
+          "D": "transacted"
+        },
+        "answer": "C"
+      },
+      {
+        "questionNumber": 128,
+        "question": "The catering company hired for the event has a reputation for providing -------- service.",
+        "options": {
+          "A": "exception",
+          "B": "exceptionally",
+          "C": "except",
+          "D": "exceptional"
+        },
+        "answer": "D"
+      },
+      {
+        "questionNumber": 129,
+        "question": "Employees must update their new office extension numbers in the directory as -------- as possible.",
+        "options": {
+          "A": "prompt",
+          "B": "promptly",
+          "C": "promptness",
+          "D": "prompted"
+        },
+        "answer": "B"
+      },
+      {
+        "questionNumber": 130,
+        "question": "To celebrate our 5th anniversary, a special discount code has been sent to our most -------- customers.",
+        "options": {
+          "A": "loyalty",
+          "B": "loyally",
+          "C": "loyalist",
+          "D": "loyal"
+        },
+        "answer": "D"
+      }
+    ],
+    "part6": [
+      {
+        "passageId": 1,
+        "topic": "Online shopping mall payment error",
+        "text": "Dear Valued Customer,\n\nWe are writing to inform you of a recent issue regarding our online checkout system. On October 12, our payment gateway experienced a temporary --------(131), which resulted in some transactions being declined or processed twice. We sincerely apologize for any inconvenience this may have caused you.\n\nOur technical team worked immediately to identify the root cause. --------(132). We have since upgraded our servers to handle higher traffic volumes securely.\n\nIf you were charged twice for a single order, a full refund for the duplicate amount has already been --------(133) to your original payment method. Please allow 3 to 5 business days for the funds to appear on your bank statement. As a token of our appreciation for your patience, please use the promo code FIX20 for 20% off your --------(134) order.\n\nSincerely,\nTrellis Retail Support",
+        "questions": [
+          {
+            "questionNumber": 131,
+            "options": {
+              "A": "malfunction",
+              "B": "malfunctions",
+              "C": "malfunctioning",
+              "D": "malfunctioned"
+            },
+            "answer": "A"
+          },
+          {
+            "questionNumber": 132,
+            "options": {
+              "A": "The new products are now available online.",
+              "B": "The problem was traced to an unexpected server overload.",
+              "C": "We are relocating our main server room next week.",
+              "D": "Our anniversary sale was a huge success."
+            },
+            "answer": "B"
+          },
+          {
+            "questionNumber": 133,
+            "options": {
+              "A": "issue",
+              "B": "issues",
+              "C": "issued",
+              "D": "issuing"
+            },
+            "answer": "C"
+          },
+          {
+            "questionNumber": 134,
+            "options": {
+              "A": "previous",
+              "B": "cancel",
+              "C": "return",
+              "D": "next"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "passageId": 2,
+        "topic": "Office relocation",
+        "text": "To: All Staff\nFrom: Human Resources\nSubject: Upcoming Office Relocation Guidelines\n\nAs you are all aware, our company will be moving to the new corporate headquarters in downtown Seattle on November 1. This relocation will provide us with much-needed space and state-of-the-art facilities.\n\nTo ensure a smooth transition, we kindly ask for your cooperation. By this Friday, please pack all your personal items into the provided cardboard --------(135). Do not pack any computer equipment, as the IT department will handle the transfer of all electronics.\n\n--------(136). These labels indicate your designated desk in the new building. It is crucial that you attach them visibly to every box.\n\nPlease note that the current office will officially close on Friday at 5:00 PM. No employees will be --------(137) to enter the premises over the weekend while the movers are working. We look forward to welcoming you to our new workspace on Monday --------(138).",
+        "questions": [
+          {
+            "questionNumber": 135,
+            "options": {
+              "A": "boxes",
+              "B": "boxed",
+              "C": "box",
+              "D": "boxing"
+            },
+            "answer": "A"
+          },
+          {
+            "questionNumber": 136,
+            "options": {
+              "A": "Please remember to submit your travel expenses.",
+              "B": "You will receive color-coded labels from your department head.",
+              "C": "The new software update will be installed automatically.",
+              "D": "A welcome reception is scheduled for next month."
+            },
+            "answer": "B"
+          },
+          {
+            "questionNumber": 137,
+            "options": {
+              "A": "permit",
+              "B": "permits",
+              "C": "permitted",
+              "D": "permission"
+            },
+            "answer": "C"
+          },
+          {
+            "questionNumber": 138,
+            "options": {
+              "A": "night",
+              "B": "suddenly",
+              "C": "evening",
+              "D": "morning"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "passageId": 3,
+        "topic": "Company founding anniversary event",
+        "text": "To: All Employees\nFrom: Event Planning Committee\nDate: March 10\nRe: 15th Anniversary Celebration\n\nWe are thrilled to announce that Nexus Corp will be celebrating its 15th founding anniversary next month! Over the past decade and a half, we have grown from a small startup into a leading software provider. This achievement would not have been possible without your hard work and --------(139).\n\nTo mark this milestone, a special gala dinner will take place on April 20 at the Sapphire Banquet Hall. --------(140). It will be an evening filled with great food, live entertainment, and an awards ceremony.\n\nTo help us finalize the catering arrangements, please RSVP by April 5. You can confirm your attendance by clicking the link --------(141) to this email. Please also indicate if you have any dietary restrictions so that our caterers can prepare --------(142) alternatives.\n\nThank you for making Nexus Corp a wonderful place to work!",
+        "questions": [
+          {
+            "questionNumber": 139,
+            "options": {
+              "A": "dedication",
+              "B": "dedicate",
+              "C": "dedicated",
+              "D": "dedicating"
+            },
+            "answer": "A"
+          },
+          {
+            "questionNumber": 140,
+            "options": {
+              "A": "We are moving to a new office downtown.",
+              "B": "All employees and their plus-ones are invited to attend.",
+              "C": "The online payment system is currently down.",
+              "D": "Please submit your quarterly reports on time."
+            },
+            "answer": "B"
+          },
+          {
+            "questionNumber": 141,
+            "options": {
+              "A": "attach",
+              "B": "attaches",
+              "C": "attached",
+              "D": "attaching"
+            },
+            "answer": "C"
+          },
+          {
+            "questionNumber": 142,
+            "options": {
+              "A": "suit",
+              "B": "suitably",
+              "C": "suitability",
+              "D": "suitable"
+            },
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "passageId": 4,
+        "topic": "Notice of Scheduled Maintenance",
+        "text": "Dear Subscribers,\n\nTo continue providing you with high-quality streaming services, StreamWave will be conducting scheduled system maintenance on Tuesday, August 12, from 2:00 AM to 5:00 AM EST.\n\nDuring this time, the StreamWave application and website will be --------(143). Users who are logged in prior to the maintenance may experience abrupt disconnections. We strongly recommend that you log out before the maintenance window begins.\n\n--------(144). The upgrade will introduce a more personalized recommendation engine and faster video load times.\n\nOnce the maintenance is complete, you will need to update your mobile app to the latest --------(145). We appreciate your understanding and continued support as we work to improve our platform --------(146) your entertainment needs.\n\nSincerely,\nStreamWave Technical Team",
+        "questions": [
+          {
+            "questionNumber": 143,
+            "options": {
+              "A": "unavailable",
+              "B": "unavailably",
+              "C": "unavailability",
+              "D": "unavailabilities"
+            },
+            "answer": "A"
+          },
+          {
+            "questionNumber": 144,
+            "options": {
+              "A": "Your subscription fee will increase next month.",
+              "B": "This downtime is necessary to deploy our new server architecture.",
+              "C": "We have relocated our headquarters to Los Angeles.",
+              "D": "Our founding anniversary is coming up soon."
+            },
+            "answer": "B"
+          },
+          {
+            "questionNumber": 145,
+            "options": {
+              "A": "verse",
+              "B": "versed",
+              "C": "version",
+              "D": "versions"
+            },
+            "answer": "C"
+          },
+          {
+            "questionNumber": 146,
+            "options": {
+              "A": "serve",
+              "B": "served",
+              "C": "serving",
+              "D": "to serve"
+            },
+            "answer": "D"
+          }
+        ]
+      }
+    ],
+    "part7": [
+      {
+        "setNumber": 1,
+        "format": "Single Passage",
+        "passages": [
+          "To: J.Smith\nFrom: Customer Service (EasyBuy)\nSubject: Payment Error\nDate: October 10\n\nDear Mr. Smith,\nWe noticed an error processing your payment for order #112. We kindly ask you to update your billing information so we can process your order. If not updated within 3 days, the order will be canceled.\nSincerely,\nEasyBuy Team"
+        ],
+        "questions": [
+          {
+            "questionNumber": 147,
+            "questionText": "Why was the email sent?",
+            "options": {
+              "A": "To report a payment issue.",
+              "B": "To advertise a product.",
+              "C": "To invite to an event.",
+              "D": "To cancel an order."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 148,
+            "questionText": "What is the customer asked to do?",
+            "options": {
+              "A": "Call a hotline.",
+              "B": "Update billing information.",
+              "C": "Return an item.",
+              "D": "Visit a store."
+            },
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "setNumber": 2,
+        "format": "Single Passage",
+        "passages": [
+          "To: All Staff\nFrom: Facilities Management\nSubject: Office Relocation\nDate: May 5\n\nPlease be informed that we are moving our headquarters to the 5th floor next week. All employees are required to pack their desks and belongings before next Thursday. Thank you for your cooperation."
+        ],
+        "questions": [
+          {
+            "questionNumber": 149,
+            "questionText": "Who is the notice for?",
+            "options": {
+              "A": "Building maintenance.",
+              "B": "IT staff only.",
+              "C": "Company employees.",
+              "D": "New clients."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 150,
+            "questionText": "When is the move happening?",
+            "options": {
+              "A": "Tomorrow.",
+              "B": "Next month.",
+              "C": "In two weeks.",
+              "D": "Next week."
+            },
+            "correctAnswer": "D"
+          }
+        ]
+      },
+      {
+        "setNumber": 3,
+        "format": "Single Passage",
+        "passages": [
+          "You are invited!\nTechNova's 10th Anniversary Banquet\n\nJoin us in celebrating a decade of innovation and growth.\nDate: May 10\nTime: 7:00 PM\nLocation: The Grand Hotel, Grand Ballroom\nRSVP by May 1."
+        ],
+        "questions": [
+          {
+            "questionNumber": 151,
+            "questionText": "What is being celebrated?",
+            "options": {
+              "A": "A retirement.",
+              "B": "A business anniversary.",
+              "C": "A holiday.",
+              "D": "A relocation."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 152,
+            "questionText": "Where will the event be held?",
+            "options": {
+              "A": "At the main office.",
+              "B": "At a restaurant.",
+              "C": "At a hotel.",
+              "D": "At a park."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      },
+      {
+        "setNumber": 4,
+        "format": "Single Passage",
+        "passages": [
+          "EasyShop FAQ - Payment Errors\n\nQ: Why did my card fail?\nA: It might be due to incorrect details entered or a temporary server load on our website. Please check your card numbers and try again.\n\nQ: Will I be charged twice if I click 'pay' again?\nA: No, our system prevents double charging. Only one transaction will go through successfully."
+        ],
+        "questions": [
+          {
+            "questionNumber": 153,
+            "questionText": "Where would this information most likely be found?",
+            "options": {
+              "A": "On a website.",
+              "B": "In a magazine.",
+              "C": "In an employee handbook.",
+              "D": "On a billboard."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 154,
+            "questionText": "What might cause a card to fail according to the text?",
+            "options": {
+              "A": "High server load at a bank.",
+              "B": "Out of stock items.",
+              "C": "Changing a password.",
+              "D": "Incorrect details."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 155,
+            "questionText": "What does the FAQ assure customers about?",
+            "options": {
+              "A": "Double charging.",
+              "B": "Delivery times.",
+              "C": "Refund policies.",
+              "D": "Security breaches."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "setNumber": 5,
+        "format": "Single Passage",
+        "passages": [
+          "MEMO\nTo: All Employees\nFrom: HR Department\nDate: June 10\nSubject: Moving Procedures\n\nAs we prepare for our relocation, please follow these moving procedures. Pack only your personal items and paperwork in the provided boxes. Please do not pack computer equipment; the IT team will handle that. Ensure a label is placed on every box with your name on it."
+        ],
+        "questions": [
+          {
+            "questionNumber": 156,
+            "questionText": "What is the memo about?",
+            "options": {
+              "A": "Vacation policies.",
+              "B": "Moving procedures.",
+              "C": "Safety rules.",
+              "D": "Budget cuts."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 157,
+            "questionText": "What should employees NOT pack?",
+            "options": {
+              "A": "Books.",
+              "B": "Personal items.",
+              "C": "Computer equipment.",
+              "D": "Stationery."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 158,
+            "questionText": "What must be placed on the boxes?",
+            "options": {
+              "A": "A signature.",
+              "B": "A date.",
+              "C": "A warning sign.",
+              "D": "A label."
+            },
+            "correctAnswer": "D"
+          }
+        ]
+      },
+      {
+        "setNumber": 6,
+        "format": "Single Passage",
+        "passages": [
+          "TechNova Celebrates 10 Years\n\nLast Friday, TechNova celebrated its 10th anniversary with a spectacular gala. The CEO gave an inspiring speech about the company's future goals. Following the speech, several employee recognition awards were presented to outstanding staff members."
+        ],
+        "questions": [
+          {
+            "questionNumber": 159,
+            "questionText": "What is the article mainly about?",
+            "options": {
+              "A": "A recent company event.",
+              "B": "A new product launch.",
+              "C": "A corporate merger.",
+              "D": "A charity run."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 160,
+            "questionText": "Who gave a speech?",
+            "options": {
+              "A": "The founder.",
+              "B": "The CEO.",
+              "C": "A guest speaker.",
+              "D": "A client."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 161,
+            "questionText": "What happened at the gala?",
+            "options": {
+              "A": "A new logo was revealed.",
+              "B": "A contract was signed.",
+              "C": "Awards were presented.",
+              "D": "A raffle was held."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      },
+      {
+        "setNumber": 7,
+        "format": "Single Passage",
+        "passages": [
+          "Customer Review: FashionStore\nRating: 2/5\n\nI tried to purchase some clothing on FashionStore yesterday. It was very frustrating. The website crashed three times while I was on the payment page. Finally, the transaction went through, but the checkout experience needs serious improvement."
+        ],
+        "questions": [
+          {
+            "questionNumber": 162,
+            "questionText": "What did the customer attempt to buy?",
+            "options": {
+              "A": "Electronics.",
+              "B": "Furniture.",
+              "C": "Groceries.",
+              "D": "Clothing."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 163,
+            "questionText": "What was the main problem?",
+            "options": {
+              "A": "The website crashed.",
+              "B": "The item was too small.",
+              "C": "The package was lost.",
+              "D": "The color was wrong."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 164,
+            "questionText": "How many times did the website fail?",
+            "options": {
+              "A": "Two.",
+              "B": "Three.",
+              "C": "Four.",
+              "D": "Five."
+            },
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "setNumber": 8,
+        "format": "Single Passage",
+        "passages": [
+          "Dear Clients,\n\nWe are writing to announce that our accounting firm is moving to a new office space. Effective August 1, our new address will be 100 Main St. Our services and phone numbers will remain the same. Please update your address book accordingly to ensure you receive our mailings.\n\nBest regards,\nSmith & Co."
+        ],
+        "questions": [
+          {
+            "questionNumber": 165,
+            "questionText": "What kind of business is moving?",
+            "options": {
+              "A": "A law firm.",
+              "B": "A marketing agency.",
+              "C": "An accounting firm.",
+              "D": "A construction company."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 166,
+            "questionText": "What is the purpose of the letter?",
+            "options": {
+              "A": "To apologize for a delay.",
+              "B": "To introduce a new partner.",
+              "C": "To advertise a sale.",
+              "D": "To announce a new address."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 167,
+            "questionText": "What should clients do?",
+            "options": {
+              "A": "Update their address book.",
+              "B": "Make a payment.",
+              "C": "Call the office.",
+              "D": "Sign a new contract."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "setNumber": 9,
+        "format": "Single Passage",
+        "passages": [
+          "TechNova Anniversary Event Schedule\n\n9:00 AM - Breakfast buffet\n10:00 AM - Speeches by founders\n12:00 PM - Lunch break (Two hours)\n2:00 PM - Team building activities\n4:00 PM - Closing remarks"
+        ],
+        "questions": [
+          {
+            "questionNumber": 168,
+            "questionText": "What is scheduled for 9:00 AM?",
+            "options": {
+              "A": "A speech.",
+              "B": "A meal.",
+              "C": "A workshop.",
+              "D": "A tour."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 169,
+            "questionText": "What will happen at 10:00 AM?",
+            "options": {
+              "A": "A meal.",
+              "B": "A team activity.",
+              "C": "Speeches.",
+              "D": "A musical performance."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 170,
+            "questionText": "How long is the lunch break?",
+            "options": {
+              "A": "30 minutes.",
+              "B": "One hour.",
+              "C": "90 minutes.",
+              "D": "Two hours."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 171,
+            "questionText": "What is the first activity after lunch?",
+            "options": {
+              "A": "Team building.",
+              "B": "Closing remarks.",
+              "C": "A video presentation.",
+              "D": "Dinner."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "setNumber": 10,
+        "format": "Single Passage",
+        "passages": [
+          "Job Opening: IT Specialist\n\nEasyShop is looking for a skilled IT specialist to join our web team. The primary responsibility will be fixing website errors, particularly related to the payment gateway. Applicants must have at least 3 years of previous experience in web development. To apply, please send your resume and cover letter by email to hr@easyshop.com."
+        ],
+        "questions": [
+          {
+            "questionNumber": 172,
+            "questionText": "What position is being advertised?",
+            "options": {
+              "A": "Customer service agent.",
+              "B": "IT specialist.",
+              "C": "Marketing director.",
+              "D": "Accountant."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 173,
+            "questionText": "What is a requirement for the job?",
+            "options": {
+              "A": "A university degree.",
+              "B": "Knowing a foreign language.",
+              "C": "Previous experience.",
+              "D": "A driver's license."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 174,
+            "questionText": "How should applicants apply?",
+            "options": {
+              "A": "By visiting in person.",
+              "B": "By calling a manager.",
+              "C": "By filling out a web form.",
+              "D": "By sending an email."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 175,
+            "questionText": "What is the main task of the job?",
+            "options": {
+              "A": "Fixing website errors.",
+              "B": "Selling products.",
+              "C": "Training new staff.",
+              "D": "Designing a logo."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "setNumber": 11,
+        "format": "Double Passage",
+        "passages": [
+          "To: Customer Service\nFrom: Bob Johnson\nDate: July 12\nSubject: Order 55 issue\n\nI recently purchased some items (Order #55). However, checking my bank statement, I see that I have been double-charged. Please refund the extra charge immediately.",
+          "To: Bob Johnson\nFrom: Customer Service\nDate: July 13\nSubject: RE: Order 55 issue\n\nDear Bob, we looked into this. It appears to be a bank display error; our system shows only one charge was processed. We apologize for the confusion. Please accept the attached discount coupon for 10% off your next purchase."
+        ],
+        "questions": [
+          {
+            "questionNumber": 176,
+            "questionText": "What is Bob's complaint?",
+            "options": {
+              "A": "Late delivery.",
+              "B": "Being double-charged.",
+              "C": "A broken item.",
+              "D": "A missing coupon."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 177,
+            "questionText": "What order number does he mention?",
+            "options": {
+              "A": "10.",
+              "B": "12.",
+              "C": "55.",
+              "D": "100."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 178,
+            "questionText": "What does the customer service agent explain?",
+            "options": {
+              "A": "The bank account is closed.",
+              "B": "The card is expired.",
+              "C": "The item was out of stock.",
+              "D": "It was a bank display error."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 179,
+            "questionText": "What is attached to the second email?",
+            "options": {
+              "A": "A discount coupon.",
+              "B": "A receipt.",
+              "C": "A shipping label.",
+              "D": "A photograph."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 180,
+            "questionText": "What will Bob most likely do next?",
+            "options": {
+              "A": "Cancel his credit card.",
+              "B": "Use the coupon.",
+              "C": "Change his bank.",
+              "D": "Call a lawyer."
+            },
+            "correctAnswer": "B"
+          }
+        ]
+      },
+      {
+        "setNumber": 12,
+        "format": "Double Passage",
+        "passages": [
+          "Office Relocation Schedule\nThe official move date to our new building is June 1. All departments must have their moving boxes ready by the end of the day on May 30.",
+          "To: Sales Team\nFrom: Sue Jenkins\nDate: May 25\nSubject: Packing time\n\nTeam, I know we have a lot of work and client meetings this week. However, we need to pack our desks. Let's all dedicate one hour on Friday afternoon to pack our things so we are ready for the deadline."
+        ],
+        "questions": [
+          {
+            "questionNumber": 181,
+            "questionText": "When is the official move date?",
+            "options": {
+              "A": "May 1.",
+              "B": "May 29.",
+              "C": "June 1.",
+              "D": "June 5."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 182,
+            "questionText": "By when must the boxes be ready?",
+            "options": {
+              "A": "May 20.",
+              "B": "May 25.",
+              "C": "May 29.",
+              "D": "May 30."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 183,
+            "questionText": "Why did Sue send the email?",
+            "options": {
+              "A": "To arrange packing time.",
+              "B": "To cancel the move.",
+              "C": "To complain about noise.",
+              "D": "To ask for volunteers."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 184,
+            "questionText": "When will the team pack their belongings?",
+            "options": {
+              "A": "On Monday.",
+              "B": "On Friday.",
+              "C": "On Saturday.",
+              "D": "On Sunday."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 185,
+            "questionText": "What is true about the sales team this week?",
+            "options": {
+              "A": "They are on vacation.",
+              "B": "They are moving to a different city.",
+              "C": "They have a lot of work.",
+              "D": "They lost a big client."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      },
+      {
+        "setNumber": 13,
+        "format": "Triple Passage",
+        "passages": [
+          "To: Planning Committee\nFrom: John Doe\nSubject: Catering Options\nWe need to decide on food for the anniversary event. See the attached options.",
+          "Catering Options:\nOption A: Italian Pasta Buffet - $20 per person\nOption B: Outdoor BBQ Grill - $25 per person (Requires outdoor space)\nOption C: Vegetarian Banquet - $15 per person",
+          "To: John Doe\nFrom: Mary Smith\nSubject: RE: Catering Options\nSince the forecast predicts possible rain, we should avoid the outdoor option. Let's go with the most affordable choice to save our budget for decorations."
+        ],
+        "questions": [
+          {
+            "questionNumber": 186,
+            "questionText": "What is the purpose of the first email?",
+            "options": {
+              "A": "To announce a new menu.",
+              "B": "To hire a chef.",
+              "C": "To invite people to a party.",
+              "D": "To discuss food choices."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 187,
+            "questionText": "How much does Option A cost?",
+            "options": {
+              "A": "$20.",
+              "B": "$15.",
+              "C": "$25.",
+              "D": "$30."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 188,
+            "questionText": "Which option is strictly for outdoors?",
+            "options": {
+              "A": "Option A.",
+              "B": "Option B.",
+              "C": "Option C.",
+              "D": "All of them."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 189,
+            "questionText": "Why does Mary reject the outdoor option?",
+            "options": {
+              "A": "It is too expensive.",
+              "B": "She does not like BBQ.",
+              "C": "Because of possible rain.",
+              "D": "The location is too far."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 190,
+            "questionText": "Which option will they most likely choose?",
+            "options": {
+              "A": "Option A.",
+              "B": "Option B.",
+              "C": "They will cook themselves.",
+              "D": "Option C."
+            },
+            "correctAnswer": "D"
+          }
+        ]
+      },
+      {
+        "setNumber": 14,
+        "format": "Triple Passage",
+        "passages": [
+          "Scheduled Site Maintenance\nPlease be advised that our website will undergo system maintenance on August 1 from 10:00 PM to midnight. During this time, users may experience payment failures.",
+          "To: Support\nFrom: Jane Doe\nDate: August 2\nSubject: Checkout error\n\nI tried to buy a pair of shoes at 11:00 PM on August 1, but got an error message. I really need these items quickly for an upcoming wedding.",
+          "To: Jane Doe\nFrom: Support\nDate: August 2\nSubject: RE: Checkout error\n\nWe apologize. You tried to buy during our maintenance window, which caused the error. We have manually processed your order and will provide expedited shipping at no extra cost so you get them in time."
+        ],
+        "questions": [
+          {
+            "questionNumber": 191,
+            "questionText": "When did the maintenance occur?",
+            "options": {
+              "A": "On August 1.",
+              "B": "On August 2.",
+              "C": "On September 1.",
+              "D": "On September 10."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 192,
+            "questionText": "What might happen during maintenance?",
+            "options": {
+              "A": "The site will change colors.",
+              "B": "Payment failures.",
+              "C": "Products will be removed.",
+              "D": "Shipping will be delayed."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 193,
+            "questionText": "Why did Jane get an error?",
+            "options": {
+              "A": "Her card expired.",
+              "B": "She entered the wrong code.",
+              "C": "She bought during maintenance.",
+              "D": "Her bank blocked it."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 194,
+            "questionText": "What is the item Jane purchased?",
+            "options": {
+              "A": "A dress.",
+              "B": "A bag.",
+              "C": "A hat.",
+              "D": "Shoes."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 195,
+            "questionText": "What did the customer support offer Jane?",
+            "options": {
+              "A": "Expedited shipping.",
+              "B": "A full refund.",
+              "C": "A 50% discount.",
+              "D": "A free item."
+            },
+            "correctAnswer": "A"
+          }
+        ]
+      },
+      {
+        "setNumber": 15,
+        "format": "Triple Passage",
+        "passages": [
+          "To: TechCorp Management\nFrom: Prime Real Estate\nDate: September 1\nSubject: Lease Renewal\n\nYour current office lease at 100 Broadway ends on December 31. If you wish to renew, please note that the monthly rent will be increasing by 20% starting January 1.",
+          "Commercial Space Available!\nLooking for a modern office? Located at 500 Market St, our new building offers spacious offices for just $5000/month. A major benefit is that it is close to public transit, with a subway station right next door.",
+          "To: HR Director\nFrom: CEO\nDate: September 15\nSubject: Moving\n\nI saw the lease renewal letter. The rent is increasing too much. I found a great place on Market St. I want you to prepare the relocation plan so we can move before the end of the year."
+        ],
+        "questions": [
+          {
+            "questionNumber": 196,
+            "questionText": "When does the current lease end?",
+            "options": {
+              "A": "November 30.",
+              "B": "December 31.",
+              "C": "January 1.",
+              "D": "February 28."
+            },
+            "correctAnswer": "B"
+          },
+          {
+            "questionNumber": 197,
+            "questionText": "Why does the CEO want to move?",
+            "options": {
+              "A": "He wants a larger office.",
+              "B": "The current building is old.",
+              "C": "The rent is increasing.",
+              "D": "He wants to be near the subway."
+            },
+            "correctAnswer": "C"
+          },
+          {
+            "questionNumber": 198,
+            "questionText": "Where is the new office located?",
+            "options": {
+              "A": "100 Broadway.",
+              "B": "200 Main St.",
+              "C": "300 Elm St.",
+              "D": "Market St."
+            },
+            "correctAnswer": "D"
+          },
+          {
+            "questionNumber": 199,
+            "questionText": "What is a benefit of the new office mentioned in the ad?",
+            "options": {
+              "A": "It is close to public transit.",
+              "B": "It has a gym.",
+              "C": "It has free parking.",
+              "D": "It has a cafeteria."
+            },
+            "correctAnswer": "A"
+          },
+          {
+            "questionNumber": 200,
+            "questionText": "Who is asked to prepare the relocation plan?",
+            "options": {
+              "A": "The CEO.",
+              "B": "The landlord.",
+              "C": "HR.",
+              "D": "The IT department."
+            },
+            "correctAnswer": "C"
+          }
+        ]
+      }
+    ]
+  }
+}

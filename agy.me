@@ -1,0 +1,26 @@
+# Antigravity Rules & Workspace Conventions
+
+## 1. 정답 분산 정책 (Answer Distribution)
+- 다음 회차부터 토익 모의고사(JSON)를 생성할 때는 모든 파트에서 **정답 위치가 (A), (B), (C), (D)에 고르게 분산되도록**(각 25% 비율 근사) 프롬프트에 지시하고 검수해야 합니다.
+
+## 2. 데이터 폴더 구조 (Data Folder Structure)
+- 생성된 모의고사 데이터 등 모든 `.json` 파일은 반드시 프로젝트 루트의 `data/` 디렉토리 하위에 배치하여 관리해야 합니다. 루트 디렉토리에 데이터 파일이 방치되지 않도록 합니다.
+
+## 3. 중간 산출물 정리 (Intermediate Artifact Cleanup)
+- 모의고사 생성 파이프라인에서 사용된 분할 프롬프트 파일(예: `prompt_lc.txt`, `prompt_rc1.txt`, `prompt_rc2.txt`) 및 분할 출력된 중간 JSON 결과물(`out_lc.json`, `out_rc1.json` 등)은 병합 작업이 완료된 후 즉시 삭제(정리)해야 합니다.
+
+## 4. 토익 모의고사 Full Set(200문항) 생성 방식
+- 200문항 전체를 한 번의 LLM 요청으로 처리하면 토큰 제한(Token limit)으로 인해 출력 오류나 누락이 발생합니다.
+- 따라서 **프롬프트 세분화(Divide & Conquer) 파이프라인**을 사용합니다.
+  1. LC 파트 (100문제), RC Part 5~6 (46문제), RC Part 7 (54문제) 등 적어도 세 개 이상의 프롬프트로 분할합니다.
+  2. `agy --print` 명령어 또는 LLM API를 사용하여 분할된 각각의 JSON 데이터를 순차적으로 생성합니다.
+  3. Python 병합 스크립트(`generate_full_toeic.py`)를 통해 생성된 JSON 객체들을 단일 파일(예: `toeic_full_vol_X.json`)로 병합합니다.
+  4. 최종 병합된 파일은 즉시 `data/` 로 이동시키고, 중간 산출물은 폐기합니다.
+
+## 5. 이미지 생성 프롬프트 필드 추가 (Image Prompt for Claude Code)
+- 클로드 코드(Claude Code) 등을 활용해 추후 모의고사용 이미지를 자동 생성할 수 있도록, LC Part 1(사진 묘사) 등의 문항을 생성할 때는 반드시 영문 프롬프트 필드인 `"image_prompt"`를 신설하여 JSON에 포함시켜야 합니다.
+- (예시) `"image_prompt": "A man points at a launch poster while colleagues sit and listen in a meeting room"`
+
+## 6. LC Part 3/4 스키마 통일성 및 성우 다양성 확보 (Schema & Accent Diversity)
+- 앱에서 데이터를 견고하게 파싱할 수 있도록 Part 3/4 세트의 키 이름은 반드시 `passage_id`가 아닌 `set_id`로 통일해야 합니다.
+- 성우 억양이 단일 국가(예: US)로 편중되지 않도록, Part 3/4 지문에는 `context_type`과 함께 `speakers` 배열(내부에 `gender`, `accent` 속성 포함)을 필수로 기재하여 US, UK, AU 등 다양한 억양이 섞여 출력되도록 프롬프트(JSON 스키마)에 명시해야 합니다.
